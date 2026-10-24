@@ -17,6 +17,7 @@ Posts about these runs go out on X at [@0xInsiderf5](https://x.com/0xInsiderf5).
 | 2026-09-29 | [WATT A NIGHT, 30-second cartoon drawn in code](runs/2026-09-29_watt-a-night-cartoon/) | Claude Sonnet 5.5, Max | 360 drawings and its own jazz in 53 min, never heard the music |
 | 2026-09-28 | [Enigma MVUEH, break a real 1941 message offline](runs/2026-09-28_enigma-mvueh/) | Claude Opus 5.5, xhigh, Claude Code | No key found. Exact search done, one-error search stalled at 24/60, best -3.00 vs German -2.2 |
 | 2026-09-27 | [Kryptos PK9 round 2, one untested attack with a null control](runs/2026-09-27_kryptos-pk9-round2/) | Claude Opus 5.5, Max, Claude Code | Sanity 109/109 exact, PK9 -3.720 vs random -3.721 per char, not solved |
+| 2026-09-26 | [AI on the loose, a 15-second film noir made in code](runs/2026-09-26_noir-ai-on-the-loose/) | Claude Opus 5.5, Max | 360 Blender frames and its own score, -16.1 LUFS. Prompt not saved |
 <!-- runs:end -->
 
 ## What goes into a run folder
