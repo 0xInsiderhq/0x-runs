@@ -1,0 +1,150 @@
+{
+ "stats": {
+  "eye_L": {
+   "open_deg": 26.1,
+   "upper_turn": -33.5,
+   "lower_turn": 17.9,
+   "gap_mm_max": 3.59,
+   "gap_mm_mean": 1.64,
+   "loop": 32
+  },
+  "eye_R": {
+   "open_deg": 26.1,
+   "upper_turn": -33.5,
+   "lower_turn": 17.9,
+   "gap_mm_max": 3.59,
+   "gap_mm_mean": 1.64,
+   "loop": 32
+  },
+  "mouth": {
+   "gap_mm_max": 4.76,
+   "gap_mm_mean": 2.41,
+   "loop": 50
+  },
+  "lip": [
+   0.0,
+   -0.1578,
+   1.5501
+  ],
+  "nose_tip": [
+   0.0,
+   -0.1642,
+   1.5726
+  ],
+  "ears": [
+   [
+    0.0783,
+    -0.034,
+    1.6048
+   ],
+   [
+    -0.0783,
+    -0.034,
+    1.6048
+   ]
+  ],
+  "mouth_ref": {
+   "ring": 193,
+   "lip_out_mm": 1.89
+  },
+  "moved_mm_lips": 2.78,
+  "moved_mm_corners": 1.85,
+  "moved_mm_nostrils": 1.83,
+  "moved_mm_ears": 1.08,
+  "moved_mm_lid_line": 0.9,
+  "moved_mm_lid_fold": 0.01,
+  "height": 1.719,
+  "head": 0.238,
+  "heads": 7.21,
+  "verts": 12418
+ },
+ "macro": {
+  "gender": 0.62,
+  "age": 0.5,
+  "muscle": 0.6,
+  "weight": 0.42,
+  "height": 0.55,
+  "proportions": 1.0,
+  "cupsize": 0.3,
+  "firmness": 0.5,
+  "race": {
+   "african": 0.333,
+   "asian": 0.333,
+   "caucasian": 0.334
+  }
+ },
+ "targets": [
+  [
+   "measure-neck-circ-decr",
+   0.6
+  ],
+  [
+   "neck-scale-horiz-decr",
+   0.3
+  ],
+  [
+   "measure-shoulder-dist-incr",
+   0.4
+  ],
+  [
+   "torso-vshape-incr",
+   0.35
+  ],
+  [
+   "measure-hips-circ-decr",
+   0.15
+  ],
+  [
+   "head-oval",
+   0.6
+  ],
+  [
+   "l-ear-flap-decr",
+   0.3
+  ],
+  [
+   "r-ear-flap-decr",
+   0.3
+  ],
+  [
+   "nose-flaring-decr",
+   1.0
+  ],
+  [
+   "nose-nostrils-width-decr",
+   0.8
+  ],
+  [
+   "nose-point-width-decr",
+   0.4
+  ],
+  [
+   "mouth-lowerlip-volume-decr",
+   1.0
+  ],
+  [
+   "mouth-upperlip-volume-decr",
+   1.0
+  ],
+  [
+   "l-cheek-bones-incr",
+   0.55
+  ],
+  [
+   "r-cheek-bones-incr",
+   0.55
+  ],
+  [
+   "eyebrows-trans-forward",
+   0.5
+  ],
+  [
+   "chin-bones-incr",
+   0.3
+  ],
+  [
+   "chin-prominent-incr",
+   0.2
+  ]
+ ]
+}

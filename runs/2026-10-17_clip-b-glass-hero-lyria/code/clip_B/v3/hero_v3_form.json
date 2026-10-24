@@ -1,0 +1,174 @@
+{
+ "stats": {
+  "height": 1.719,
+  "head": 0.216,
+  "heads": 7.94,
+  "verts": 13380,
+  "shoulder_w": 0.521,
+  "hip_w": 0.0,
+  "nose": [
+   0.0,
+   -0.164,
+   1.573
+  ],
+  "lips": [
+   0.0,
+   -0.152,
+   1.55
+  ],
+  "ears": [
+   [
+    0.073,
+    -0.034,
+    1.605
+   ],
+   [
+    -0.073,
+    -0.034,
+    1.605
+   ]
+  ]
+ },
+ "joints": {
+  "l-eye": [
+   0.029459352372214198,
+   -0.12200872227549553,
+   1.6100910007953644
+  ],
+  "r-eye": [
+   -0.029459352372214198,
+   -0.12200872227549553,
+   1.6100910007953644
+  ],
+  "mouth": [
+   0.0,
+   -0.05796423088759184,
+   1.5770749151706696
+  ],
+  "neck": [
+   0.0,
+   -0.0068021487386431545,
+   1.4670447409152985
+  ],
+  "head": [
+   0.0,
+   -0.04524624161422253,
+   1.5703510642051697
+  ],
+  "head-2": [
+   0.0,
+   -0.03838488832116127,
+   1.7222773432731628
+  ],
+  "jaw": [
+   0.0,
+   -0.13645416125655174,
+   1.514628142118454
+  ]
+ },
+ "macro": {
+  "gender": 0.62,
+  "age": 0.5,
+  "muscle": 0.6,
+  "weight": 0.42,
+  "height": 0.55,
+  "proportions": 1.0,
+  "cupsize": 0.3,
+  "firmness": 0.5,
+  "race": {
+   "african": 0.333,
+   "asian": 0.333,
+   "caucasian": 0.334
+  }
+ },
+ "targets": [
+  [
+   "measure-neck-circ-decr",
+   0.6
+  ],
+  [
+   "neck-scale-horiz-decr",
+   0.3
+  ],
+  [
+   "measure-shoulder-dist-incr",
+   0.4
+  ],
+  [
+   "torso-vshape-incr",
+   0.35
+  ],
+  [
+   "measure-hips-circ-decr",
+   0.15
+  ],
+  [
+   "head-oval",
+   0.6
+  ],
+  [
+   "l-ear-flap-decr",
+   0.3
+  ],
+  [
+   "r-ear-flap-decr",
+   0.3
+  ],
+  [
+   "nose-flaring-decr",
+   1.0
+  ],
+  [
+   "nose-nostrils-width-decr",
+   0.8
+  ],
+  [
+   "nose-point-width-decr",
+   0.4
+  ],
+  [
+   "mouth-lowerlip-volume-decr",
+   1.0
+  ],
+  [
+   "mouth-upperlip-volume-decr",
+   1.0
+  ],
+  [
+   "l-cheek-bones-incr",
+   0.55
+  ],
+  [
+   "r-cheek-bones-incr",
+   0.55
+  ],
+  [
+   "eyebrows-trans-forward",
+   0.5
+  ],
+  [
+   "l-eye-push1-in",
+   0.5
+  ],
+  [
+   "r-eye-push1-in",
+   0.5
+  ],
+  [
+   "l-eye-push2-in",
+   0.4
+  ],
+  [
+   "r-eye-push2-in",
+   0.4
+  ],
+  [
+   "chin-bones-incr",
+   0.3
+  ],
+  [
+   "chin-prominent-incr",
+   0.2
+  ]
+ ]
+}

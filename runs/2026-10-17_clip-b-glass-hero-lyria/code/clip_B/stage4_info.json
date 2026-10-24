@@ -1,0 +1,116 @@
+{
+ "fade_from_s": 41.953,
+ "fade_beat": "downbeat",
+ "x_cut_s": 20.644,
+ "x_cut_beat": "nearest beat",
+ "x_hook_frames": 59,
+ "clip_tiktok.mp4": {
+  "ffprobe": {
+   "programs": [],
+   "streams": [
+    {
+     "codec_name": "h264",
+     "profile": "High",
+     "width": 1080,
+     "height": 1920,
+     "pix_fmt": "yuv420p",
+     "r_frame_rate": "24/1",
+     "bit_rate": "5268870",
+     "nb_frames": "1104"
+    },
+    {
+     "codec_name": "aac",
+     "profile": "LC",
+     "sample_rate": "48000",
+     "channels": 2,
+     "r_frame_rate": "0/0",
+     "bit_rate": "246172",
+     "nb_frames": "2158"
+    }
+   ],
+   "format": {
+    "duration": "46.000000",
+    "size": "31745127",
+    "bit_rate": "5520891"
+   }
+  },
+  "I": -16.0,
+  "TP": -3.9,
+  "LRA": 7.7,
+  "seconds": 46.0,
+  "err": ""
+ },
+ "clip_clean.mp4": {
+  "ffprobe": {
+   "programs": [],
+   "streams": [
+    {
+     "codec_name": "h264",
+     "profile": "High",
+     "width": 1080,
+     "height": 1920,
+     "pix_fmt": "yuv420p",
+     "r_frame_rate": "24/1",
+     "bit_rate": "5296399",
+     "nb_frames": "1104"
+    },
+    {
+     "codec_name": "aac",
+     "profile": "LC",
+     "sample_rate": "48000",
+     "channels": 2,
+     "r_frame_rate": "0/0",
+     "bit_rate": "246172",
+     "nb_frames": "2158"
+    }
+   ],
+   "format": {
+    "duration": "46.000000",
+    "size": "31903385",
+    "bit_rate": "5548414"
+   }
+  },
+  "I": -16.0,
+  "TP": -3.9,
+  "LRA": 7.7,
+  "seconds": 46.0,
+  "err": ""
+ },
+ "clip_x.mp4": {
+  "ffprobe": {
+   "programs": [],
+   "streams": [
+    {
+     "codec_name": "h264",
+     "profile": "High",
+     "width": 1080,
+     "height": 1350,
+     "pix_fmt": "yuv420p",
+     "r_frame_rate": "24/1",
+     "bit_rate": "4221945",
+     "nb_frames": "668"
+    },
+    {
+     "codec_name": "aac",
+     "profile": "LC",
+     "sample_rate": "48000",
+     "channels": 2,
+     "r_frame_rate": "0/0",
+     "bit_rate": "237824",
+     "nb_frames": "1305"
+    }
+   ],
+   "format": {
+    "duration": "27.833333",
+    "size": "15536958",
+    "bit_rate": "4465712"
+   }
+  },
+  "I": -16.0,
+  "TP": -5.0,
+  "LRA": 4.8,
+  "seconds": 27.833,
+  "err": ""
+ },
+ "loudness_check": "OK"
+}

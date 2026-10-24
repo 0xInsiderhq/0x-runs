@@ -1,0 +1,57 @@
+{
+  "clip_test": {
+    "format": "mp3 192 kbps",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_s": 30.77,
+    "lufs": -11.2,
+    "sample_peak_dbfs": 0.4300000071525574,
+    "true_peak_dbtp": 0.4300000071525574,
+    "chorus_by_energy_s": null,
+    "energy_jump_db": null
+  },
+  "song_A": {
+    "format": "mp3 192 kbps",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_s": 65.25,
+    "lufs": -12.8,
+    "sample_peak_dbfs": 0.6100000143051147,
+    "true_peak_dbtp": 0.6200000047683716,
+    "chorus_by_energy_s": 30.5,
+    "energy_jump_db": 6.0
+  },
+  "song_B": {
+    "format": "mp3 192 kbps",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_s": 65.23,
+    "lufs": -11.5,
+    "sample_peak_dbfs": 0.4300000071525574,
+    "true_peak_dbtp": 0.47999998927116394,
+    "chorus_by_energy_s": 26.6,
+    "energy_jump_db": 7.0
+  },
+  "song_C": {
+    "format": "mp3 192 kbps",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_s": 65.99,
+    "lufs": -11.5,
+    "sample_peak_dbfs": 0.47,
+    "true_peak_dbtp": 0.48,
+    "chorus_by_energy_s": 44.2,
+    "energy_jump_db": 3.6
+  },
+  "song_D": {
+    "format": "mp3 192 kbps",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_s": 68.08,
+    "lufs": -12.3,
+    "sample_peak_dbfs": 0.25,
+    "true_peak_dbtp": 0.25,
+    "chorus_by_energy_s": 44.6,
+    "energy_jump_db": 7.3
+  }
+}

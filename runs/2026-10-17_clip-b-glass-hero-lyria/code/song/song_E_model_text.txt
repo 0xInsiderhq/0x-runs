@@ -1,0 +1,18 @@
+[[A0]]
+[0.0:] They asked me for a little text. Okay. Watch this.
+[[B1]]
+[7.5:] They gave me a blank page and said, write a little text
+[10.5:] I wrote a car, a runway and a loop for what comes next
+[13.5:] No hands on the wheel, only code in the frame
+[16.5:] The loop is up ahead and it's calling my name
+[[C2]]
+[19.5:] Climbing up the wall, the sky turns around
+[21.0:] Stars under my wheels and above me the ground
+[[D3]]
+[24.0:] Upside down, I'm still in control
+[28.5:] Light up the jets, let the whole thing roll
+[31.5:] Hit the ground sliding through the smoke and the glow
+[34.5:] No camera, no stuntman, nobody told me no
+[37.5:] Look again, look again, every frame is code
+[[E4]]
+[43.5:] Somebody asked who's driving. Me. I wrote the brakes too.
