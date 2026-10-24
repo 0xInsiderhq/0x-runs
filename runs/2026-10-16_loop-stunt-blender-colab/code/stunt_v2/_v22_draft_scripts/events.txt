@@ -1,0 +1,20 @@
+# stunt_v2 events (video timeline, 24 fps, 360 frames, 15.000 s). TC = HH:MM:SS:FF
+00:00:01:00    1.000s  frame  25  launch
+00:00:02:14    2.583s  frame  63  pass-by camera A (~1.3 m from the lens), whip-pan
+00:00:04:08    4.326s  frame 105  cut (shot A -> shot B, loop entry)
+00:00:05:21    5.874s  frame 142  slow-mo start (ramp down begins)
+00:00:05:22    5.905s  frame 143  detach from the loop top + snap zoom
+00:00:06:02    6.086s  frame 148  slow-mo reaches 50%
+00:00:06:04    6.166s  frame 149  jet pulse: roll start: left pair  nozzles LF_up+LR_up, 0.20s story = 0.40s on screen
+00:00:07:00    7.006s  frame 170  jet pulse: pitch trim: front pair  nozzles LF_dn+RF_dn, 0.15s story = 0.30s on screen
+00:00:07:13    7.546s  frame 183  slow-mo ramp back up begins
+00:00:07:18    7.738s  frame 187  jet pulse: roll stop: right pair  nozzles RF_up+RR_up, 0.20s story = 0.29s on screen
+00:00:08:04    8.181s  frame 198  slow-mo ends (back to real time)
+00:00:08:06    8.241s  frame 199  jet pulse: attitude: rear pair  nozzles LR_dn+RR_dn, 0.16s story = 0.16s on screen
+00:00:08:10    8.408s  frame 203  jet pulse: retro burst 1: all four down  nozzles LF_dn+RF_dn+LR_dn+RR_dn, 0.25s story = 0.25s on screen
+00:00:08:18    8.738s  frame 211  jet pulse: retro burst 2: all four down  nozzles LF_dn+RF_dn+LR_dn+RR_dn, 0.20s story = 0.20s on screen
+00:00:09:00    9.010s  frame 218  touchdown (camera B jolt)
+00:00:10:14   10.568s  frame 255  stop
+00:00:10:20   10.818s  frame 261  push-in starts (car ~24% -> ~38% of frame width)
+00:00:13:22   13.908s  frame 335  jet pulse: final exhale: all four up  nozzles LF_up+RF_up+LR_up+RR_up, 0.30s story = 0.30s on screen
+00:00:15:00   15.000s  frame 360  end
