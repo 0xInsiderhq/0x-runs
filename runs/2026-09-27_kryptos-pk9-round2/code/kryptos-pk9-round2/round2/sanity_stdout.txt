@@ -1,0 +1,5 @@
+[sanity] alphabet keyword=EPWRALKV (EPWRALKVBCDFGHIJMNOQSTUXYZ) indicator=ZYBJANJ shifts=[25, 24, 1, 9, 0, 13, 9]
+[sanity] true alignment rank=14 ic=0.0739 (top ic 0.078); alignments annealed=7,040
+[sanity] shifts_correct=True letters=109/109 exact=True best=-2.947/char true=-2.947/char coverage=0.569 first_exact_t=4.53s elapsed=301.4s
+[sanity] got: THEMEASUREOFAGOODCIPHERISNOTTHATITHIDESTHESECRETFROMAFRIENDBUTTHATITHIDESTHEMESSAGEFROMAPATIENTANDCLEVERENEMY
+SANITY PASS

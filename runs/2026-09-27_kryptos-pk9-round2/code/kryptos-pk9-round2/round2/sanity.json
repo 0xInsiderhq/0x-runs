@@ -1,0 +1,268 @@
+{
+  "mode": "sanity",
+  "cipher": "Quagmire I, period 7",
+  "alphabet_keyword": "EPWRALKV",
+  "plain_alphabet": "EPWRALKVBCDFGHIJMNOQSTUXYZ",
+  "indicator": "ZYBJANJ",
+  "shifts": [
+    25,
+    24,
+    1,
+    9,
+    0,
+    13,
+    9
+  ],
+  "ciphertext": "ULBZARDVBBBLRVRQLSOOWZBPDRFEULFEOIWNIBDVAJTYKMAIUCQRNLQXZPLRWIEMCWXVAXJYVENNZZSVNMNUCQRNBRENYSEEETIDBQAQJQYRH",
+  "plaintext": "THEMEASUREOFAGOODCIPHERISNOTTHATITHIDESTHESECRETFROMAFRIENDBUTTHATITHIDESTHEMESSAGEFROMAPATIENTANDCLEVERENEMY",
+  "true_per_char": -2.9469,
+  "recovered": true,
+  "pass_rule": "true relative shifts and >= 104/109 letters",
+  "true_rel_shifts": [
+    0,
+    25,
+    2,
+    10,
+    1,
+    14,
+    10
+  ],
+  "shifts_correct": true,
+  "exact_match": true,
+  "letters_correct": 109,
+  "first_recovered_t": 4.53,
+  "elapsed_s": 301.4,
+  "alignment_s": 1.3,
+  "alignments_annealed": 7040,
+  "anneals": 28160,
+  "candidates_scored": 225308160,
+  "alignment": {
+    "event": "alignment",
+    "t": 1.34,
+    "top_ic": [
+      0.078,
+      0.077,
+      0.077,
+      0.0765,
+      0.0761
+    ],
+    "top_d": [
+      [
+        0,
+        25,
+        2,
+        14,
+        1,
+        14,
+        10
+      ],
+      [
+        0,
+        25,
+        2,
+        14,
+        1,
+        18,
+        5
+      ],
+      [
+        0,
+        25,
+        2,
+        14,
+        1,
+        18,
+        10
+      ],
+      [
+        0,
+        25,
+        2,
+        14,
+        1,
+        14,
+        5
+      ],
+      [
+        0,
+        25,
+        2,
+        14,
+        1,
+        1,
+        10
+      ]
+    ],
+    "ic_at_rank_100": 0.071,
+    "ic_at_rank_1000": 0.0669,
+    "true_rel_shifts": [
+      0,
+      25,
+      2,
+      10,
+      1,
+      14,
+      10
+    ],
+    "true_alignment_rank": 14,
+    "true_alignment_ic": 0.0739
+  },
+  "best": {
+    "plaintext": "THEMEASUREOFAGOODCIPHERISNOTTHATITHIDESTHESECRETFROMAFRIENDBUTTHATITHIDESTHEMESSAGEFROMAPATIENTANDCLEVERENEMY",
+    "score": -321.216,
+    "align_rank": 14,
+    "align_ic": 0.0739,
+    "rel_shifts": [
+      0,
+      25,
+      2,
+      10,
+      1,
+      14,
+      10
+    ],
+    "plain_alphabet": "PWRALQVBCDFGHIZMNOKSTUXYJE",
+    "per_char": -2.9469,
+    "coverage": 0.5688,
+    "words": [
+      "MEASURE",
+      "MESSAGE",
+      "CIPHER",
+      "SECRET",
+      "THEMES",
+      "THEME"
+    ]
+  },
+  "top5": [
+    {
+      "plaintext": "THEMEASUREOFAGOODCIPHERISNOTTHATITHIDESTHESECRETFROMAFRIENDBUTTHATITHIDESTHEMESSAGEFROMAPATIENTANDCLEVERENEMY",
+      "score": -321.216,
+      "align_rank": 14,
+      "align_ic": 0.0739,
+      "rel_shifts": [
+        0,
+        25,
+        2,
+        10,
+        1,
+        14,
+        10
+      ],
+      "plain_alphabet": "PWRALQVBCDFGHIZMNOKSTUXYJE",
+      "per_char": -2.9469,
+      "coverage": 0.5688,
+      "words": [
+        "MEASURE",
+        "MESSAGE",
+        "CIPHER",
+        "SECRET",
+        "THEMES",
+        "THEME"
+      ]
+    },
+    {
+      "plaintext": "THEBEARCLEIFABOOSMIGHELINDOTTHADITHISENTHEREUPETFLONEFLIEDSACTTHATSTHISERDHENERREBEFLONEGATIEDDADSUMELELEDENR",
+      "score": -353.535,
+      "align_rank": 1,
+      "align_ic": 0.078,
+      "rel_shifts": [
+        0,
+        25,
+        2,
+        14,
+        1,
+        14,
+        10
+      ],
+      "plain_alphabet": "GJLAMKZWUSFBHIYNDOQRTCVXPE",
+      "per_char": -3.2434,
+      "coverage": 0.1927,
+      "words": [
+        "THERE",
+        "THIS",
+        "SENT",
+        "HERE",
+        "THAT",
+        "TIED"
+      ]
+    },
+    {
+      "plaintext": "THEBEARCLEIFABOOSMIGHELINDOTTHADITHISENTHEREQUETFLONEFLIEDSACTTHATSTHISERDHENERREBEFLONEGATIEDDADSQMELELEDENR",
+      "score": -353.756,
+      "align_rank": 1,
+      "align_ic": 0.078,
+      "rel_shifts": [
+        0,
+        25,
+        2,
+        14,
+        1,
+        14,
+        10
+      ],
+      "plain_alphabet": "GPLAMVKXQSFBHIJNDOZRTCWYUE",
+      "per_char": -3.2455,
+      "coverage": 0.1927,
+      "words": [
+        "THERE",
+        "THIS",
+        "SENT",
+        "HERE",
+        "THAT",
+        "TIED"
+      ]
+    },
+    {
+      "plaintext": "CHEMEASELEOFAGUODYIPHALISNOTCHATITHODESTHEKEYLETFROMAFLIANDBUTTNATITHIIESTHEMASSAGEFROMAPATOENTANDHVERELETEMK",
+      "score": -363.51,
+      "align_rank": 541,
+      "align_ic": 0.068,
+      "rel_shifts": [
+        0,
+        3,
+        6,
+        14,
+        5,
+        18,
+        14
+      ],
+      "plain_alphabet": "VJRBYDFGHIQMNOXSTUZKCEPWLA",
+      "per_char": -3.335,
+      "coverage": 0.2202,
+      "words": [
+        "EASE",
+        "CHAT",
+        "DEST",
+        "FROM",
+        "THEM",
+        "MASS"
+      ]
+    },
+    {
+      "plaintext": "THEMEARUDEINAPIISFOCHEDORLITTHATOTHOSERTHEREFDETNDIMANDOELSBUTTHATOTHOSERTHEMERRAPENDIMACATOELTALSFWEVEDELEMY",
+      "score": -363.934,
+      "align_rank": 14,
+      "align_ic": 0.0739,
+      "rel_shifts": [
+        0,
+        25,
+        2,
+        10,
+        1,
+        14,
+        10
+      ],
+      "plain_alphabet": "CKDAWJVBFSNPHOQMLIZRTUGYXE",
+      "per_char": -3.3388,
+      "coverage": 0.4128,
+      "words": [
+        "THEME",
+        "THOSE",
+        "THERE",
+        "THAT",
+        "HERE",
+        "NDIM"
+      ]
+    }
+  ]
+}

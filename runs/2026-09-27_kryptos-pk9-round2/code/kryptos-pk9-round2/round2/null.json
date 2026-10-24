@@ -1,0 +1,216 @@
+{
+  "mode": "null",
+  "target": "NULL-UNIFORM-RANDOM",
+  "ciphertext": "HPKDCCPMLVDJCFZVOJIAELRYUTGUAQEQCJGTYNDNDBTBWWMBEITKAFPESEEDGBBFTQCBTOCOUYBUJCGOSRDAQYGHPUPIWGWFLSYWECZDKOMKY",
+  "elapsed_s": 301.2,
+  "alignment_s": 1.4,
+  "alignments_annealed": 7744,
+  "anneals": 30976,
+  "candidates_scored": 247838976,
+  "alignment": {
+    "event": "alignment",
+    "t": 1.38,
+    "top_ic": [
+      0.0596,
+      0.0593,
+      0.059,
+      0.0588,
+      0.0588
+    ],
+    "top_d": [
+      [
+        0,
+        22,
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        14,
+        22,
+        21,
+        20,
+        21,
+        22
+      ],
+      [
+        0,
+        20,
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        16,
+        22,
+        21,
+        20,
+        21,
+        22
+      ],
+      [
+        0,
+        22,
+        2,
+        1,
+        0,
+        1,
+        25
+      ]
+    ],
+    "ic_at_rank_100": 0.0564,
+    "ic_at_rank_1000": 0.0544
+  },
+  "best": {
+    "plaintext": "BTOTUREGFMTARAMMAMPMPUZENEDBIKSJUSTTEPTHEOTDIGZIPSCOLOOPASSTFIODCKANAREAYONTHENASIEWLENCYTESINGONDYISASECOLOO",
+    "score": -405.596,
+    "align_rank": 945,
+    "align_ic": 0.0545,
+    "rel_shifts": [
+      0,
+      22,
+      22,
+      10,
+      17,
+      1,
+      13
+    ],
+    "plain_alphabet": "IREVXDJBSQNUGWOFLPATKZHCYM",
+    "per_char": -3.7211,
+    "coverage": 0.1835,
+    "words": [
+      "JUST",
+      "GZIP",
+      "LOOP",
+      "PASS",
+      "AREA",
+      "THEN"
+    ]
+  },
+  "top5": [
+    {
+      "plaintext": "BTOTUREGFMTARAMMAMPMPUZENEDBIKSJUSTTEPTHEOTDIGZIPSCOLOOPASSTFIODCKANAREAYONTHENASIEWLENCYTESINGONDYISASECOLOO",
+      "score": -405.596,
+      "align_rank": 945,
+      "align_ic": 0.0545,
+      "rel_shifts": [
+        0,
+        22,
+        22,
+        10,
+        17,
+        1,
+        13
+      ],
+      "plain_alphabet": "IREVXDJBSQNUGWOFLPATKZHCYM",
+      "per_char": -3.7211,
+      "coverage": 0.1835,
+      "words": [
+        "JUST",
+        "GZIP",
+        "LOOP",
+        "PASS",
+        "AREA",
+        "THEN"
+      ]
+    },
+    {
+      "plaintext": "XTSTUBEMULTHBALLALVLCZVERFIXOWNFUNTTECTOESTIOMLOCNGSPASCANNTTOSIGWASABEADSSTHERANKEYPERGETENORMARIDONAMEGSPSS",
+      "score": -407.88,
+      "align_rank": 649,
+      "align_ic": 0.0549,
+      "rel_shifts": [
+        0,
+        22,
+        22,
+        10,
+        13,
+        1,
+        13
+      ],
+      "plain_alphabet": "OBEJKIFXNQRZMYSUPCATWVHGDL",
+      "per_char": -3.742,
+      "coverage": 0.2202,
+      "words": [
+        "STUB",
+        "SCAN",
+        "RANK",
+        "NORM",
+        "NAME",
+        "SPSS"
+      ]
+    },
+    {
+      "plaintext": "XTOTIMEBYNTAMANNANDNDIVEREFXPWSKISTTEDTHEOTFPBVPDSCOLOODASSTYPOFCWARAMEAUORTHERASPEGLERCUTESPRBORFUPSASECOLOO",
+      "score": -410.599,
+      "align_rank": 945,
+      "align_ic": 0.0545,
+      "rel_shifts": [
+        0,
+        22,
+        22,
+        10,
+        17,
+        1,
+        13
+      ],
+      "plain_alphabet": "PMEJQFKXSZRIBGOYLDATWVHCUN",
+      "per_char": -3.767,
+      "coverage": 0.0367,
+      "words": [
+        "TIME"
+      ]
+    },
+    {
+      "plaintext": "XTETRCSGHSTACHSSASUSERFONOBJIWLKRLDTOUTPORTBIGFIELYEDEEEALLTHIRBYWANAMOAMENTTONALIONDONYMTSLINGENOMILALOWEDEE",
+      "score": -411.476,
+      "align_rank": 160,
+      "align_ic": 0.0561,
+      "rel_shifts": [
+        0,
+        22,
+        22,
+        10,
+        17,
+        1,
+        16
+      ],
+      "plain_alphabet": "ICOVJBKXLQNRGZEHDUATWFPYMS",
+      "per_char": -3.775,
+      "coverage": 0.0734,
+      "words": [
+        "USER",
+        "PORT"
+      ]
+    },
+    {
+      "plaintext": "JNDSHURZTWSTUPWITHGWEHAINISALVETHEORSGSNISRELABLEELDIDDETHESQLSSLYCOTTIBALORFIFTYLICKSOPARREMOADONAMECEIDDRDL",
+      "score": -412.131,
+      "align_rank": 3013,
+      "align_ic": 0.0533,
+      "rel_shifts": [
+        0,
+        19,
+        22,
+        24,
+        17,
+        1,
+        22
+      ],
+      "plain_alphabet": "LUIMCSXJEPOHZFDQKGTRYBNVAW",
+      "per_char": -3.781,
+      "coverage": 0.1101,
+      "words": [
+        "WITH",
+        "ABLE",
+        "NAME"
+      ]
+    }
+  ]
+}

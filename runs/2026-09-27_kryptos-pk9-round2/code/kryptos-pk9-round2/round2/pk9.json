@@ -1,0 +1,218 @@
+{
+  "mode": "pk9",
+  "target": "PK9",
+  "ciphertext": "KSYAWFEYYOISZGEUFBLYATAIBYFAQBQYYVDWJKLJXMYIEPIFVHPQNHZGSUHUUDXLEHRHUMALHEGLHXSJMUXGNUIVBXGUJHZRZGUSVHMLSCTSU",
+  "elapsed_s": 301.8,
+  "alignment_s": 1.4,
+  "alignments_annealed": 6976,
+  "anneals": 27904,
+  "candidates_scored": 223259904,
+  "alignment": {
+    "event": "alignment",
+    "t": 1.39,
+    "top_ic": [
+      0.0657,
+      0.0657,
+      0.0652,
+      0.0651,
+      0.0651
+    ],
+    "top_d": [
+      [
+        0,
+        22,
+        9,
+        3,
+        22,
+        1,
+        8
+      ],
+      [
+        0,
+        22,
+        9,
+        22,
+        22,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        13,
+        7,
+        0,
+        5,
+        12
+      ],
+      [
+        0,
+        0,
+        13,
+        0,
+        0,
+        5,
+        12
+      ],
+      [
+        0,
+        22,
+        9,
+        3,
+        0,
+        1,
+        8
+      ]
+    ],
+    "ic_at_rank_100": 0.063,
+    "ic_at_rank_1000": 0.061
+  },
+  "best": {
+    "plaintext": "CETFRIGINVYGREARGATSCHISADICEBBJDGONTHGLENIXORAILTOBEFRERREVENTYPEDFONUMETPASVERWEEEORSIVEEDTEPOREDEACKAPPSJV",
+    "score": -405.429,
+    "align_rank": 127,
+    "align_ic": 0.0629,
+    "rel_shifts": [
+      0,
+      2,
+      17,
+      23,
+      4,
+      7,
+      16
+    ],
+    "plain_alphabet": "UJPFALXTKMCYZOGWESRHDQNVIB",
+    "per_char": -3.7195,
+    "coverage": 0.156,
+    "words": [
+      "EVENT",
+      "TYPED",
+      "DICE",
+      "APPS"
+    ]
+  },
+  "top5": [
+    {
+      "plaintext": "CETFRIGINVYGREARGATSCHISADICEBBJDGONTHGLENIXORAILTOBEFRERREVENTYPEDFONUMETPASVERWEEEORSIVEEDTEPOREDEACKAPPSJV",
+      "score": -405.429,
+      "align_rank": 127,
+      "align_ic": 0.0629,
+      "rel_shifts": [
+        0,
+        2,
+        17,
+        23,
+        4,
+        7,
+        16
+      ],
+      "plain_alphabet": "UJPFALXTKMCYZOGWESRHDQNVIB",
+      "per_char": -3.7195,
+      "coverage": 0.156,
+      "words": [
+        "EVENT",
+        "TYPED",
+        "DICE",
+        "APPS"
+      ]
+    },
+    {
+      "plaintext": "HNDBYONNCUUNTECENEDMOVISECOOKUFACHAXPGHPRINTATTOPUQFRMTELEEVELDWHEKMFIEDEGRESANYWEREMESOUREOPENATEONTILERYBWV",
+      "score": -407.125,
+      "align_rank": 4618,
+      "align_ic": 0.0591,
+      "rel_shifts": [
+        0,
+        20,
+        7,
+        1,
+        20,
+        11,
+        6
+      ],
+      "plain_alphabet": "ESYGCZIUJFHWRMTPKDLVOQXANB",
+      "per_char": -3.7351,
+      "coverage": 0.1743,
+      "words": [
+        "REOPEN",
+        "PRINT",
+        "WERE",
+        "OPEN",
+        "TILE"
+      ]
+    },
+    {
+      "plaintext": "BESPRICINDWCREARCASTBUITALIBEMMQLCONSUCKENIFORAIKSOMEPRERREDENSWHELPONGZESHATDERVEEEORTIDEELSEHORELEABYAHHTQD",
+      "score": -407.18,
+      "align_rank": 127,
+      "align_ic": 0.0629,
+      "rel_shifts": [
+        0,
+        2,
+        17,
+        23,
+        4,
+        7,
+        16
+      ],
+      "plain_alphabet": "GQHPAKFSYZBWJOCVETRULXNDIM",
+      "per_char": -3.7356,
+      "coverage": 0.1468,
+      "words": [
+        "CAST",
+        "SOME",
+        "HELP",
+        "PONG",
+        "ELSE"
+      ]
+    },
+    {
+      "plaintext": "PENIMIDTABUNTEITDOKSCRISORICCOOARDRENWHIEATURRBIGFROMATEXTETHANGLEVARAYHELZPSSETCHEENTSWEEEDNEBUTEDEPGFPLASFT",
+      "score": -407.911,
+      "align_rank": 2486,
+      "align_ic": 0.06,
+      "rel_shifts": [
+        0,
+        22,
+        11,
+        22,
+        5,
+        1,
+        10
+      ],
+      "plain_alphabet": "YZABIOKFLQPGUNJHCMXRDVESTW",
+      "per_char": -3.7423,
+      "coverage": 0.1193,
+      "words": [
+        "ANGLE",
+        "FROM",
+        "TEXT",
+        "THAN",
+        "HANG"
+      ]
+    },
+    {
+      "plaintext": "FAGWBEABLAHATEGENEDSTPORELETTHEPLYPENTINROBFFFFENKXECUTEVEDSEADNIDYUNOLDDZCOMMASKEREDERTHREANDAPTEAAJOROCOWBS",
+      "score": -408.053,
+      "align_rank": 1241,
+      "align_ic": 0.0608,
+      "rel_shifts": [
+        0,
+        24,
+        20,
+        5,
+        24,
+        9,
+        10
+      ],
+      "plain_alphabet": "LJOHGQIKCUFNYDRSTXVPAWEMBZ",
+      "per_char": -3.7436,
+      "coverage": 0.0917,
+      "words": [
+        "COMMAS",
+        "FFFF",
+        "MASK"
+      ]
+    }
+  ]
+}

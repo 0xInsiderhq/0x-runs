@@ -1,0 +1,20 @@
+{
+  "sanity_recovered": true,
+  "sanity_rule": "true relative shifts and >= 104/109 letters",
+  "sanity_letters": 109,
+  "sanity_exact": true,
+  "sanity_per_char": -2.9469,
+  "sanity_coverage": 0.5688,
+  "pk9_per_char": -3.7195,
+  "pk9_coverage": 0.156,
+  "null_per_char": -3.7211,
+  "null_coverage": 0.1835,
+  "margin": 0.0016,
+  "checks": {
+    "score >= -3.30/char": false,
+    "coverage >= 0.42": false,
+    "margin >= +0.25/char over null": false
+  },
+  "english_range": false,
+  "verdict": "not English (score >= -3.30/char; coverage >= 0.42; margin >= +0.25/char over null failed)"
+}
