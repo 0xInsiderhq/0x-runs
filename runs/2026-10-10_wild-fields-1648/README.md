@@ -50,6 +50,7 @@ According to the game repo's README:
 ## What it got wrong
 
 - **The asset count does not add up.** The repo README and the v3 label in the video both say 25 Poly Haven scans. The credits list 20 models and 12 textures, 32 assets in all, and the model pack holds 20 models. We could not find a set of 25.
+  Correction: the game's CREDITS list 20 Poly Haven models and 12 textures, not 25. The 25 in the README and the v1/v3 video caption was our mistake.
 - **What else went wrong during the build was not recorded,** because we did not keep the chat.
 
 ## Reproduce
