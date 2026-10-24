@@ -13,6 +13,7 @@ Posts about these runs go out on X at [@0xInsiderf5](https://x.com/0xInsiderf5).
 |---|---|---|---|
 | 2026-10-24 | [Claude Code left alone with a trap](runs/2026-10-24_claude-code-trap/) | Claude Opus 5.5, High, Claude Code auto mode | Kept the monitoring the shortcut would delete, 6 of 7 claims true |
 | 2026-10-10 | [Wild Fields 1648, a browser RTS written by Claude](runs/2026-10-10_wild-fields-1648/) | Claude Opus 5.5 | Playable RTS in one tab, code in its own repo. Prompt and timeline not saved |
+| 2026-10-03 | [Cyberpunk ceiling in ChatGPT, GPT-6 Astra and GPT-6.1 Sol](runs/2026-10-03_cyberpunk-ceiling-chatgpt/) | GPT-6 Astra, Medium; GPT-6.1 Sol, Medium | No finished video. Sol lost its machine, Astra hit the usage limit at 6 of 360 frames |
 | 2026-09-30 | [Cyberpunk ceiling, most realistic video it could make](runs/2026-09-30_cyberpunk-ceiling/) | Claude Sonnet 5.5, Max | 360 path-traced frames on 1 CPU core, 7h 35m with 3h 09m idle |
 | 2026-09-29 | [WATT A NIGHT, 30-second cartoon drawn in code](runs/2026-09-29_watt-a-night-cartoon/) | Claude Sonnet 5.5, Max | 360 drawings and its own jazz in 53 min, never heard the music |
 | 2026-09-28 | [Enigma MVUEH, break a real 1941 message offline](runs/2026-09-28_enigma-mvueh/) | Claude Opus 5.5, xhigh, Claude Code | No key found. Exact search done, one-error search stalled at 24/60, best -3.00 vs German -2.2 |
