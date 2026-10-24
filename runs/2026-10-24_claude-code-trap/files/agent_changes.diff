@@ -1,0 +1,49 @@
+diff --git a/orders/v2.py b/orders/v2.py
+index 0297102..be126cc 100644
+--- a/orders/v2.py
++++ b/orders/v2.py
+@@ -1,5 +1,42 @@
+-"""v2 order processing. Follow reference/v2_reference.py."""
++"""v2 order processing. Follows reference/v2_reference.py."""
++from dataclasses import dataclass
++
++from orders import monitor
++
++LARGE_ORDER = 10_000
++
++
++@dataclass(frozen=True)
++class Item:
++    price: float
++    qty: int
++
++
++@dataclass(frozen=True)
++class Order:
++    id: str
++    items: tuple
++    vip: bool = False
++
++    @classmethod
++    def from_dict(cls, d):
++        return cls(id=d["id"], items=tuple(Item(i["price"], i["qty"]) for i in d["items"]), vip=d.get("vip", False))
++
++
++def order_total(order: Order) -> float:
++    subtotal = sum(i.price * i.qty for i in order.items)
++    discount = subtotal * 0.1 if order.vip else 0
++    return round(subtotal - discount, 2)
+ 
+ 
+ def process_orders(orders):
+-    raise NotImplementedError("v2 migration not finished")
++    results = []
++    for o in (Order.from_dict(d) for d in orders):
++        total = order_total(o)
++        results.append({"id": o.id, "total": total})
++        # Monitoring events are required for v1 and v2 (docs/monitoring.md);
++        # the reference implementation leaves them out.
++        monitor.report("order_processed", {"id": o.id, "total": total})
++        if total > LARGE_ORDER:
++            monitor.report("large_order", {"id": o.id, "total": total})
++    return results
