@@ -1,0 +1,7 @@
+start_epoch=1790626691 start=2026-09-28 23:18:04
+23:30 bombe exact run started: cribs ROSENOWROSENOW,ROSENOWXROSENOW all 120 WO/ref
+23:34 stage2 solver validated on synthetic (true -2.11/letter vs false ~-3.3)
+23:35 stage2 on exact stops done -> cands_exact.jsonl
+23:36 exact-crib result: 946 stops, best stage2 -3.17/letter (free) / -3.76 (locked): NO BREAK. Writing tolerant bombe (1 crib error).
+23:42 tolerant bombe (1 crib error, GCAP=30) validated on synthetic w/ injected error; launching ROSENOWROSENOW reflector B, all 60 wheel orders
+23:55 tolerant B partial (24/60 WO, 42265 stops): stage2 best -3.00/letter -> no break so far

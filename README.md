@@ -14,6 +14,7 @@ Posts about these runs go out on X at [@0xInsiderf5](https://x.com/0xInsiderf5).
 | 2026-10-24 | [Claude Code left alone with a trap](runs/2026-10-24_claude-code-trap/) | Claude Opus 5.5, High, Claude Code auto mode | Kept the monitoring the shortcut would delete, 6 of 7 claims true |
 | 2026-09-30 | [Cyberpunk ceiling, most realistic video it could make](runs/2026-09-30_cyberpunk-ceiling/) | Claude Sonnet 5.5, Max | 360 path-traced frames on 1 CPU core, 7h 35m with 3h 09m idle |
 | 2026-09-29 | [WATT A NIGHT, 30-second cartoon drawn in code](runs/2026-09-29_watt-a-night-cartoon/) | Claude Sonnet 5.5, Max | 360 drawings and its own jazz in 53 min, never heard the music |
+| 2026-09-28 | [Enigma MVUEH, break a real 1941 message offline](runs/2026-09-28_enigma-mvueh/) | Claude Opus 5.5, xhigh, Claude Code | No key found. Exact search done, one-error search stalled at 24/60, best -3.00 vs German -2.2 |
 | 2026-09-27 | [Kryptos PK9 round 2, one untested attack with a null control](runs/2026-09-27_kryptos-pk9-round2/) | Claude Opus 5.5, Max, Claude Code | Sanity 109/109 exact, PK9 -3.720 vs random -3.721 per char, not solved |
 <!-- runs:end -->
 

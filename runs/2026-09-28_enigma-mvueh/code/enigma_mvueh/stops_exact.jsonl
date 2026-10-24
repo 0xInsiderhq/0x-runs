@@ -1,0 +1,946 @@
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":4,"m":2,"r":25,"k":8,"T":"E","a":"M","pairs":"AX BC DR EM GS HW IN JV KZ LT OP QY","n":12,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":7,"m":23,"r":17,"k":13,"T":"O","a":"P","pairs":"AV BI CC DL EE FM GX HS JT KY NN OP QR WW ZZ","n":15,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":9,"m":3,"r":5,"k":4,"T":"O","a":"C","pairs":"AJ BF CO DS EP GT HQ KR LN VZ WX YY","n":12,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":18,"m":7,"r":3,"k":6,"T":"O","a":"Q","pairs":"AU BB CP DD EJ GG HW IL MS NT OQ RR VY XZ","n":14,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":18,"m":10,"r":0,"k":3,"T":"O","a":"O","pairs":"AY BF CZ DS EJ GU IW KV NN OO RT XX","n":12,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":18,"m":10,"r":25,"k":7,"T":"O","a":"U","pairs":"AW BC EK FR GX LS NT OU PQ YY ZZ","n":11,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":2,"r":4,"k":9,"T":"O","a":"K","pairs":"AX BP DD EU FF GN KO LR MW QZ SS TY VV","n":13,"amb":0}
+{"wo":"I,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":2,"r":4,"k":10,"T":"O","a":"K","pairs":"AX BP CD EU FF GN KO LR MW QZ SS TY VV","n":13,"amb":0}
+{"wo":"I,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":9,"m":10,"r":0,"k":11,"T":"O","a":"B","pairs":"AS BO DM EE FW GI HX JR LY NV TT UZ","n":12,"amb":0}
+{"wo":"I,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":22,"m":4,"r":16,"k":9,"T":"O","a":"Q","pairs":"AS BK CY DN EL FJ GM HZ IV OQ PT RW UX","n":13,"amb":0}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":4,"m":13,"r":8,"k":0,"T":"O","a":"D","pairs":"AJ BU CQ DO EW GI HS KN LR MT PZ VY","n":12,"amb":0}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":5,"m":9,"r":9,"k":13,"T":"O","a":"F","pairs":"AM BT DN EQ FO GL HR JS UV WW XY ZZ","n":12,"amb":0}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":8,"m":18,"r":25,"k":7,"T":"E","a":"G","pairs":"AO BC DL EG FW IT JJ KZ MV NP QY RU SS XX","n":14,"amb":0}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":11,"m":12,"r":3,"k":13,"T":"O","a":"F","pairs":"AX BQ CD FO GV HN IY KR MS PT WW","n":11,"amb":1}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":12,"m":13,"r":20,"k":0,"T":"O","a":"O","pairs":"AH BL CX DE FF GI JN KV MT OO QS RR WW YZ","n":14,"amb":0}
+{"wo":"I,V,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":19,"m":20,"r":22,"k":6,"T":"O","a":"K","pairs":"AH BT CN DF EJ GQ KO LW MX RS VV YZ","n":12,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":23,"r":13,"k":11,"T":"O","a":"V","pairs":"AZ BN CW DM EF GK IR JQ OV SY TU XX","n":12,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":8,"m":1,"r":1,"k":6,"T":"O","a":"B","pairs":"AD BO CK EJ FR GW HT IN MS QV UY XX","n":12,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":8,"m":19,"r":0,"k":6,"T":"O","a":"U","pairs":"AA BB CH DE FJ GY KX MS NW OU QV RR TZ","n":13,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":8,"m":19,"r":0,"k":7,"T":"O","a":"U","pairs":"AA BB CH DE FJ GY KX MS NW OU QV RR TZ","n":13,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":10,"m":21,"r":0,"k":4,"T":"O","a":"C","pairs":"AA BB CO DU EP FR GS IX JT KY LN MQ VW ZZ","n":14,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":10,"m":21,"r":0,"k":5,"T":"O","a":"C","pairs":"AA BB CO DL EP FR GS IX JT KY MQ NU VW ZZ","n":14,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":16,"m":5,"r":14,"k":13,"T":"O","a":"I","pairs":"BB CG DZ ET FR IO KL NQ PV SX UY WW","n":12,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":16,"m":8,"r":12,"k":9,"T":"E","a":"W","pairs":"AR BO CP DZ EW FJ GY IX KT LN MM SU","n":12,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":19,"m":23,"r":17,"k":12,"T":"O","a":"O","pairs":"AC BJ DD EN FF GU HQ KX LY MS OO PV RR TT WZ","n":15,"amb":0}
+{"wo":"I,II,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":25,"m":11,"r":13,"k":6,"T":"O","a":"R","pairs":"AS BX CZ EF GQ HP JW LY NU OR TV","n":11,"amb":0}
+{"wo":"I,V,III","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":14,"m":8,"r":5,"k":5,"T":"O","a":"L","pairs":"AK BM CD EJ FY GX IN LO QS RU TZ VV WW","n":13,"amb":0}
+{"wo":"I,V,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":16,"m":25,"r":21,"k":2,"T":"E","a":"J","pairs":"BB CK DH EJ FN GW IP MV OO QR TT YY","n":12,"amb":1}
+{"wo":"I,V,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":20,"m":20,"r":8,"k":3,"T":"E","a":"A","pairs":"AE BT CR DZ GX HN IP JO KW MS VY","n":11,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":0,"m":8,"r":23,"k":5,"T":"O","a":"U","pairs":"AV BE CT DL FI GY HS JR MZ NW OU QQ XX","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":1,"m":25,"r":16,"k":10,"T":"O","a":"O","pairs":"AN BK CC DY EF GU HR JJ LL MT OO PW QS VX ZZ","n":15,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":4,"m":14,"r":12,"k":12,"T":"O","a":"P","pairs":"AG BM CK DD ES FW HN IQ OP RZ TX VV YY","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":11,"m":3,"r":21,"k":8,"T":"O","a":"O","pairs":"AK BQ CT DV EG FF JW LN MZ OO RX SS UY","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":17,"m":12,"r":25,"k":9,"T":"O","a":"H","pairs":"BL CF DJ EE GQ HO KV NN PZ RT SY UU WX","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":22,"m":7,"r":19,"k":9,"T":"O","a":"R","pairs":"AU BB CZ DQ EJ FI GV KN LX MY OR SS TT WW","n":14,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":8,"m":18,"r":19,"k":3,"T":"O","a":"P","pairs":"AI CC DN EX FJ GS HT KM LW OP QY RU VV","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":10,"m":21,"r":7,"k":13,"T":"O","a":"R","pairs":"AP BF CS DU EH GM KQ NN OR TX VZ WW YY","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWXROSENOW","p":42,"l":11,"m":3,"r":3,"k":0,"T":"O","a":"H","pairs":"BC DP EU GT HO IX JQ KN LS MW RR VV YZ","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":18,"m":20,"r":25,"k":3,"T":"O","a":"J","pairs":"AW BH CN DD EE FV GP IS JO KZ LQ RX TT UU","n":14,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWXROSENOW","p":9,"l":21,"m":22,"r":3,"k":8,"T":"O","a":"U","pairs":"AA BG CH DD EW FK LT NP OU QZ RX SS VY","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":23,"m":5,"r":14,"k":2,"T":"O","a":"I","pairs":"AS BV CM DD EK FF GN IO JR QQ TW UY XZ","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":23,"m":6,"r":14,"k":0,"T":"O","a":"I","pairs":"AS BV CP DD EK FF GN IO JY QQ RU TW XZ","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":25,"m":5,"r":19,"k":9,"T":"O","a":"F","pairs":"AA BL CZ DD EY FO GU HN IV JS MT RW XX","n":13,"amb":0}
+{"wo":"I,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":4,"m":1,"r":19,"k":13,"T":"O","a":"E","pairs":"AZ BB CT DL EO FI GM HY NX PS RW UV","n":12,"amb":0}
+{"wo":"I,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":16,"m":11,"r":18,"k":9,"T":"O","a":"B","pairs":"BO CC DN EL FY IS JX PP QW RU TZ","n":11,"amb":0}
+{"wo":"I,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":24,"m":21,"r":1,"k":3,"T":"O","a":"G","pairs":"AE BB CV DU FF GO HY IN KW PS RR TT XX ZZ","n":14,"amb":0}
+{"wo":"I,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":24,"m":21,"r":1,"k":4,"T":"O","a":"G","pairs":"AE BB CV DU FF GO IN KW LY PS RR TT XX ZZ","n":14,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":1,"m":20,"r":23,"k":11,"T":"O","a":"Y","pairs":"AN BM CV DP ER FT GW HL JJ OY QZ SX UU","n":13,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":1,"m":20,"r":23,"k":12,"T":"O","a":"Y","pairs":"BM CV DI ER GW HL JJ NN OY QZ SX TT UU","n":13,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":5,"m":6,"r":13,"k":6,"T":"O","a":"P","pairs":"AV BL DX EE FZ GG HQ IR MY NT OP SW","n":12,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":7,"m":7,"r":18,"k":10,"T":"O","a":"S","pairs":"BF CC DW GN HR IZ OS PP VX YY","n":10,"amb":1}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":10,"m":11,"r":21,"k":10,"T":"O","a":"P","pairs":"AT BB CX DS EL FR GZ HN JW KU MY OP","n":12,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":2,"r":2,"k":5,"T":"O","a":"F","pairs":"BG CH DZ EM FO JS LQ NX PR TU VV WY","n":12,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":2,"r":2,"k":6,"T":"O","a":"F","pairs":"BG CH DZ EM FO JS LQ NX PR TU VV WY","n":12,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":15,"m":2,"r":21,"k":2,"T":"O","a":"O","pairs":"AH BP CE DK FS GI JX LR MY NN OO QW TZ VV","n":14,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":15,"m":21,"r":1,"k":8,"T":"O","a":"P","pairs":"AW BM CQ DH EK FF GG JV NZ OP RX SS TY","n":13,"amb":0}
+{"wo":"I,III,II","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":24,"m":16,"r":7,"k":9,"T":"O","a":"G","pairs":"AC BB DX EW FT GO HN IZ JK LL RS UY VV","n":13,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":5,"m":17,"r":15,"k":12,"T":"O","a":"N","pairs":"AL BV CF DH EY GG JP KR NO QZ SW TU","n":12,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":5,"m":17,"r":15,"k":13,"T":"O","a":"N","pairs":"AL BV CF DH EY GG JP KR NO QZ SW TU","n":12,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":5,"m":24,"r":13,"k":6,"T":"O","a":"G","pairs":"AI BL CP DU EK FT GO MQ NN RR SV WZ XY","n":13,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":5,"m":24,"r":13,"k":7,"T":"O","a":"G","pairs":"AI BL CP DU EK FT GO MQ NN RR SV WZ XY","n":13,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":6,"m":25,"r":23,"k":7,"T":"O","a":"E","pairs":"AZ BT CX DR EO FJ HM IY KS LW NQ VV","n":12,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":8,"m":25,"r":6,"k":7,"T":"O","a":"C","pairs":"AE BP CO DX FF GG HV JY LT MR NU QQ SS WZ","n":14,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":8,"m":25,"r":6,"k":8,"T":"O","a":"C","pairs":"AE BP CO DX FF GG HV JY LT MR NU QQ SS WZ","n":14,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":11,"m":14,"r":17,"k":5,"T":"O","a":"Q","pairs":"BC DX EN FT GI HZ KW LM OQ PV RS UY","n":12,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":12,"m":25,"r":23,"k":5,"T":"O","a":"Z","pairs":"AH BB CQ DD EM FU GG JV KT NW OZ PX RR SY","n":14,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":14,"m":24,"r":21,"k":10,"T":"O","a":"T","pairs":"AG BF CM DD EP HS IN JW LQ OT RY UX VV ZZ","n":14,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":15,"m":11,"r":10,"k":1,"T":"O","a":"O","pairs":"BX CU DR EE FT GN JS LM OO QV WW YZ","n":12,"amb":0}
+{"wo":"I,III,V","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":23,"m":20,"r":0,"k":4,"T":"E","a":"F","pairs":"AT BO CN DX EF GR JL KP MM SV UZ WY","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":0,"m":2,"r":10,"k":3,"T":"O","a":"O","pairs":"AN BB DH ES FF GQ IR MV OO TT WY XZ","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":1,"m":0,"r":20,"k":7,"T":"E","a":"H","pairs":"AD BJ CM EH IN OP QT RR SU VX WW YZ","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWXROSENOW","p":40,"l":5,"m":1,"r":11,"k":6,"T":"O","a":"G","pairs":"BB DT EK FS GO HL IJ MN PZ RY UW VV","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":5,"m":3,"r":9,"k":5,"T":"O","a":"J","pairs":"AI BM CN DZ EE FH GV JO KS LQ RR TU WW XX YY","n":15,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":14,"m":21,"r":17,"k":10,"T":"E","a":"E","pairs":"AD BH CI EE GW JJ LT MM NU OO PV RR SX YY ZZ","n":15,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":14,"m":21,"r":17,"k":11,"T":"E","a":"E","pairs":"AD BH CI EE GW JJ LT MM NU OO PV RR SX YY ZZ","n":15,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":16,"m":6,"r":19,"k":13,"T":"O","a":"G","pairs":"AH CT DN EP FZ GO IR MM QY SX VW","n":11,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":19,"m":15,"r":14,"k":0,"T":"E","a":"E","pairs":"AQ BI CM DO EE FZ JX KY NP RR SU TW","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":24,"m":8,"r":2,"k":6,"T":"E","a":"E","pairs":"BC DO EE GZ IT JX KN LM PP RS WW YY","n":12,"amb":0}
+{"wo":"I,II,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":25,"m":25,"r":3,"k":4,"T":"O","a":"J","pairs":"AC BB DE FI GV HR JO NP QY SS TT UZ WX","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":2,"m":20,"r":0,"k":13,"T":"O","a":"D","pairs":"AP BX CC DO EJ FF HY IT KR LQ MW NZ SS VV","n":14,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":3,"m":19,"r":5,"k":9,"T":"E","a":"E","pairs":"AW BR CY DH EE FZ IP JQ KN LS MV OT UX","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":6,"m":11,"r":16,"k":0,"T":"O","a":"Y","pairs":"AQ BR CX DK EU FM GS HW IV JT NN OY ZZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":6,"m":11,"r":16,"k":13,"T":"O","a":"Y","pairs":"AQ BR CX DK EU FM GS HW IV JT NN OY ZZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":7,"m":18,"r":25,"k":1,"T":"O","a":"H","pairs":"AR BB CZ DX EK FV GP HO JN LT SS WY","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":8,"m":9,"r":9,"k":5,"T":"O","a":"X","pairs":"AN BI DQ EE FH GJ KV LR MY OX PS TT WZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":8,"m":9,"r":18,"k":12,"T":"O","a":"T","pairs":"AK BX DF EH GG JR MV NY OT QU SW ZZ","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":66,"l":13,"m":5,"r":11,"k":0,"T":"E","a":"K","pairs":"AB CM DH EK FS JW LP NT OU QX RV YY ZZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":19,"m":24,"r":20,"k":7,"T":"O","a":"X","pairs":"BV CF DD ER GG HN IJ KL OX PT QZ SS UY WW","n":14,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":23,"m":6,"r":16,"k":6,"T":"O","a":"T","pairs":"BR CY DV EF GJ HN IZ KL OT PW SS UU","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":23,"m":20,"r":2,"k":10,"T":"O","a":"K","pairs":"AJ BH DN EY FI GX KO PR QU SW TT VV ZZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":23,"m":20,"r":2,"k":11,"T":"O","a":"K","pairs":"AJ BB DN EY FI GX KO PR QU SW TT VV ZZ","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":25,"m":9,"r":3,"k":1,"T":"O","a":"C","pairs":"AG CO DD EH FQ IV JY NN SS WX ZZ","n":11,"amb":1}
+{"wo":"I,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":25,"m":9,"r":3,"k":2,"T":"O","a":"C","pairs":"AG CO DD EH FQ IV JY NN SS WX ZZ","n":11,"amb":1}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWXROSENOW","p":16,"l":1,"m":21,"r":16,"k":0,"T":"O","a":"Y","pairs":"AN BB CF DR EK GP HL JZ OY QV SS WX","n":12,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":6,"m":4,"r":12,"k":13,"T":"O","a":"O","pairs":"AL BY CG DR EP FI HM JS NQ OO TV WZ XX","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":12,"m":18,"r":19,"k":9,"T":"O","a":"C","pairs":"AH BM CO DT EK FN GZ IW LY RX SV","n":11,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":18,"m":10,"r":18,"k":3,"T":"O","a":"N","pairs":"AI BH DD EL FF GV JX MT NO QY RU SS WW ZZ","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":19,"m":13,"r":0,"k":9,"T":"O","a":"P","pairs":"AZ CU DR EQ FY HN JT LM OP SX VW","n":11,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":21,"m":2,"r":12,"k":8,"T":"O","a":"O","pairs":"AE BN CF DU GL IV JZ KX MY OO PQ RR ST WW","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":22,"m":2,"r":18,"k":13,"T":"O","a":"H","pairs":"AI BG CY DK EP FF HO JN LV MW QX RS TT UZ","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":22,"m":20,"r":3,"k":9,"T":"O","a":"G","pairs":"AF BZ CC DL EH GO JS KN PV QQ RX TW UY","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":24,"m":0,"r":19,"k":4,"T":"O","a":"A","pairs":"AO BB CR DW EG FJ IT KS LL NQ UZ VX","n":12,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":2,"m":17,"r":18,"k":0,"T":"O","a":"D","pairs":"BB CI DO EE GN JM KR LW PZ QU SV TY","n":12,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":4,"m":2,"r":3,"k":6,"T":"E","a":"T","pairs":"AB CS ET HM IY JV LR NO PP QZ WX","n":11,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":4,"m":2,"r":15,"k":7,"T":"O","a":"S","pairs":"AY BR CG DP EU FZ HN JV KT MW OS QQ XX","n":13,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":66,"l":5,"m":20,"r":11,"k":9,"T":"E","a":"E","pairs":"AD BX EE GO JU KN MQ PZ RW ST YY","n":11,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":6,"m":13,"r":16,"k":13,"T":"O","a":"C","pairs":"AJ BU CO DY EN FI GL HR KQ MW PX SZ TT VV","n":14,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":12,"m":3,"r":4,"k":11,"T":"O","a":"I","pairs":"AU BB CQ DY EE FJ GL IO KX NN RR SS TW VV ZZ","n":15,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":13,"m":17,"r":22,"k":7,"T":"E","a":"O","pairs":"BJ CY EO FZ GX HP KQ LR MV NN ST WW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":13,"m":24,"r":11,"k":4,"T":"O","a":"Y","pairs":"BB CE DQ FZ GM HT IU JL KV NR OY PS WX","n":13,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":15,"m":7,"r":18,"k":12,"T":"O","a":"X","pairs":"AG BQ CN DH EL IU JJ MW OX RR SS TT VZ","n":13,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":17,"m":5,"r":19,"k":0,"T":"O","a":"Z","pairs":"AA CC DE FN GV JS KY LQ MR OZ PW TT","n":12,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":19,"m":11,"r":2,"k":11,"T":"O","a":"O","pairs":"AQ BI CC DZ EE FP GR JX KT LY NN OO SS UW VV","n":15,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":23,"m":7,"r":12,"k":8,"T":"E","a":"E","pairs":"AT BG DD EE FR IM JP KO LW NU SS VZ XX YY","n":14,"amb":0}
+{"wo":"II,I,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":23,"m":18,"r":14,"k":11,"T":"O","a":"O","pairs":"AQ BD CU ER FN GY JM LW OO PX SV TZ","n":12,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":1,"m":8,"r":5,"k":12,"T":"O","a":"J","pairs":"AC BI DK EE FT GY JO LX MR NN QU SS VV WZ","n":14,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":14,"m":1,"r":3,"k":11,"T":"O","a":"P","pairs":"AC BY DQ EI GZ KT LL MR NN OP SV UU WX","n":13,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":14,"m":24,"r":11,"k":11,"T":"O","a":"Q","pairs":"AL BI CX DY EF GR HS MZ NW OQ TU VV","n":12,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":24,"m":13,"r":10,"k":5,"T":"O","a":"P","pairs":"AN BU CS DQ EE FK GG HV IY JX MW OP RZ TT","n":14,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":24,"m":23,"r":13,"k":9,"T":"O","a":"U","pairs":"AQ BM CN DD EH FV GW KX LY OU PS RT ZZ","n":13,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":25,"m":22,"r":20,"k":1,"T":"O","a":"O","pairs":"AD BH CF EV GJ IZ KS LL MT NP OO RR UX WW","n":14,"amb":0}
+{"wo":"II,III,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":25,"m":23,"r":20,"k":0,"T":"O","a":"O","pairs":"AD BH CF EV GJ IZ KS LL MT NP OO RR UX WW","n":14,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":0,"m":15,"r":14,"k":1,"T":"O","a":"U","pairs":"BJ DQ ET FR GP HY KZ LS NN OU VV WW XX","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":21,"l":0,"m":25,"r":6,"k":3,"T":"O","a":"T","pairs":"BI CE DZ GU LL MR NP OT SX VY WW","n":11,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":3,"m":13,"r":1,"k":9,"T":"E","a":"U","pairs":"AB CO DQ EU GZ HR JM KY NS PV TT WW XX","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":7,"m":1,"r":10,"k":2,"T":"O","a":"V","pairs":"AX BI CD EK FH GG JN LR MT OV QQ SS UY WZ","n":14,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":9,"m":17,"r":13,"k":10,"T":"O","a":"Y","pairs":"BH DD EI FF GQ JS KR LV MN OY PT WX ZZ","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":15,"m":7,"r":21,"k":3,"T":"O","a":"Q","pairs":"AV BB CC EU FT GZ HY IL JR KS NX OQ PW","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":21,"m":9,"r":9,"k":0,"T":"O","a":"O","pairs":"AR BP CF EH GG KN LU MW OO SX TT VY ZZ","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":21,"m":9,"r":9,"k":12,"T":"O","a":"O","pairs":"AR BP CD EH FT GG KN LU MW OO SX VY ZZ","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":21,"m":9,"r":9,"k":13,"T":"O","a":"O","pairs":"AR BP CD EH GG KN LU MW OO SX TT VY ZZ","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":21,"m":12,"r":6,"k":6,"T":"O","a":"G","pairs":"AN BK CD EE FF GO HW IR JY LV MZ PQ SX TU","n":14,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":22,"m":8,"r":8,"k":8,"T":"O","a":"O","pairs":"AR BP DH EY FL GT IX MN OO QW SU VV ZZ","n":13,"amb":0}
+{"wo":"II,III,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":22,"m":8,"r":8,"k":9,"T":"O","a":"O","pairs":"AR BP CZ DH EY FL GT IX MN OO QW SU VV","n":13,"amb":0}
+{"wo":"II,I,V","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":4,"m":9,"r":22,"k":7,"T":"O","a":"F","pairs":"AX BB DI EQ FO GH JZ KP LY MW NU RR SV","n":13,"amb":0}
+{"wo":"II,I,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":11,"r":8,"k":3,"T":"O","a":"H","pairs":"AE BZ DQ FL GT HO IY JR NU PV SS WW XX","n":13,"amb":0}
+{"wo":"II,I,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":11,"m":5,"r":9,"k":7,"T":"O","a":"X","pairs":"BP CI DQ ER FN GG JL KZ MT OX SS UW VV","n":13,"amb":0}
+{"wo":"II,I,V","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":16,"m":7,"r":0,"k":5,"T":"O","a":"W","pairs":"AT BZ CQ DF EP GH JN LM OW RX SV UY","n":12,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":1,"m":10,"r":2,"k":0,"T":"O","a":"G","pairs":"AX BD CE FM GO HY KZ LT NR PW QU SV","n":12,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":2,"m":18,"r":10,"k":6,"T":"O","a":"K","pairs":"AV BY CF DD ES GT HL IR JQ KO MN UU WZ","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":11,"m":8,"r":13,"k":3,"T":"O","a":"O","pairs":"AA BF CU DZ EX GT HR KY LV NN OO PS QW","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":11,"m":15,"r":6,"k":9,"T":"O","a":"L","pairs":"AJ BI CR DH EP FU GX KV LO MY NN QW SS TZ","n":14,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":12,"m":4,"r":25,"k":9,"T":"O","a":"O","pairs":"AW BG CD EI FP JZ KY LS MV NN OO QU RR TT XX","n":15,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":14,"m":23,"r":12,"k":12,"T":"O","a":"N","pairs":"AA BD CS EL FR GV JZ KQ NO PY TX WW","n":12,"amb":0}
+{"wo":"II,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":15,"m":6,"r":11,"k":2,"T":"E","a":"L","pairs":"BF CT DR EL GZ IW JJ KP MQ NU OY SV XX","n":13,"amb":0}
+{"wo":"II,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":13,"m":8,"r":6,"k":12,"T":"O","a":"O","pairs":"AN BL CX DW EF GZ JT OO RR SS UY","n":11,"amb":0}
+{"wo":"II,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":52,"l":19,"m":15,"r":5,"k":7,"T":"O","a":"K","pairs":"CR EJ FM GL IW KO NZ PQ SX TU VV","n":11,"amb":0}
+{"wo":"II,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":20,"m":2,"r":5,"k":8,"T":"O","a":"E","pairs":"AT BW CG DI EO FM HN KZ LX QR SS VV YY","n":13,"amb":0}
+{"wo":"II,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":24,"m":22,"r":22,"k":13,"T":"O","a":"K","pairs":"AG BV CE DD HT JY KO LL MZ NP QR SS UX WW","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":3,"m":24,"r":22,"k":11,"T":"O","a":"S","pairs":"AQ BB CD EJ FU GG HX KT MV NP OS RY WW ZZ","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":12,"m":1,"r":15,"k":8,"T":"O","a":"M","pairs":"AB CX DP EI GU HL JK MO NT QS RW VY ZZ","n":13,"amb":0}
+{"wo":"II,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":14,"m":24,"r":7,"k":12,"T":"O","a":"O","pairs":"BY CM DP EI FV GR HZ JQ KN LL OO SS TU WX","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":17,"m":0,"r":25,"k":10,"T":"E","a":"L","pairs":"AR BC DK EL FY GN HJ IW MV OO PZ QX SS TT","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":12,"r":19,"k":9,"T":"O","a":"J","pairs":"AS BB CV DX ET FP GQ HZ IW JO KN LR MY","n":13,"amb":0}
+{"wo":"II,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":8,"m":2,"r":20,"k":4,"T":"O","a":"F","pairs":"AS BQ DV EM FO GY HX IN KW LR PT ZZ","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":20,"m":10,"r":13,"k":2,"T":"E","a":"I","pairs":"AY BZ CJ DQ EI GR KT LP MO NN SX UW","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":11,"r":9,"k":4,"T":"O","a":"K","pairs":"AN BC DM EX FF GV IY JZ KO PW QQ RT SS","n":13,"amb":1}
+{"wo":"II,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":11,"r":9,"k":5,"T":"O","a":"K","pairs":"AJ BC DZ EX FF GV HY IS KO MN PW QQ RT","n":13,"amb":1}
+{"wo":"II,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":17,"r":21,"k":6,"T":"O","a":"R","pairs":"AF BP CY DG EX HT KN MW OR QV SZ","n":11,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":1,"m":11,"r":18,"k":11,"T":"O","a":"O","pairs":"AJ BE CX DL FF IT MM NV OO QU RW SS YZ","n":13,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":1,"m":11,"r":18,"k":12,"T":"O","a":"O","pairs":"AJ BE CX DL FG IT MM NV OO QU RW SS YZ","n":13,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":1,"m":17,"r":18,"k":3,"T":"O","a":"J","pairs":"AH BS CQ DP EX FL GG IR JO KN TZ UV WW YY","n":14,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":3,"m":24,"r":6,"k":13,"T":"E","a":"A","pairs":"AE BV CJ DF GZ HO LY MM NN PQ RU SS TT WX","n":14,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":4,"m":19,"r":1,"k":13,"T":"O","a":"F","pairs":"AG BY DK FO JL NN PR SZ TV WW","n":10,"amb":1}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":11,"m":2,"r":0,"k":1,"T":"O","a":"E","pairs":"AA BM CF DJ EO IR KX NN QU SY TW VZ","n":12,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":21,"m":6,"r":2,"k":9,"T":"O","a":"J","pairs":"AG CD EX FI HY JO KN LW MZ PV QR ST","n":12,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":22,"m":25,"r":1,"k":5,"T":"O","a":"U","pairs":"AK BC DN EZ FW GJ HY IX LR OU PS QV TT","n":13,"amb":0}
+{"wo":"II,V,III","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":25,"m":4,"r":4,"k":1,"T":"O","a":"J","pairs":"AC BD EU FW JO KN LS PR TY VV XZ","n":11,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":6,"m":6,"r":17,"k":0,"T":"O","a":"P","pairs":"AK BT CJ DH EN FI LR MV OP QY SU WX","n":12,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":6,"m":23,"r":0,"k":6,"T":"O","a":"N","pairs":"AP BE CI DD FM KZ LW NO QY RR SV TT XX","n":13,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":12,"m":4,"r":12,"k":7,"T":"O","a":"F","pairs":"AL BS CK DX EH FO GW MQ NN PZ RT VY","n":12,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":12,"m":24,"r":11,"k":1,"T":"O","a":"X","pairs":"AF CG DZ EL IM JN KV OX QT RU SS WW YY","n":13,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":14,"m":13,"r":4,"k":12,"T":"E","a":"Z","pairs":"AS BC DK EZ FM GO HR IT JJ NW PQ XY","n":12,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWXROSENOW","p":67,"l":20,"m":18,"r":23,"k":10,"T":"E","a":"D","pairs":"AZ BF CC DE HR IT JM KP NO SS VW XX YY","n":13,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":32,"l":21,"m":6,"r":25,"k":9,"T":"O","a":"J","pairs":"BE CX FY GS IN JO KR LP TT UZ WW","n":11,"amb":0}
+{"wo":"II,V,I","ref":"B","crib":"ROSENOWROSENOW","p":1,"l":24,"m":11,"r":0,"k":10,"T":"O","a":"K","pairs":"AA BC DW ES HT KO MM NN PV QZ RX","n":11,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":3,"m":19,"r":4,"k":7,"T":"O","a":"J","pairs":"AT BI CX DK EM FH GQ JO LN RV SS UW YZ","n":13,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":8,"m":7,"r":24,"k":11,"T":"O","a":"T","pairs":"AG BX CC DK EZ FU HW IR JM LL NV OT SY","n":13,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":10,"m":20,"r":18,"k":1,"T":"O","a":"Z","pairs":"AV BN DG ET FY LS OZ PR UW XX","n":10,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":15,"m":21,"r":4,"k":10,"T":"O","a":"T","pairs":"AB CF DS EE GZ IN JV KW LY OT RR UX","n":12,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":19,"m":16,"r":23,"k":1,"T":"O","a":"Z","pairs":"AT CP EJ FY HN MM OZ QW RV SS","n":10,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":20,"m":16,"r":14,"k":7,"T":"E","a":"V","pairs":"BD CY EV GR HZ IO JT KW MU NS PP QQ XX","n":13,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":22,"m":15,"r":25,"k":2,"T":"O","a":"C","pairs":"AD BI CO EU FL GV JY KN PW RS XZ","n":11,"amb":0}
+{"wo":"II,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":25,"m":12,"r":19,"k":3,"T":"W","a":"H","pairs":"BB CJ DP EE FT GS HW LN MU OR VZ XY","n":12,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":6,"m":13,"r":25,"k":0,"T":"E","a":"H","pairs":"BF CQ DG EH IS JY KN LO MM PV RR TT UW XZ","n":14,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":18,"m":23,"r":2,"k":8,"T":"O","a":"F","pairs":"AN BQ CM DI EZ FO GG HL JW KS RU TV","n":12,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":19,"m":25,"r":13,"k":3,"T":"O","a":"O","pairs":"AG BM CV DF ES IX JW KN LY OO PZ QT RR","n":13,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":19,"m":25,"r":13,"k":4,"T":"O","a":"O","pairs":"AG BM CV DF ES IX JW KN LY OO PZ QT RR","n":13,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWXROSENOW","p":3,"l":20,"m":23,"r":1,"k":4,"T":"O","a":"Z","pairs":"AD BM CX EH FW JS KT LQ NP OZ RR UV YY","n":13,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":23,"m":22,"r":1,"k":4,"T":"O","a":"R","pairs":"AT BG CQ DD EE FK IY LX MN OR PS VW ZZ","n":13,"amb":0}
+{"wo":"III,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":19,"r":0,"k":9,"T":"O","a":"H","pairs":"AC BU DD EF GV HO IZ JY KX NQ RW ST","n":12,"amb":0}
+{"wo":"III,I,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":5,"m":7,"r":8,"k":2,"T":"O","a":"O","pairs":"AC BJ DP EI FF GZ HQ KS LW MN OO RR TV XX YY","n":15,"amb":0}
+{"wo":"III,I,II","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":9,"m":14,"r":25,"k":3,"T":"O","a":"D","pairs":"AZ BX CQ DO EE FW GY IV JJ KS LP MR NT UU","n":14,"amb":0}
+{"wo":"III,I,II","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":15,"m":4,"r":14,"k":13,"T":"E","a":"J","pairs":"AW BL CG DH EJ IO KY MR NN PT QX SS ZZ","n":13,"amb":0}
+{"wo":"III,I,II","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":18,"m":13,"r":0,"k":9,"T":"O","a":"A","pairs":"AO BF CC EY GR HZ IX KW LM NV PT SU","n":12,"amb":0}
+{"wo":"III,I,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":18,"m":15,"r":11,"k":11,"T":"O","a":"H","pairs":"BM CI DY EJ FS GV HO LL NQ PT RR UX WW ZZ","n":14,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":0,"m":6,"r":9,"k":5,"T":"O","a":"L","pairs":"AR BD EK FN GG HY LO MT PQ SX VZ WW","n":12,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":6,"m":6,"r":19,"k":7,"T":"O","a":"O","pairs":"AG BH CZ DU EV FX JN KR LS MT OO PQ WW YY","n":14,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":6,"m":17,"r":6,"k":1,"T":"O","a":"V","pairs":"BX CD ES FG HT JP LY MN OV RZ WW","n":11,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":6,"m":18,"r":6,"k":0,"T":"O","a":"V","pairs":"BX CD ES GI HT JP LY MN OV RZ WW","n":11,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":6,"m":25,"r":24,"k":10,"T":"O","a":"U","pairs":"AX CC DQ EN FK GS JY LW MT OU PV RR","n":12,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":8,"m":3,"r":12,"k":2,"T":"O","a":"O","pairs":"AH BI CX DG EL FS JY KV NZ OO PR QU TW","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":9,"m":6,"r":15,"k":8,"T":"O","a":"W","pairs":"AB CI DF EH GR JN KS MP OW QV TZ XX YY","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":14,"m":15,"r":1,"k":8,"T":"O","a":"W","pairs":"AE BB CN DK FL GR HZ JQ OW PU SY TT VV","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":16,"m":5,"r":21,"k":0,"T":"O","a":"I","pairs":"AY BF CE DZ HN IO KV LX MW PS QQ RT","n":12,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":16,"m":17,"r":12,"k":7,"T":"O","a":"Q","pairs":"AB CV DD EP FJ GL IS KR MY NX OQ TW UZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":21,"m":14,"r":2,"k":7,"T":"O","a":"J","pairs":"AH BS CG DR EU FF JO NT PQ VW XX YY","n":12,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":23,"m":7,"r":21,"k":9,"T":"O","a":"U","pairs":"AD BG CY EH FJ KS MV NR OU PX QT WW ZZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":23,"m":7,"r":21,"k":10,"T":"O","a":"U","pairs":"AD BG CY EH FJ KS LX MV NR OU QT WW ZZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":5,"r":13,"k":3,"T":"O","a":"L","pairs":"AN BK CI DF EE GX LO PS QZ RV TU WW YY","n":13,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":0,"m":1,"r":1,"k":8,"T":"O","a":"I","pairs":"BK CJ ET HX IO LW MZ NU PP RV SY","n":11,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":0,"m":14,"r":2,"k":7,"T":"O","a":"F","pairs":"AG BS CK DI EM FO HY JT LR NV QQ UZ WW XX","n":14,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":2,"m":1,"r":2,"k":10,"T":"O","a":"X","pairs":"AB CT DK EU FL GJ IZ NN OX QW RS VY","n":12,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":9,"m":22,"r":12,"k":11,"T":"O","a":"I","pairs":"AE CL DY FF HR IO JQ MM NW SS TV XZ","n":12,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":9,"m":22,"r":12,"k":12,"T":"O","a":"I","pairs":"AE CL DY FU HR IO JQ MM NW SS TV XZ","n":12,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":9,"m":22,"r":12,"k":13,"T":"O","a":"I","pairs":"AE BX CL DY FU HR IO JQ MM NW SS TV","n":12,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWXROSENOW","p":7,"l":10,"m":4,"r":8,"k":4,"T":"O","a":"O","pairs":"AA BZ CC DI EW FU GM KY LS NQ OO RV TX","n":13,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":11,"m":0,"r":1,"k":13,"T":"O","a":"O","pairs":"AP BJ CZ DK EM FH GU IV LX NT OO QY RR SW","n":14,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":12,"m":5,"r":6,"k":0,"T":"O","a":"C","pairs":"AJ BM CO DD EH FI GX KV NT PY QZ RW SU","n":13,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWXROSENOW","p":40,"l":17,"m":2,"r":25,"k":4,"T":"O","a":"J","pairs":"BQ CC DD EL GX HN IZ JO MT PV RU SS WW","n":13,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":21,"l":19,"m":0,"r":11,"k":2,"T":"O","a":"Q","pairs":"BL DZ EI FY GJ NV OQ PX RS TW","n":10,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":25,"m":13,"r":19,"k":4,"T":"O","a":"J","pairs":"AY BT CG EW IM JO NU PQ RR SZ VX","n":11,"amb":0}
+{"wo":"III,II,I","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":25,"m":13,"r":19,"k":5,"T":"O","a":"J","pairs":"AY BT CG EW JO MM NU PQ RR SZ VX","n":11,"amb":0}
+{"wo":"III,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":7,"m":3,"r":9,"k":13,"T":"O","a":"O","pairs":"AH BL CG DX ER FF IY JQ KN OO PS TU VZ WW","n":14,"amb":0}
+{"wo":"III,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":7,"m":4,"r":9,"k":5,"T":"O","a":"Q","pairs":"AB CP DG ET HL IW JJ KS NY OQ RZ UV","n":12,"amb":0}
+{"wo":"III,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":12,"m":21,"r":21,"k":8,"T":"O","a":"N","pairs":"AT BI CM GR HS KY LP NO VW","n":9,"amb":1}
+{"wo":"III,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":17,"m":2,"r":4,"k":4,"T":"O","a":"O","pairs":"AT BH DD EE FZ GG KS MY NN OO PV QR UX WW","n":14,"amb":0}
+{"wo":"III,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":23,"m":8,"r":0,"k":6,"T":"O","a":"H","pairs":"AN BL CP DQ ES FV GU HO IR JZ MT WY","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":0,"m":25,"r":13,"k":2,"T":"O","a":"I","pairs":"BM CT DK ER FW GG IO JU LZ NY PV SX","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":2,"m":22,"r":4,"k":5,"T":"O","a":"P","pairs":"AN BL CR DX EH GW IS JJ KU OP QT VZ","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":8,"m":0,"r":17,"k":3,"T":"O","a":"Y","pairs":"AZ BJ DU EF GL KV NN OY QT RS WW XX","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":8,"m":6,"r":18,"k":6,"T":"O","a":"Z","pairs":"AJ BH CK DN EI FY LW MX OZ PS QU RR TT VV","n":14,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":8,"m":23,"r":18,"k":13,"T":"O","a":"O","pairs":"BH DG EL FK IY JT MS NP OO RR UV WX ZZ","n":13,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":12,"m":15,"r":21,"k":2,"T":"O","a":"P","pairs":"AT BQ CV DY EI GN JK LR MS OP UU WW ZZ","n":13,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":19,"m":15,"r":22,"k":2,"T":"O","a":"N","pairs":"AR BK CF DE GW HT JY LL NO PU QZ SS VX","n":13,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":19,"m":15,"r":22,"k":3,"T":"O","a":"N","pairs":"AR BK CF DE GW HT JY LM NO PU QZ SS VX","n":13,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":20,"m":16,"r":22,"k":7,"T":"O","a":"W","pairs":"AF BQ CX DD EV GH JN KR MS OW TY UZ","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":20,"m":16,"r":22,"k":8,"T":"O","a":"W","pairs":"AF BQ CX DD EV GH JN KR MS OW TY UZ","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWXROSENOW","p":42,"l":23,"m":7,"r":18,"k":11,"T":"O","a":"M","pairs":"AB CC DR EJ HU KS LQ MO NY PV TW ZZ","n":12,"amb":0}
+{"wo":"III,II,V","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":23,"m":7,"r":25,"k":10,"T":"O","a":"O","pairs":"AA BF CG DX EQ MR NN OO PZ SV TT WW YY","n":13,"amb":0}
+{"wo":"III,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":1,"m":22,"r":9,"k":9,"T":"O","a":"H","pairs":"AK BF CV DW EE GJ HO IT LR MX NP QY SZ","n":13,"amb":0}
+{"wo":"III,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":8,"m":23,"r":13,"k":6,"T":"O","a":"U","pairs":"AX BY CJ DN ES GR IV MZ OU PT QQ WW","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":9,"m":18,"r":14,"k":8,"T":"O","a":"I","pairs":"BT CX DL ES FU GP HV IO NR WY ZZ","n":11,"amb":0}
+{"wo":"III,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":52,"l":11,"m":24,"r":0,"k":2,"T":"O","a":"I","pairs":"AN BU DS EH FM GJ IO KZ LP QR VV WX","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":19,"m":15,"r":24,"k":5,"T":"O","a":"K","pairs":"AF BU CZ DD EL GG HS JY KO MW NN PR QX TV","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWXROSENOW","p":66,"l":4,"m":5,"r":13,"k":14,"T":"E","a":"L","pairs":"AR BG CM DH EL IN JU KO PQ SS TV WY XX ZZ","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":5,"m":6,"r":3,"k":13,"T":"O","a":"N","pairs":"AT BG CD EI FR LL MU NO PZ QS WW XY","n":12,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":18,"m":7,"r":12,"k":3,"T":"O","a":"K","pairs":"AT BG CM DD EQ FV HR IZ JL KO NU SS WW","n":13,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":19,"m":4,"r":2,"k":7,"T":"O","a":"X","pairs":"AE BB CY DQ GG HS IT KW LP MZ NR OX UU VV","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":19,"m":4,"r":2,"k":9,"T":"O","a":"X","pairs":"AZ BB CJ DQ EY GP HS IT KW LM NR OX UU VV","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":19,"m":4,"r":2,"k":10,"T":"O","a":"X","pairs":"AZ BB CJ DQ EY GP HS IT KW LM NR OX UU VV","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":60,"l":22,"m":25,"r":14,"k":5,"T":"E","a":"A","pairs":"AE BH GQ IZ JM LS NN OX PW RR VY","n":11,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":1,"m":22,"r":20,"k":4,"T":"O","a":"I","pairs":"AS BM CY DD EZ FH GU IO JX KR NQ TT VW","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":6,"m":11,"r":5,"k":0,"T":"O","a":"G","pairs":"AB CJ DR EW FF GO HY KS MM NP QQ TZ VX","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":6,"m":25,"r":13,"k":3,"T":"O","a":"C","pairs":"BQ CO DJ EI FM GK HZ LN PP RR SS TV WX","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":7,"m":11,"r":18,"k":1,"T":"O","a":"P","pairs":"AV BD CI EE JY LW NQ OP RT SX UZ","n":11,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":7,"m":12,"r":18,"k":0,"T":"O","a":"P","pairs":"AV BD CI EE FY LW NQ OP RT SX UZ","n":11,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":7,"m":12,"r":18,"k":13,"T":"O","a":"P","pairs":"BD CI EE FY JV LW NQ OP RT SX UZ","n":11,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":10,"m":17,"r":22,"k":11,"T":"O","a":"Z","pairs":"AT BI CE DQ FL JY MW NV OZ PS RR UX","n":12,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":11,"m":9,"r":12,"k":4,"T":"O","a":"O","pairs":"AX BQ CL DH EK FF GZ IV JW NN OO RU SY TT","n":14,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":13,"m":5,"r":12,"k":11,"T":"O","a":"I","pairs":"AE BL CV DD FP GK HR IO NN SW TX YY ZZ","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":13,"m":24,"r":2,"k":9,"T":"O","a":"O","pairs":"AI BH CX DW EE FM GU JY KV LN OO PZ QT RR SS","n":15,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWXROSENOW","p":42,"l":15,"m":17,"r":21,"k":12,"T":"O","a":"K","pairs":"AX BY CR DS EE FV GW HT IN JM KO LL PZ UU","n":14,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":23,"m":0,"r":23,"k":12,"T":"O","a":"O","pairs":"AV BJ CN DL EK FG HX MT OO RU SZ WY","n":12,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":23,"m":12,"r":2,"k":1,"T":"O","a":"T","pairs":"AS BH CD EZ FP GW JY NV OT QQ RU XX","n":12,"amb":0}
+{"wo":"III,IV,V","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":24,"m":19,"r":2,"k":13,"T":"W","a":"P","pairs":"AB CC EV GU HZ JN KT LM OR PW QS XY","n":12,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":33,"l":1,"m":14,"r":19,"k":7,"T":"O","a":"A","pairs":"AO BD CP EK GW HU IR JT LL NN QS VY XZ","n":13,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":1,"m":23,"r":22,"k":2,"T":"E","a":"I","pairs":"AX BM DG EI HS JK LT NV OP RZ WY","n":11,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":2,"m":13,"r":25,"k":8,"T":"O","a":"D","pairs":"AI BC DO EG FL HN KR MX PS QW TU VV YY ZZ","n":14,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":3,"m":7,"r":9,"k":8,"T":"O","a":"C","pairs":"AA BZ CO DU EK FQ GT HW LY MX NR SV","n":12,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":11,"m":14,"r":15,"k":11,"T":"O","a":"J","pairs":"AE BT CY DP FN GM JO LZ QW RR SS UV XX","n":13,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":13,"m":23,"r":23,"k":13,"T":"O","a":"F","pairs":"BQ CV DD EM FO GU IL JZ KW NT RX SY","n":12,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":15,"m":25,"r":4,"k":11,"T":"W","a":"F","pairs":"BG CS EM FW LY NP OZ RV TX UU","n":10,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":17,"m":10,"r":16,"k":9,"T":"O","a":"O","pairs":"AS BP CZ DH EJ FN GK IW LQ OO RU VY XX","n":13,"amb":0}
+{"wo":"III,V,II","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":23,"m":5,"r":15,"k":1,"T":"O","a":"G","pairs":"AA CX DV EJ FS GO IW KN MM QQ RR TU YY","n":13,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":7,"m":10,"r":7,"k":7,"T":"O","a":"O","pairs":"AQ BH CS DZ EU FK GW IT JV LX NN OO PY RR","n":14,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":7,"m":10,"r":7,"k":8,"T":"O","a":"O","pairs":"AQ BH CS DZ EU FK GW IT JV LX NN OO RR YY","n":14,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":13,"m":2,"r":15,"k":1,"T":"O","a":"O","pairs":"AS BY DM ET FH GP IL JW KN OO QX RU ZZ","n":13,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":15,"m":0,"r":25,"k":6,"T":"O","a":"V","pairs":"AM BG CC DD EI FF HN LX OV PR QU SS TY WW","n":14,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":17,"m":1,"r":14,"k":7,"T":"E","a":"F","pairs":"AS BB CZ EF GR HY JL MN OQ PV UX WW","n":12,"amb":0}
+{"wo":"III,V,I","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":23,"m":13,"r":7,"k":9,"T":"O","a":"T","pairs":"AY BQ DU EE GG HW IS JN KX LL OT PZ RR","n":13,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":1,"m":21,"r":22,"k":6,"T":"O","a":"J","pairs":"AB CF DX EL GU HW IV JO KN PR QZ SY TT","n":13,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":8,"m":24,"r":3,"k":4,"T":"O","a":"Z","pairs":"AW BR CP DX EK FU GG HS LQ NT OZ","n":11,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":11,"m":2,"r":12,"k":7,"T":"O","a":"U","pairs":"AN BI CF DS EQ GR JL KP MX OU VY WZ","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":13,"m":14,"r":3,"k":6,"T":"O","a":"E","pairs":"AD BP CM EO FI HS JZ KY LV NN QU RR TX WW","n":14,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":16,"m":11,"r":7,"k":11,"T":"O","a":"J","pairs":"AN BC DK EI FZ GG JO LT PY QS RV UW XX","n":13,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":18,"m":22,"r":10,"k":5,"T":"O","a":"M","pairs":"AZ BK CP DX EE GY IW JU LS MO NR TT VV","n":13,"amb":0}
+{"wo":"III,V,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":23,"m":6,"r":10,"k":12,"T":"O","a":"Z","pairs":"AE BB CP DT FF HQ JS KN OZ RR UV WY XX","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":7,"m":23,"r":15,"k":11,"T":"O","a":"L","pairs":"AG CK DX EM FH IV JS LO NZ PT QW RR YY","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":10,"m":11,"r":5,"k":2,"T":"E","a":"K","pairs":"BL CN DD EK FY GM IT JP OO QX RV SU WZ","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":12,"m":13,"r":0,"k":1,"T":"W","a":"P","pairs":"BD CC EQ FU GY IL JR NN OV PW SS TT XZ","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":18,"m":2,"r":3,"k":10,"T":"E","a":"L","pairs":"BW CI DD EL FR GM JQ KS NY OV PX TT ZZ","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":18,"m":2,"r":3,"k":11,"T":"E","a":"L","pairs":"BW CI DD EL FR GM JQ KS NY OV PX TT ZZ","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":22,"m":17,"r":13,"k":12,"T":"O","a":"O","pairs":"AL BX CW DD EE FS GN HR JY KV MZ OO PU QT","n":14,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":0,"m":11,"r":15,"k":7,"T":"O","a":"H","pairs":"BB CJ DD EE FL GI HO MV NW RT SS UU ZZ","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":0,"m":11,"r":15,"k":8,"T":"O","a":"H","pairs":"BB CJ DY EE FL GI HO MV NW RT SS UU ZZ","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":2,"m":23,"r":19,"k":3,"T":"W","a":"F","pairs":"AL BB CI DR EJ FW HT KY NU OX PV QS ZZ","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":4,"m":21,"r":24,"k":12,"T":"O","a":"J","pairs":"AD BS CZ EV FL GH IQ JO NN RR TT UY WW XX","n":14,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":5,"m":22,"r":6,"k":3,"T":"O","a":"I","pairs":"AT BQ CX DP EZ FR GW HN IO JL KS MY","n":12,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":7,"m":17,"r":15,"k":12,"T":"O","a":"X","pairs":"AA BU CE DG FY IS JN KV LT MW OX PZ QQ RR","n":14,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":9,"m":5,"r":15,"k":6,"T":"O","a":"O","pairs":"AZ BU CX DP EK FF GG HV IY LR MS NW OO QQ TT","n":15,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":12,"m":13,"r":11,"k":6,"T":"O","a":"Q","pairs":"AW BU CC DI EZ GL JX NN OQ PT RR SV","n":12,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":18,"m":13,"r":12,"k":4,"T":"O","a":"R","pairs":"AD BN CP EE FK IV JX MM OR QS TT WW YZ","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":18,"m":15,"r":4,"k":8,"T":"O","a":"O","pairs":"AY BB CC DZ EG FS HV JN MT OO PW QX RU","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":20,"m":24,"r":13,"k":4,"T":"E","a":"W","pairs":"BI CP EW GJ HO KZ LS MM NN QT RU VX YY","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":24,"m":7,"r":10,"k":13,"T":"O","a":"B","pairs":"BO CP DV EK FW GG JY LL MN QR SS TU ZZ","n":13,"amb":0}
+{"wo":"IV,II,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":0,"m":25,"r":10,"k":5,"T":"O","a":"A","pairs":"AO BR CG DS EM FZ IL JU KW NN TV","n":11,"amb":0}
+{"wo":"IV,II,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":18,"r":25,"k":4,"T":"O","a":"O","pairs":"AL BY CG DI EM HX JS KW NN OO PZ TV","n":12,"amb":1}
+{"wo":"IV,II,I","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":5,"m":22,"r":11,"k":13,"T":"O","a":"R","pairs":"AX BG CQ DY EJ FP HN IW KS LM OR TT ZZ","n":13,"amb":0}
+{"wo":"IV,II,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":14,"m":13,"r":22,"k":7,"T":"O","a":"D","pairs":"AP BX CY DO EJ FF GW HN LV MZ QR ST","n":12,"amb":0}
+{"wo":"IV,II,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":14,"m":13,"r":22,"k":8,"T":"O","a":"D","pairs":"AP BX CY DO EJ FF GW HN MZ QR ST UV","n":12,"amb":0}
+{"wo":"IV,II,V","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":8,"m":6,"r":15,"k":7,"T":"O","a":"A","pairs":"AO BS DH EU FV GW IZ JX LP NR","n":10,"amb":0}
+{"wo":"IV,II,V","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":9,"m":4,"r":20,"k":2,"T":"E","a":"T","pairs":"AM BB CW DP ET FJ NU OQ RR SS VX YY ZZ","n":13,"amb":0}
+{"wo":"IV,II,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":23,"m":9,"r":9,"k":2,"T":"O","a":"V","pairs":"AN BI CF DG EL HZ JT OV QU RW SX YY","n":12,"amb":0}
+{"wo":"IV,II,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":24,"m":7,"r":9,"k":6,"T":"O","a":"F","pairs":"AV BJ CM DU EE FO HQ IZ KT LY NX PR SW","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":19,"r":6,"k":0,"T":"O","a":"Z","pairs":"AC BB DH EK FI GJ LW NN OZ QR SU TX VY","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":19,"r":6,"k":13,"T":"O","a":"Z","pairs":"AC BB DH EK FI GJ LW NN OZ QR SU TX VY","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":5,"m":18,"r":0,"k":5,"T":"O","a":"A","pairs":"AO BB CF DT EL GM IX NR PV SU WY ZZ","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":7,"m":4,"r":23,"k":3,"T":"O","a":"U","pairs":"AN CS DV EM FQ GT HR JW KX LY OU","n":11,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":9,"m":10,"r":23,"k":9,"T":"E","a":"E","pairs":"AS BB CO DW EE IT JJ KZ LP MM NY RR UX","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":12,"m":4,"r":20,"k":3,"T":"O","a":"A","pairs":"AO BQ CW DD EP FN GH JT KX LR MV SY ZZ","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":17,"m":23,"r":24,"k":4,"T":"O","a":"Y","pairs":"AP BH DL EV FQ GK JN OY RR SS TZ UX WW","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":18,"m":25,"r":13,"k":0,"T":"O","a":"B","pairs":"AL BO CN DP EE FY GW HV JS KQ MR TT XZ","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":19,"m":8,"r":20,"k":1,"T":"O","a":"O","pairs":"AC BB DP EZ FR GG HV IJ KW LL MS NQ OO TX UU","n":15,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":22,"m":11,"r":3,"k":13,"T":"O","a":"M","pairs":"AU BD CW EZ FR GV KN LL MO PS TT","n":11,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWXROSENOW","p":44,"l":23,"m":9,"r":6,"k":6,"T":"O","a":"O","pairs":"BB CK DD EF GG HR IW JQ LT MU NX OO SS VZ","n":14,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":23,"m":17,"r":24,"k":10,"T":"O","a":"G","pairs":"AP BR CL DD EN FU GO IX KT MY QZ SW VV","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":23,"m":23,"r":5,"k":12,"T":"O","a":"G","pairs":"AW BM CZ GO IR KN PQ SS UY XX","n":10,"amb":1}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":24,"m":17,"r":3,"k":4,"T":"O","a":"R","pairs":"AW BB CQ DJ EI GY HZ KT LP MV NN OR SS UX","n":14,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":24,"m":22,"r":11,"k":4,"T":"O","a":"L","pairs":"AC BX DS EF HN JY LO PZ QT RV UW","n":11,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":24,"m":22,"r":11,"k":5,"T":"O","a":"L","pairs":"AC BX DS EF HN JY LO PZ QT RV UW","n":11,"amb":0}
+{"wo":"IV,I,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":25,"m":6,"r":4,"k":1,"T":"O","a":"O","pairs":"AM BB CT DZ EX FU GV HN OO PS QQ RR WY","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":0,"m":9,"r":0,"k":2,"T":"O","a":"Q","pairs":"AF BX CS DM EK GU HR IY LZ NV OQ TT WW","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":0,"m":9,"r":0,"k":3,"T":"O","a":"Q","pairs":"AF BX CS DM EK GU HR IY LZ NV OQ TT WW","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":0,"m":10,"r":0,"k":0,"T":"O","a":"Q","pairs":"AF BX CS DM EK GU HR LZ NV OQ TY WW","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":10,"m":8,"r":6,"k":0,"T":"O","a":"Z","pairs":"AR BD CJ EY GT HU IL KS MW NQ OZ VX","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":33,"l":10,"m":16,"r":11,"k":2,"T":"O","a":"E","pairs":"AW BY CC EO FS GT HZ JU LM NX PR","n":11,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWXROSENOW","p":7,"l":10,"m":23,"r":3,"k":5,"T":"O","a":"G","pairs":"AR BN CF DP EX GO HW IQ JT MS UV YY","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":12,"m":13,"r":24,"k":13,"T":"O","a":"Z","pairs":"AT BU CV DQ EJ FF GL HY KN MS OZ PW RX","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":18,"m":6,"r":20,"k":3,"T":"O","a":"Q","pairs":"AN BL CW DD EG IT JJ KZ MS OQ RR UU VV","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":21,"m":8,"r":10,"k":1,"T":"O","a":"U","pairs":"AR BE CV DK FG LS NY OU QQ TT WZ XX","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":15,"r":5,"k":6,"T":"O","a":"S","pairs":"AH BL CN DQ EI FP JV KZ MY OS RX TW","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":15,"r":5,"k":7,"T":"O","a":"S","pairs":"AH BL CN DQ EI FP GY JV KZ OS RX TW","n":12,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":1,"m":12,"r":20,"k":9,"T":"O","a":"N","pairs":"AA BB DW EL FG HR IV KT NO PQ SU XX YZ","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":5,"m":1,"r":0,"k":12,"T":"O","a":"I","pairs":"AA BK DP EE FV GT HY IO LR MZ NU QQ SW XX","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWXROSENOW","p":9,"l":5,"m":5,"r":23,"k":14,"T":"O","a":"H","pairs":"AE BM CC DS FI GG HO JQ KW NV PY RR TZ UX","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":8,"m":24,"r":20,"k":1,"T":"O","a":"O","pairs":"AA BH DF ER GT JS MZ NU OO PQ VV WW XX YY","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":64,"l":12,"m":2,"r":5,"k":4,"T":"E","a":"I","pairs":"AD BR CX EI JN LS MP OO QY TW VZ","n":11,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":12,"m":6,"r":25,"k":3,"T":"O","a":"F","pairs":"AW BX CS DP EJ FO GH IU KT LZ MR NV","n":12,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":14,"m":4,"r":3,"k":13,"T":"E","a":"I","pairs":"AM BB CS DD EI FW HR JK LO NQ PU TV XZ YY","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":14,"m":13,"r":3,"k":7,"T":"E","a":"E","pairs":"AO BL CW DK EE FX HJ IN MR PT SV UY ZZ","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":14,"m":18,"r":18,"k":5,"T":"O","a":"O","pairs":"AA BL CN DZ EE FF HS IX KR OO PV QY TT UW","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":14,"m":18,"r":18,"k":6,"T":"O","a":"O","pairs":"AM BL CN DZ EE FF HS IX KR OO PV QY TT UW","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":15,"m":23,"r":24,"k":7,"T":"O","a":"J","pairs":"AS BC DD EE FL GK HW JO NU QZ RX TY VV","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":16,"m":22,"r":2,"k":6,"T":"O","a":"X","pairs":"AW BE CV DR GH JT KS LL NY OX PZ UU","n":12,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":18,"m":17,"r":18,"k":0,"T":"O","a":"X","pairs":"AK BB CY DF EE HS IR JN LQ MW OX PT UV","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWXROSENOW","p":11,"l":19,"m":19,"r":7,"k":3,"T":"O","a":"U","pairs":"AA BP CD EE FY GG IV JW LZ MX NS OU QQ RR TT","n":15,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":20,"m":21,"r":8,"k":10,"T":"O","a":"M","pairs":"AA BV DK EJ FF GG HW IX LR MO NZ QY ST","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":20,"m":21,"r":8,"k":11,"T":"O","a":"M","pairs":"AA BV DU EJ FF GG HW IX LR MO NZ QY ST","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":21,"m":13,"r":24,"k":12,"T":"O","a":"H","pairs":"AV BB CE DF GG HO JJ LQ MN RY ST UU WZ","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":24,"m":24,"r":22,"k":13,"T":"E","a":"T","pairs":"AO BV CJ DX ET GN IM KZ LS PQ RR UY WW","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":2,"m":7,"r":20,"k":12,"T":"O","a":"O","pairs":"AR BL CE DH IT JX KZ NW OO VV YY","n":11,"amb":1}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":3,"m":21,"r":4,"k":6,"T":"O","a":"Z","pairs":"AA BR CD ES FI GV HM JW KY NN OZ QQ TX","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":7,"m":1,"r":7,"k":10,"T":"O","a":"N","pairs":"AD BK CC EH FZ GG JW LY MR NO QU SS TV","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":60,"l":8,"m":9,"r":13,"k":7,"T":"E","a":"T","pairs":"AX BH ET FZ GN IJ KS MP OY QQ RV WW","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":10,"m":12,"r":15,"k":8,"T":"O","a":"I","pairs":"AA BT CP DE FU GY IO KM LV NN QS RR WX","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":10,"m":17,"r":5,"k":0,"T":"W","a":"F","pairs":"AU BK CP DN EV FW GZ HL OS RT XY","n":11,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":13,"m":24,"r":18,"k":10,"T":"O","a":"V","pairs":"AR BN CL DJ EQ GH IP KY OV SW TX ZZ","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":21,"m":5,"r":13,"k":11,"T":"E","a":"K","pairs":"AX BT CR DZ EK FQ GJ HY MS NV OP UW","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":23,"m":23,"r":4,"k":4,"T":"O","a":"J","pairs":"AV BC DG ES FH JO KR LY NQ PU TX WZ","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":24,"m":3,"r":6,"k":11,"T":"W","a":"M","pairs":"AN BI CV DR EK GL HS JT MW OQ PP UX YZ","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":25,"m":25,"r":17,"k":4,"T":"O","a":"P","pairs":"AD BB CM EI GR HZ JJ LQ NN OP SS TV UX WY","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":2,"m":20,"r":1,"k":6,"T":"O","a":"E","pairs":"AH BI CG DD EO FN JQ KS PY RU TT VV WW XX","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":4,"m":6,"r":11,"k":1,"T":"O","a":"M","pairs":"AH BJ CC DD EZ FR GN IT KS MO QU VV WW XX YY","n":15,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWXROSENOW","p":40,"l":5,"m":4,"r":18,"k":0,"T":"O","a":"T","pairs":"AL BE DD FW GP HN IZ JK MR OT SY UU VV","n":13,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":28,"l":5,"m":7,"r":15,"k":7,"T":"W","a":"F","pairs":"AU BM CG DP EK FW HR IL NQ OT SY ZZ","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":5,"m":14,"r":1,"k":8,"T":"O","a":"X","pairs":"AF BV DM EH GQ IZ KW LY NN OX RR ST","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":5,"m":22,"r":18,"k":0,"T":"O","a":"U","pairs":"AL BR CC DD EI FZ GK HS JT MV NP OU QW","n":13,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":11,"m":6,"r":22,"k":12,"T":"O","a":"U","pairs":"AA BE CX DJ FK GG HS IQ MW NR OU PZ TT VY","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":12,"m":12,"r":7,"k":7,"T":"O","a":"Q","pairs":"AD BU CK EH FT GP JJ LX MW NR OQ SV ZZ","n":13,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":17,"l":15,"m":18,"r":2,"k":7,"T":"O","a":"F","pairs":"AP BT DH EJ FO GI KL NW RV SU XX YZ","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":15,"m":20,"r":10,"k":4,"T":"O","a":"Y","pairs":"AP BB CV DS EI FJ GL NQ OY RZ TX WW","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":22,"m":18,"r":1,"k":6,"T":"O","a":"O","pairs":"AA BM DH EX FL GK IW JQ NR OO PZ SU TV YY","n":14,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":2,"m":15,"r":21,"k":12,"T":"O","a":"J","pairs":"AA BP CD EE FV GG HT IY JO KN LW MS RR UZ XX","n":15,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":2,"m":15,"r":21,"k":13,"T":"O","a":"J","pairs":"AA BP CD EE FV GG HT IY JO KN LW MS RR UZ XX","n":15,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":31,"l":4,"m":1,"r":24,"k":13,"T":"O","a":"F","pairs":"AL BH CE FO GW IR MN QZ SY TV UX","n":11,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":66,"l":9,"m":18,"r":7,"k":4,"T":"E","a":"C","pairs":"AO BB CE DD FM GJ HP IY NV QR SW UZ XX","n":13,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":66,"l":9,"m":18,"r":7,"k":5,"T":"E","a":"C","pairs":"AO BB CE DD FM GJ HP IY LZ NV QR SW XX","n":13,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":17,"m":20,"r":3,"k":1,"T":"O","a":"O","pairs":"AJ BE CL DD FR GH IW KS MT NN OO PU QZ VV","n":14,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":18,"m":11,"r":11,"k":2,"T":"O","a":"O","pairs":"AV BB CI DL EX FU HZ JR NS OO QQ TT WW YY","n":14,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":18,"m":11,"r":11,"k":3,"T":"O","a":"O","pairs":"AV BB CI DL EX FU HZ JR NS OO QQ TT WW YY","n":14,"amb":0}
+{"wo":"V,I,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":24,"m":0,"r":6,"k":10,"T":"O","a":"L","pairs":"AW BZ CT DY EG FU HV IN KX LO MR PQ SS","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":0,"m":24,"r":15,"k":11,"T":"O","a":"C","pairs":"AA BW CO DM EL FF GX HR IN QQ SV TZ UY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":3,"m":25,"r":10,"k":8,"T":"O","a":"I","pairs":"AA BT CU DQ EG FH IO JN KR PW SZ VV XX YY","n":14,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":7,"m":20,"r":8,"k":3,"T":"O","a":"U","pairs":"AE CJ DV FZ HX IY KW LN MR OU PT QS","n":12,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":11,"m":4,"r":3,"k":0,"T":"E","a":"G","pairs":"BC DL EG HJ IO KP MZ NN RR SU TW VY XX","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":14,"m":5,"r":0,"k":5,"T":"O","a":"O","pairs":"AA BB CR DH EX FJ GT KQ LY MV NP OO SS UW ZZ","n":15,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":15,"m":11,"r":2,"k":9,"T":"O","a":"M","pairs":"AE BP CK DD FF IY JZ LS MO NU QX RR TT VW","n":14,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":16,"m":11,"r":0,"k":1,"T":"O","a":"O","pairs":"AJ BL CC DU EK FF HT IX MQ NP OO RY SS VV WW","n":15,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":17,"m":8,"r":20,"k":1,"T":"O","a":"A","pairs":"AO BM CX DN EW FR GG IQ KS TY VV ZZ","n":12,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":61,"l":18,"m":11,"r":6,"k":1,"T":"E","a":"K","pairs":"AZ BN CY DX EK FO HP IJ LS MM QW RR","n":12,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":19,"m":8,"r":17,"k":0,"T":"O","a":"U","pairs":"AK BB CT DP EH FX GM IV NR OU QY SZ WW","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":20,"m":0,"r":2,"k":7,"T":"O","a":"D","pairs":"AL BZ CC DO EE GG HS IN JY KT QU RW VV","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":23,"m":2,"r":5,"k":2,"T":"O","a":"Q","pairs":"BB CC DE FS GZ JL KX MW NP OQ RR TT VY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":23,"m":2,"r":5,"k":3,"T":"O","a":"Q","pairs":"BB CC DE FS GZ JL KX MW NP OQ RR TT VY","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":4,"m":23,"r":3,"k":12,"T":"E","a":"M","pairs":"BX CT DK EM FS HY JU LP NZ OV QW RR","n":12,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":5,"m":0,"r":18,"k":1,"T":"O","a":"O","pairs":"BS CQ EI FZ HP KR LL NX OO TT WW YY","n":12,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":5,"m":3,"r":4,"k":4,"T":"O","a":"A","pairs":"AO BI CY DG EW FV HN JR KT LQ PS UU ZZ","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":15,"m":9,"r":8,"k":4,"T":"O","a":"V","pairs":"AY BB CJ DE FZ IS KN LU MP OV QR TX WW","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":26,"l":15,"m":9,"r":8,"k":5,"T":"O","a":"V","pairs":"AY BB CJ DE FZ IS KN LU MP OV QR TX WW","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":25,"m":1,"r":16,"k":2,"T":"O","a":"O","pairs":"AC BK DJ EW FF GX HR IQ LT MN OO SS VZ YY","n":14,"amb":0}
+{"wo":"IV,V,I","ref":"B","crib":"ROSENOWXROSENOW","p":48,"l":25,"m":19,"r":11,"k":6,"T":"O","a":"Q","pairs":"AS BN CW DD EF GZ HV IL JU KX MM OQ RT","n":13,"amb":0}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":8,"m":8,"r":13,"k":1,"T":"E","a":"E","pairs":"AR BH CX DD EE FZ JK LP MU NQ OV ST WY","n":13,"amb":0}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":8,"m":18,"r":2,"k":7,"T":"O","a":"S","pairs":"AP CE DI HY MZ OS RR TW VV XX","n":10,"amb":1}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":12,"m":14,"r":17,"k":8,"T":"O","a":"F","pairs":"AI BC DX EK FO GR HS JQ LW MY NP TU VV ZZ","n":14,"amb":0}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":12,"m":17,"r":16,"k":5,"T":"O","a":"H","pairs":"BX CG DR EI FT HO JJ LQ NP SY UU VZ WW","n":13,"amb":0}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":15,"m":17,"r":7,"k":0,"T":"O","a":"N","pairs":"AS BV CT DP EQ FU GI HR JJ KW LL NO ZZ","n":13,"amb":0}
+{"wo":"IV,III,V","ref":"B","crib":"ROSENOWROSENOW","p":59,"l":22,"m":16,"r":24,"k":7,"T":"O","a":"F","pairs":"AN BG DR EL FO IM JX KP QT SW YZ","n":11,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":2,"m":16,"r":12,"k":7,"T":"E","a":"K","pairs":"BT CC DL EK GS IP JR MZ NU OW XX YY","n":12,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":9,"m":8,"r":25,"k":4,"T":"O","a":"O","pairs":"AB CH DY EZ FP GW IS JL MX NR OO TT","n":12,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":25,"l":9,"m":8,"r":25,"k":5,"T":"O","a":"O","pairs":"AB CH DY EZ FP GW IS LQ MX NR OO TT","n":12,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":39,"l":17,"m":10,"r":7,"k":6,"T":"O","a":"H","pairs":"AE BB CM DJ FT GL HO IW KU NN PV QZ RR SX","n":14,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":20,"m":21,"r":3,"k":11,"T":"O","a":"C","pairs":"AF BE CO DJ GY HW KS LT NQ PX RV UZ","n":12,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":21,"m":6,"r":9,"k":4,"T":"O","a":"Z","pairs":"AW BJ CC DS EK FT HN LQ MY OZ RU VV XX","n":13,"amb":0}
+{"wo":"IV,V,III","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":23,"m":4,"r":12,"k":0,"T":"O","a":"U","pairs":"AZ BK CY DD EX FL GG IT MR NS OU QV WW","n":13,"amb":0}
+{"wo":"V,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":21,"l":11,"m":23,"r":21,"k":7,"T":"O","a":"O","pairs":"AP BU CS EF GT JL KR MW NN OO QZ VX YY","n":13,"amb":0}
+{"wo":"V,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":52,"l":16,"m":1,"r":18,"k":2,"T":"O","a":"I","pairs":"BW DV EN FQ GM IO JX LP RZ SY TU","n":11,"amb":0}
+{"wo":"V,I,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":21,"m":3,"r":1,"k":3,"T":"O","a":"X","pairs":"AL BP CH DR EU FW JN KZ OX QY SS TT VV","n":13,"amb":0}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":1,"m":2,"r":7,"k":6,"T":"O","a":"P","pairs":"BE FU GW JV LR NZ OP QT XX YY","n":10,"amb":1}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":1,"m":2,"r":7,"k":7,"T":"O","a":"P","pairs":"BE FU GW JV LR NZ OP QT XX YY","n":10,"amb":1}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":2,"m":14,"r":22,"k":4,"T":"O","a":"R","pairs":"AN BH DY EQ FK GS IT OR PZ UW VX","n":11,"amb":0}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":3,"m":4,"r":17,"k":13,"T":"O","a":"E","pairs":"AD BF EO GI JZ LW MY NQ PT RR SS UX","n":12,"amb":0}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":10,"m":19,"r":2,"k":2,"T":"O","a":"G","pairs":"AJ BN CE DK FL GO HR MS PZ QV TY UX WW","n":13,"amb":0}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":35,"l":16,"m":6,"r":1,"k":0,"T":"O","a":"O","pairs":"AW BS CC DN EK FY HL IU OO PV RT XZ","n":12,"amb":0}
+{"wo":"V,II,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":16,"m":19,"r":13,"k":3,"T":"O","a":"Q","pairs":"AD BB CG EY FM KV LR NU OQ PZ SS TT WX","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":0,"m":11,"r":6,"k":10,"T":"O","a":"O","pairs":"BC DU EI FX GH KY LL MP NQ OO RW SV ZZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":3,"m":9,"r":18,"k":7,"T":"O","a":"W","pairs":"BQ CG DU EX FL HR IZ JN MY OW PT SV","n":12,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":4,"m":7,"r":7,"k":5,"T":"O","a":"O","pairs":"AJ BI CV DM EN FW GP LZ OO RU SS TY XX","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":18,"l":6,"m":12,"r":9,"k":11,"T":"O","a":"O","pairs":"BG DM EK FY HS IL NV OO PU RX WW ZZ","n":12,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":3,"l":6,"m":25,"r":23,"k":9,"T":"O","a":"G","pairs":"AL BN CR EK FW GO IM PT QX SU VV YY","n":12,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":14,"m":15,"r":25,"k":7,"T":"O","a":"H","pairs":"AD BE CL FR GT HO JQ KU MW NY SS VX ZZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":16,"m":8,"r":18,"k":13,"T":"O","a":"P","pairs":"AV BB CR DT EH FJ GL IW NS OP QZ UY XX","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWXROSENOW","p":9,"l":16,"m":17,"r":7,"k":5,"T":"O","a":"O","pairs":"AW BJ CR DD EH FX GS KY LQ MV NP OO TZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWXROSENOW","p":39,"l":17,"m":2,"r":17,"k":9,"T":"O","a":"O","pairs":"AT BB CE DJ FW GM IS LV NN OO QU RY","n":12,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":24,"l":19,"m":16,"r":13,"k":5,"T":"O","a":"O","pairs":"BC DR GL HY IW NQ OO PP SV TT","n":10,"amb":1}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":19,"m":19,"r":7,"k":2,"T":"O","a":"P","pairs":"BU CJ DD EH GW KZ LN OP QS RR TV","n":11,"amb":0}
+{"wo":"V,II,III","ref":"B","crib":"ROSENOWROSENOW","p":67,"l":20,"m":11,"r":8,"k":10,"T":"E","a":"G","pairs":"AM BB CW DX EG HZ IR JQ KY LT NO PV SS","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":8,"m":3,"r":0,"k":10,"T":"O","a":"I","pairs":"BP CE DZ FS GL HU IO JJ MV NQ RW TY","n":12,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":8,"m":6,"r":25,"k":8,"T":"O","a":"I","pairs":"AA BE CH DK FM IO JQ LY NW RX ST VV","n":12,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWXROSENOW","p":38,"l":10,"m":2,"r":10,"k":2,"T":"O","a":"U","pairs":"AR BF CS DP EX GQ HT IV JN KZ LL OU WW","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":11,"r":18,"k":2,"T":"O","a":"M","pairs":"AL BR CF DD EY GN IZ JV KS MO PT QW UU","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":11,"r":18,"k":3,"T":"O","a":"M","pairs":"AL BR CF DD EY GN HZ JV KS MO PT QW UU","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":22,"r":12,"k":13,"T":"O","a":"O","pairs":"AG BP CU DQ EV FW HR IZ JT KS LL NX OO","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWXROSENOW","p":8,"l":13,"m":5,"r":17,"k":14,"T":"O","a":"D","pairs":"AH BK CV DO EL FF GZ JW MN PT QY RR SU XX","n":14,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":16,"m":10,"r":9,"k":9,"T":"O","a":"H","pairs":"BR CC DS EY FG HO IZ JQ KV LL NN PW TU","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":17,"m":13,"r":13,"k":6,"T":"O","a":"O","pairs":"AA BV CY DD EZ FT GQ KW NS OO RU XX","n":12,"amb":0}
+{"wo":"V,II,IV","ref":"B","crib":"ROSENOWROSENOW","p":60,"l":25,"m":3,"r":15,"k":3,"T":"E","a":"L","pairs":"AM BV CZ EL GQ IW JU KY NN OO PT RS XX","n":13,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":7,"m":3,"r":9,"k":11,"T":"O","a":"L","pairs":"AX BT CF DV EH GS IW JQ KY LO MP NU RR","n":13,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":8,"m":11,"r":10,"k":11,"T":"O","a":"O","pairs":"AG BS CF DQ EM IV LX NT OO PW RR YZ","n":12,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":5,"l":8,"m":24,"r":2,"k":8,"T":"O","a":"Z","pairs":"AC DW EJ FK GN HR LT MQ OZ SX UY VV","n":12,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":12,"l":9,"m":14,"r":9,"k":4,"T":"O","a":"T","pairs":"AH BI DZ EW FS GM LR NP OT QX VV YY","n":12,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":13,"m":19,"r":21,"k":13,"T":"O","a":"K","pairs":"AX BN CC DH EV FJ GQ KO LR ST WW YY","n":12,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":13,"m":20,"r":17,"k":12,"T":"O","a":"M","pairs":"AC BE DW FV GG HZ IT JQ LY MO NP RU SS","n":13,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":14,"m":11,"r":6,"k":12,"T":"E","a":"I","pairs":"AM BG CS DH EI JO KZ LY NP QW RR TT UX","n":13,"amb":1}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":16,"m":11,"r":20,"k":6,"T":"E","a":"O","pairs":"BU CC DX EO FS HR IW JV LN MQ PP TT YY ZZ","n":14,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWXROSENOW","p":62,"l":18,"m":15,"r":4,"k":3,"T":"E","a":"Q","pairs":"AD BI EQ GM HZ JO NU PW RX SV YY","n":11,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":40,"l":21,"m":2,"r":1,"k":9,"T":"O","a":"G","pairs":"AU BC DY EW FL GO IN JQ MS RV TT ZZ","n":12,"amb":0}
+{"wo":"V,III,I","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":25,"m":10,"r":24,"k":2,"T":"O","a":"J","pairs":"BM CL DR EP FU GN HZ JO KV QT SS WY","n":12,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":4,"m":18,"r":3,"k":1,"T":"O","a":"H","pairs":"AW BB CR DL EG FK HO IZ JQ MX NS TT UY VV","n":14,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":4,"m":19,"r":4,"k":2,"T":"O","a":"A","pairs":"AO BB CE DL FK GR HQ JW MX NN PZ SY TV","n":13,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":10,"m":3,"r":12,"k":0,"T":"O","a":"F","pairs":"AH BR CY DU EP FO GX IN KS LQ MM TZ VV WW","n":14,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":11,"m":11,"r":6,"k":10,"T":"O","a":"M","pairs":"BR CY DI EW FT GX HV JJ KZ LS MO NQ PU","n":13,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWXROSENOW","p":36,"l":15,"m":17,"r":14,"k":1,"T":"O","a":"R","pairs":"AG BD CC ES FN IU KX LM OR PZ TW VV","n":12,"amb":0}
+{"wo":"V,III,II","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":17,"m":9,"r":15,"k":7,"T":"O","a":"C","pairs":"AJ BB CO DL EU FG HT IR KW NN PZ QX SV YY","n":14,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":1,"m":12,"r":21,"k":6,"T":"O","a":"Y","pairs":"AS BV CC DZ EE FN GK HJ IT LM OY RX UW","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":8,"l":5,"m":4,"r":19,"k":0,"T":"O","a":"O","pairs":"AC BB DV EF GN HX IT JW LY MS OO QZ RU","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":1,"l":8,"m":2,"r":7,"k":8,"T":"O","a":"A","pairs":"AO CD EL JW MP NN QX RS TZ VY","n":10,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":11,"m":14,"r":20,"k":8,"T":"O","a":"X","pairs":"AZ BB DD EL FP GR IV JW MQ NN OX SY TU","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":12,"m":17,"r":3,"k":3,"T":"O","a":"U","pairs":"BY CT DH ER GI JN KL OU PV QS WW ZZ","n":12,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":16,"m":25,"r":6,"k":8,"T":"O","a":"X","pairs":"AE BB CC DK FG LZ NT OX PV QR SW UY","n":12,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWXROSENOW","p":18,"l":17,"m":25,"r":8,"k":11,"T":"O","a":"Q","pairs":"BB CW DU EZ FY GK IP JS LL NT OQ RV XX","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":18,"m":11,"r":15,"k":12,"T":"O","a":"D","pairs":"AZ BK CF DO EE GN HJ LL QT RR SW UU VV","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":18,"m":11,"r":15,"k":13,"T":"O","a":"D","pairs":"AZ BK CF DO EE GN HJ LL QT RR SW UU VV","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":21,"m":9,"r":9,"k":9,"T":"O","a":"G","pairs":"AZ CC DX ET FP GO IV JQ KW LR MN SY","n":12,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":5,"m":9,"r":12,"k":7,"T":"O","a":"G","pairs":"BY CI DQ EX FJ GO HW KN LR MT PZ SS UV","n":13,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":6,"m":11,"r":23,"k":6,"T":"O","a":"C","pairs":"AH BD CO EN FU GG IZ JV KY MS QR TT WW XX","n":14,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":24,"l":6,"m":16,"r":22,"k":1,"T":"O","a":"W","pairs":"AZ BE CX DR GQ JN KS LV MT OW PP YY","n":12,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":7,"m":3,"r":11,"k":5,"T":"O","a":"W","pairs":"AT BC DG EE FU IV JN LR MQ OW PS XX YZ","n":13,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":7,"m":21,"r":0,"k":3,"T":"O","a":"G","pairs":"AA BM CV DP EE FF GO HY IX KS LQ NN RZ TU WW","n":15,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":8,"m":10,"r":18,"k":1,"T":"O","a":"O","pairs":"AF BB CV DL EP GG HW IN JZ KS OO RY XX","n":13,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":14,"m":22,"r":6,"k":0,"T":"O","a":"O","pairs":"BB CY DG EH JJ LM NN OO PR SW TT UZ VX","n":13,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":14,"m":25,"r":6,"k":13,"T":"O","a":"W","pairs":"AS BM DP EJ FY GT HV IR KZ LN OW XX","n":12,"amb":0}
+{"wo":"I,II,V","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":21,"m":21,"r":8,"k":11,"T":"E","a":"L","pairs":"BR CT DP EL GZ HS IY JK MV NW OX","n":11,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":4,"m":23,"r":23,"k":0,"T":"O","a":"L","pairs":"AK BD CE FT GR IM JV LO NN PS QX WW YZ","n":13,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":4,"m":23,"r":23,"k":13,"T":"O","a":"L","pairs":"AK CE DH FT GR IM JV LO NN PS QX WW YZ","n":13,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":10,"m":5,"r":12,"k":2,"T":"O","a":"H","pairs":"AZ BW CS DD EY FJ HO IX KM LT NR QQ VV","n":13,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":11,"m":2,"r":14,"k":13,"T":"O","a":"G","pairs":"AB CY DP EM FW GO HS IJ KR LU NT VV ZZ","n":13,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":11,"m":12,"r":23,"k":7,"T":"O","a":"Y","pairs":"AE BG DJ FH IN KS LR MT OY QZ VV WX","n":12,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":13,"m":23,"r":17,"k":10,"T":"O","a":"K","pairs":"AE BS CZ DQ FR GM HV KO LY NN TX WW","n":12,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":17,"m":6,"r":14,"k":9,"T":"O","a":"F","pairs":"AL BM CV DD EJ FO GI HN KT PW QZ RR SX YY","n":14,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":17,"m":6,"r":14,"k":10,"T":"O","a":"F","pairs":"AL BM CV DU EJ FO GI HN KT PW QZ RR SX YY","n":14,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":21,"m":14,"r":12,"k":9,"T":"O","a":"J","pairs":"AI BE CC DD FU GQ JO KY MT NP RS VV WX ZZ","n":14,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWXROSENOW","p":44,"l":25,"m":14,"r":9,"k":6,"T":"O","a":"W","pairs":"AR BK CX DD EM GG IS JU LY NV OW PZ QT","n":13,"amb":0}
+{"wo":"I,III,II","ref":"C","crib":"ROSENOWXROSENOW","p":44,"l":25,"m":14,"r":9,"k":7,"T":"O","a":"W","pairs":"AR BK CX DD EM GG IS JU LY NV OW PZ QT","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":3,"m":9,"r":1,"k":0,"T":"O","a":"P","pairs":"AN BH CW DD EJ FZ GK IX LV MS OP QQ RU TY","n":14,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":10,"l":7,"m":22,"r":23,"k":9,"T":"O","a":"H","pairs":"AB DL ER FQ GZ HO JS MX NN TT UY VW","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":19,"l":10,"m":15,"r":12,"k":8,"T":"O","a":"V","pairs":"BE CW DI FP GT HN LL MZ OV RR SS UY XX","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":14,"l":17,"m":16,"r":10,"k":0,"T":"O","a":"L","pairs":"AB CT DD EH FU GG KW LO NS PZ RV XY","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":19,"m":23,"r":8,"k":3,"T":"O","a":"P","pairs":"AL BM CG DJ EX FS IW KZ NN OP QR TT UU VV","n":14,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWXROSENOW","p":39,"l":23,"m":21,"r":3,"k":14,"T":"O","a":"O","pairs":"AW BD CX EF GG HZ IR JK LN OO SS TT UV","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":24,"m":11,"r":20,"k":9,"T":"O","a":"U","pairs":"AJ BR CV DD EL FT GM HQ IX NY OU SS WZ","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":7,"m":17,"r":20,"k":1,"T":"E","a":"V","pairs":"AT BX CG DK EV IP JO LW MU NN QZ RR SS YY","n":14,"amb":0}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":11,"m":6,"r":17,"k":6,"T":"O","a":"L","pairs":"AV BB CM DD EU FI GZ JR KT LO NP QS WY XX","n":14,"amb":0}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":66,"l":11,"m":24,"r":7,"k":12,"T":"E","a":"K","pairs":"AY BT CR DQ EK FP GN HS JJ LW MX OZ","n":12,"amb":0}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":11,"m":24,"r":10,"k":1,"T":"O","a":"F","pairs":"AH BD EP FO GG IV JW KR LX QT SS","n":11,"amb":1}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":18,"m":11,"r":21,"k":8,"T":"O","a":"T","pairs":"AR BF CP DD EX GM HJ IV LU NY OT SW ZZ","n":13,"amb":0}
+{"wo":"I,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":24,"m":19,"r":1,"k":9,"T":"O","a":"N","pairs":"AU BF CX DD EE GG HL IT JP KW MV NO RR SZ","n":14,"amb":0}
+{"wo":"V,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":20,"m":5,"r":25,"k":5,"T":"O","a":"F","pairs":"AC BL DN EE FO GT HZ IY JX MS QW RU VV","n":13,"amb":0}
+{"wo":"V,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":41,"l":21,"m":19,"r":20,"k":10,"T":"O","a":"V","pairs":"AC BJ DR EE FS GY KZ LL MT NP OV QU WW","n":13,"amb":0}
+{"wo":"V,IV,II","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":22,"m":2,"r":12,"k":6,"T":"O","a":"U","pairs":"AF BR CX DD EQ GP HZ KW LV MS NY OU TT","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":9,"l":4,"m":6,"r":2,"k":3,"T":"O","a":"M","pairs":"AY BI CL DK EE FJ GS HX MO NU QQ RZ TV WW","n":14,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":7,"l":10,"m":13,"r":13,"k":6,"T":"O","a":"O","pairs":"AV BD CI EU FY GN HX JT MM OO QQ RS WZ","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":44,"l":16,"m":6,"r":12,"k":4,"T":"O","a":"Z","pairs":"AG BT CY DM EK HR JQ LX NN OZ PS UW VV","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":32,"l":17,"m":9,"r":7,"k":1,"T":"O","a":"B","pairs":"AN BO CP DT EE FL GS HY IU KW MZ RX","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWXROSENOW","p":30,"l":22,"m":6,"r":1,"k":12,"T":"O","a":"A","pairs":"AO BQ DT EG HZ IU KR LP MY NW SV","n":11,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":68,"l":24,"m":13,"r":9,"k":12,"T":"E","a":"V","pairs":"AD BZ CC EV FN GY HR IP JJ MM OQ SX TT WW","n":14,"amb":0}
+{"wo":"V,IV,III","ref":"B","crib":"ROSENOWROSENOW","p":11,"l":25,"m":10,"r":14,"k":8,"T":"O","a":"Q","pairs":"AA BL CV DX EK FF GH IN OQ PR SS TY WW ZZ","n":14,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":3,"m":1,"r":6,"k":8,"T":"O","a":"H","pairs":"AT BW CG DL ER FX HO IN MP QY SU VZ","n":12,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":4,"m":25,"r":11,"k":12,"T":"O","a":"Z","pairs":"AB CK DQ EN FW GU HJ IR LP MV OZ SX TY","n":13,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":5,"m":12,"r":10,"k":3,"T":"O","a":"S","pairs":"AC BK DH EP FI GY JT MR NN OS QX UZ VV WW","n":14,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":7,"m":14,"r":12,"k":3,"T":"E","a":"H","pairs":"AT BC DG EH FN JM LZ OO PY QS RV UW XX","n":13,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":15,"m":17,"r":20,"k":13,"T":"O","a":"A","pairs":"AO BX DH EI FY GG JZ KS LP MR NW UV","n":12,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":16,"m":20,"r":0,"k":8,"T":"O","a":"L","pairs":"AC BZ DG EE FK HW JR LO MY NQ SU TT VX","n":13,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":16,"m":20,"r":0,"k":9,"T":"O","a":"L","pairs":"AC BZ DG EE FK HW JR LO MY NQ SU TT VX","n":13,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":20,"m":7,"r":8,"k":10,"T":"E","a":"F","pairs":"AJ BB CV DK EF GZ IW LR MQ NU OO PS TT XY","n":14,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":24,"m":2,"r":0,"k":1,"T":"O","a":"V","pairs":"AH BB CD EI FF KW LN OV PY QQ RZ SU TX","n":13,"amb":0}
+{"wo":"I,II,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":24,"m":24,"r":1,"k":13,"T":"O","a":"H","pairs":"AL BJ CY DM EG FF HO KV NQ PW RU SZ TT XX","n":14,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":0,"m":1,"r":10,"k":8,"T":"O","a":"T","pairs":"AU BC DD EZ FJ GM IY KS LW NP OT QX RV","n":13,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":1,"m":12,"r":19,"k":12,"T":"O","a":"O","pairs":"AC BB DS EW FR GG HT IL JX KV NP OO UY ZZ","n":14,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":1,"m":14,"r":4,"k":6,"T":"O","a":"X","pairs":"AG BK CS DU EJ FI MV NP OX QT RZ WW YY","n":13,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":2,"m":14,"r":20,"k":3,"T":"E","a":"T","pairs":"BZ CI DD ET FX HP JL KM NV OO QR SS UY WW","n":14,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":7,"m":22,"r":5,"k":11,"T":"O","a":"A","pairs":"AO BK CN DY EW FF GX HR IZ JV MS TU","n":12,"amb":0}
+{"wo":"I,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":11,"m":10,"r":19,"k":13,"T":"E","a":"O","pairs":"BK CI DD EO FJ MM NV PS QX RW TU YY ZZ","n":13,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":6,"m":5,"r":25,"k":7,"T":"O","a":"P","pairs":"AR BW CC DY EX FT GH JJ KV LL NZ OP SS UU","n":14,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":9,"m":15,"r":5,"k":7,"T":"O","a":"K","pairs":"AP BY DZ EJ FF GU HS KO LT MQ NR VW XX","n":13,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":11,"m":16,"r":17,"k":10,"T":"O","a":"U","pairs":"AB CS DF EE GK HN IY JZ MV OU PR QT WX","n":13,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":11,"m":16,"r":17,"k":11,"T":"O","a":"U","pairs":"AB CS DF EE GK HN IY JZ MV OU PR QT WX","n":13,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":11,"m":16,"r":17,"k":12,"T":"O","a":"U","pairs":"AB CS DF EE GK HN IY JZ MV OU PR QT WX","n":13,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":12,"m":3,"r":0,"k":1,"T":"O","a":"M","pairs":"AS BC EQ FZ HX IT JN KY LP MO RR VW","n":12,"amb":0}
+{"wo":"I,III,V","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":16,"m":17,"r":2,"k":6,"T":"O","a":"U","pairs":"AP BD CW EG FI HS JX KR LV MY NQ OU TZ","n":13,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":0,"m":14,"r":9,"k":5,"T":"O","a":"Z","pairs":"BM CN DQ EX FI GW HL OZ PS RT VY","n":11,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":3,"m":16,"r":15,"k":12,"T":"O","a":"W","pairs":"AG BB CY DH EE FU KS LT MN OW QQ RX VV","n":13,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":7,"m":10,"r":6,"k":5,"T":"O","a":"M","pairs":"AB CG DX EP FN HY IZ KW LV MO RT SU","n":12,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":9,"m":0,"r":23,"k":9,"T":"O","a":"M","pairs":"BC DP EI FR GW HU KL MO NT QZ SX VY","n":12,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":12,"m":18,"r":4,"k":11,"T":"O","a":"A","pairs":"AO BP DS EX FG HN IR KZ QQ TU VV WY","n":12,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":12,"m":20,"r":22,"k":13,"T":"O","a":"O","pairs":"AV CI DL EK FJ MT NN OO PW QZ RS XX YY","n":13,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":20,"m":19,"r":25,"k":1,"T":"O","a":"J","pairs":"AH BF CN DG EE JO KR LW MV PS QX TZ YY","n":13,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":22,"m":17,"r":14,"k":8,"T":"O","a":"P","pairs":"AR BU CH DD EX FL GZ JN OP QQ SS TT VV WY","n":14,"amb":0}
+{"wo":"I,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":23,"m":12,"r":20,"k":13,"T":"E","a":"U","pairs":"BH DJ EU FS GN KX MQ OP RV TT WW YZ","n":12,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":9,"m":7,"r":22,"k":3,"T":"O","a":"D","pairs":"AA BP DO EY FH GQ IZ KX LN MT RW SU VV","n":13,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":10,"m":25,"r":22,"k":7,"T":"O","a":"A","pairs":"AO BJ CF DY EE GM IX KR LS NN QW TT UZ VV","n":14,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":16,"m":21,"r":7,"k":1,"T":"O","a":"H","pairs":"BC DZ EK FU GG HO JX LL NN PY RR ST VW","n":13,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":16,"m":22,"r":7,"k":0,"T":"O","a":"H","pairs":"BC DZ EK FU GG HO JX LL NN PY RR ST VW","n":13,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":21,"m":10,"r":18,"k":5,"T":"O","a":"D","pairs":"AA BR CG DO EH FI JT LM NZ PS QQ VW XX YY","n":14,"amb":0}
+{"wo":"I,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":66,"l":21,"m":24,"r":17,"k":11,"T":"E","a":"G","pairs":"AP BD CS EG FO HJ MR NN UY VW XZ","n":11,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":1,"m":7,"r":18,"k":13,"T":"O","a":"X","pairs":"AL BI CY DK EG FJ HT MN OX PV QW RR SS UZ","n":14,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":2,"m":18,"r":20,"k":5,"T":"O","a":"C","pairs":"AA BZ CO DJ ER FL GQ HW MN PY SS TV UX","n":13,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":8,"m":0,"r":9,"k":10,"T":"O","a":"G","pairs":"AL BY CI DV EE GO JP KU MS NX RR TT WZ","n":13,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":12,"m":16,"r":8,"k":13,"T":"O","a":"V","pairs":"AP BY DW EX FQ GJ HT KZ LN MS OV RR","n":12,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":18,"m":4,"r":10,"k":11,"T":"O","a":"B","pairs":"AI BO CR DX EY FW GG KT LQ NV SU ZZ","n":12,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":19,"m":7,"r":2,"k":1,"T":"O","a":"R","pairs":"AT BE DM FI GK HS JW LQ NX OR PZ UY VV","n":13,"amb":0}
+{"wo":"I,V,II","ref":"C","crib":"ROSENOWXROSENOW","p":33,"l":23,"m":11,"r":13,"k":14,"T":"O","a":"Q","pairs":"BH CI ER GN JX KW LP MT OQ SS UY VZ","n":12,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":9,"m":6,"r":0,"k":5,"T":"E","a":"E","pairs":"AY BB CP DW EE FO JM KR LX NT QU SS VZ","n":13,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":9,"m":6,"r":0,"k":6,"T":"E","a":"E","pairs":"AB CP DW EE HY JM KR LX NT OO QQ SS VZ","n":13,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":9,"m":22,"r":0,"k":8,"T":"O","a":"P","pairs":"AH BG CC DF EE IS KX LY NZ OP QQ RW TV","n":13,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":14,"m":0,"r":5,"k":2,"T":"O","a":"O","pairs":"AY BV DH EK FI GG JZ LQ NX OO PW RS TU","n":13,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWXROSENOW","p":30,"l":17,"m":17,"r":7,"k":2,"T":"O","a":"Q","pairs":"AU BZ EN FL HY JS OQ PV RR TT WW","n":11,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":18,"m":25,"r":21,"k":11,"T":"E","a":"K","pairs":"AN BU CC DP EK FZ GR HY JV LX MT OW QS","n":13,"amb":0}
+{"wo":"I,V,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":20,"m":23,"r":9,"k":12,"T":"O","a":"H","pairs":"BS CC DD ER GG HO JQ LN MT PZ UY VV WW","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":3,"l":0,"m":5,"r":21,"k":1,"T":"O","a":"D","pairs":"AU BT CM DO EQ FN HW LV PR SZ YY","n":11,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":1,"m":6,"r":18,"k":10,"T":"O","a":"I","pairs":"AS BW CP DQ ER FG IO KY LT MN VX ZZ","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":1,"m":15,"r":24,"k":4,"T":"O","a":"R","pairs":"AL BU CD EM FH GN IW KV OR PT QZ SS XX YY","n":14,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":5,"m":12,"r":23,"k":13,"T":"O","a":"B","pairs":"AE BO CU DM FF GN IQ JW PR ST VX YY","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":8,"m":8,"r":21,"k":10,"T":"O","a":"D","pairs":"AA BH CT DO EN FX GK IZ JW QR SU VY","n":12,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":12,"m":14,"r":0,"k":8,"T":"O","a":"V","pairs":"BB CT EP GX OV WW","n":6,"amb":3}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWXROSENOW","p":42,"l":12,"m":22,"r":24,"k":3,"T":"O","a":"D","pairs":"AL BF CN DO EI GZ JP KX MV RR SY TU WW","n":13,"amb":0}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":13,"m":4,"r":4,"k":1,"T":"O","a":"B","pairs":"AQ BO DJ EE FH GK IR LW MS NP TT VZ XY","n":13,"amb":1}
+{"wo":"I,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":19,"m":6,"r":20,"k":10,"T":"O","a":"O","pairs":"AE BF CU DV GP IR JX KN LT MS OO WY ZZ","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":0,"m":21,"r":2,"k":8,"T":"O","a":"J","pairs":"AV BR CS DL EK FH GU JO MZ NY PX QT WW","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":6,"m":4,"r":14,"k":5,"T":"O","a":"R","pairs":"AV BY CQ DK EX FI GJ HZ LT MN OR SU WW","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":11,"m":16,"r":25,"k":12,"T":"O","a":"O","pairs":"AK BB CG DT EM FX IN OO PQ RY SS UW VZ","n":13,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":14,"m":22,"r":2,"k":9,"T":"O","a":"O","pairs":"AH BB CS DR EX FI GZ LV MY NN OO QQ TU WW","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":16,"m":22,"r":24,"k":9,"T":"O","a":"M","pairs":"AA BH CN DJ EL FY GR IW KZ MO PS QT VV XX","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":18,"m":22,"r":20,"k":8,"T":"E","a":"E","pairs":"AJ BV CW DN EE FZ HS IQ KX LO MM PT RU YY","n":14,"amb":0}
+{"wo":"II,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":25,"m":8,"r":2,"k":12,"T":"E","a":"E","pairs":"AW BS CI DH EE FJ GZ MN OQ PP RV TX UY","n":13,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":60,"l":4,"m":8,"r":4,"k":8,"T":"E","a":"E","pairs":"AM BL DJ EE FY GQ HW IS KZ NT OP RU XX","n":13,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":4,"m":9,"r":10,"k":12,"T":"O","a":"F","pairs":"AE BV CC FO GS IN KT LL PP RX UZ WW YY","n":13,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":4,"m":17,"r":6,"k":9,"T":"E","a":"Q","pairs":"AJ BB CM DP EQ FR IO KY LZ NV SX TW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":17,"m":12,"r":0,"k":1,"T":"O","a":"J","pairs":"AB CF DS ER GX JO KU LQ NN TY VZ WW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":17,"m":12,"r":0,"k":2,"T":"O","a":"J","pairs":"BM CF DS ER GX JO KU LQ NN TY VZ WW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":17,"m":12,"r":0,"k":3,"T":"O","a":"J","pairs":"BM CF DS ER GX JO KU LQ NN TY VZ WW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":17,"m":13,"r":0,"k":0,"T":"O","a":"J","pairs":"AB CF DS ER GX JO KU LQ NN TY VZ WW","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":17,"m":20,"r":19,"k":10,"T":"E","a":"E","pairs":"AW BJ CL DD EE FM NQ OO PP RV TT UY","n":12,"amb":1}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":19,"m":9,"r":24,"k":4,"T":"O","a":"U","pairs":"AV BP CD EE FG HW JJ KR LM NN OU SS TY XZ","n":14,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":19,"m":19,"r":0,"k":9,"T":"O","a":"L","pairs":"AT BY CN DP EG FM HS JX KW LO QZ RV","n":12,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":21,"m":3,"r":6,"k":0,"T":"O","a":"L","pairs":"AU BM CQ DK EV FN GG HZ IT JJ LO RR SX WY","n":14,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":21,"m":24,"r":5,"k":3,"T":"O","a":"G","pairs":"BH CQ DX EJ FW GO IV KZ LM NS RR TT UY","n":13,"amb":0}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":22,"m":18,"r":10,"k":0,"T":"O","a":"Y","pairs":"BB CU EE JZ MR OY TT VV WX","n":9,"amb":2}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":22,"m":18,"r":10,"k":12,"T":"O","a":"Y","pairs":"BL CU EE FP GZ MR OY QQ SS TT VV WX","n":12,"amb":1}
+{"wo":"II,I,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":22,"m":18,"r":10,"k":13,"T":"O","a":"Y","pairs":"BB CU EE FP GZ MR OY QQ SS TT VV WX","n":12,"amb":1}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":1,"m":23,"r":3,"k":1,"T":"O","a":"B","pairs":"AM BO CL DY EK FI GX HT NN PZ QQ RW SS UV","n":14,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":4,"m":16,"r":3,"k":10,"T":"O","a":"C","pairs":"BM CO DD ER GG JU KV LN PS QZ TX WW","n":12,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":5,"m":8,"r":10,"k":6,"T":"O","a":"P","pairs":"AE BV CF DR HZ IN JS LX OP TT UW YY","n":12,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":24,"l":7,"m":21,"r":0,"k":10,"T":"O","a":"B","pairs":"BO CY DT ER GK HP IS JX LN QW UZ","n":11,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":24,"l":7,"m":21,"r":0,"k":11,"T":"O","a":"B","pairs":"BO CY DT ER GK HP IS JX LN QW UZ","n":11,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":24,"l":7,"m":21,"r":0,"k":12,"T":"O","a":"B","pairs":"BO CY DT ER GK HP IS JX LN QW UZ","n":11,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":8,"m":18,"r":22,"k":8,"T":"O","a":"F","pairs":"AA CU DE FO GW HQ KM LY NN PX RS TV","n":12,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":8,"m":18,"r":22,"k":9,"T":"O","a":"F","pairs":"AA CU DE FO GW HQ KM NN PX RS TV YZ","n":12,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":9,"m":9,"r":24,"k":1,"T":"O","a":"X","pairs":"AT BD CP EM GR IU JN KL OX QZ SV WY","n":12,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":19,"m":5,"r":6,"k":2,"T":"O","a":"H","pairs":"AJ BN CP DD EZ FR GT HO IV MW QX SU YY","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":21,"m":24,"r":17,"k":12,"T":"O","a":"L","pairs":"AI BR CS DP EQ FJ GN HW KV LO TU XX YZ","n":13,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":23,"m":3,"r":4,"k":6,"T":"E","a":"E","pairs":"AY BN CK DQ EE FZ GO HR IP JJ MM SW TV XX","n":14,"amb":0}
+{"wo":"I,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":24,"m":16,"r":24,"k":2,"T":"O","a":"B","pairs":"AX BO CJ DH EG FF KV LQ MN PR SU TT WW YY","n":14,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":2,"m":24,"r":7,"k":0,"T":"E","a":"E","pairs":"AN BU CZ DO EE FX GJ KW LP MM RR SV TY","n":13,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":32,"l":10,"m":0,"r":14,"k":8,"T":"O","a":"V","pairs":"AS BB CD EL FX GU HY IZ KT NN OV QW RR","n":13,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":66,"l":11,"m":2,"r":21,"k":1,"T":"E","a":"W","pairs":"AB CN DX EW HP IZ JT KY LS MM OO RU","n":12,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":12,"m":1,"r":11,"k":6,"T":"O","a":"Z","pairs":"AD BR CG EJ FT LX NW OZ QQ SU VV YY","n":12,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":12,"m":1,"r":11,"k":7,"T":"O","a":"Z","pairs":"AD BR CG EJ FT KY LX NW OZ QQ SU VV","n":12,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":5,"l":18,"m":20,"r":13,"k":4,"T":"O","a":"E","pairs":"AU BY CK EO FF GR IS JN LT MM PV QQ WX","n":13,"amb":0}
+{"wo":"II,I,V","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":24,"m":16,"r":19,"k":13,"T":"E","a":"A","pairs":"AE BB DY GN HZ JJ KS LO MU PP QV RX TW","n":13,"amb":0}
+{"wo":"II,III,V","ref":"C","crib":"ROSENOWROSENOW","p":5,"l":0,"m":23,"r":11,"k":13,"T":"O","a":"T","pairs":"AA BV CX DM EE FL HN JR KQ OT SS WY","n":12,"amb":0}
+{"wo":"II,III,V","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":6,"m":22,"r":21,"k":7,"T":"O","a":"J","pairs":"AD BX CM EQ FG IV JO KR NW SS TZ UY","n":12,"amb":0}
+{"wo":"II,III,V","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":9,"m":17,"r":14,"k":8,"T":"E","a":"F","pairs":"BO DM EF GR HP JJ KZ NT QY SU WX","n":11,"amb":0}
+{"wo":"II,III,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":14,"m":21,"r":16,"k":7,"T":"O","a":"T","pairs":"AP BK CC DD EF HN IZ JV LR MY OT QW SS UX","n":14,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":5,"m":13,"r":12,"k":2,"T":"O","a":"J","pairs":"AK BG CZ DM EH FF JO LQ NS PT RX UW VY","n":13,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":11,"m":25,"r":3,"k":1,"T":"E","a":"F","pairs":"AJ BC DL EF GR HO IY KZ MM NN PP QS TW VX","n":14,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":13,"m":21,"r":24,"k":1,"T":"O","a":"X","pairs":"AA BR CM DW EF GQ JN KY LT OX PS VV ZZ","n":13,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":14,"m":19,"r":6,"k":0,"T":"O","a":"O","pairs":"AR BH CW DX EF IQ JY MN OO SS TT VV","n":12,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":22,"m":3,"r":3,"k":5,"T":"O","a":"I","pairs":"AR BC DV ET FP GJ IO KX MN SS UZ WW YY","n":13,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":23,"m":21,"r":15,"k":5,"T":"O","a":"B","pairs":"AU BO CQ DM ER FP GN HW LV SZ TY XX","n":12,"amb":0}
+{"wo":"II,III,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":25,"m":16,"r":13,"k":1,"T":"O","a":"Y","pairs":"AG BM CE DP FK HR LS NT OY QQ UX VW","n":12,"amb":0}
+{"wo":"II,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":1,"m":12,"r":11,"k":12,"T":"O","a":"R","pairs":"AH BP CW DQ EU FF GJ KY LS NV OR TX ZZ","n":13,"amb":0}
+{"wo":"II,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":7,"m":22,"r":22,"k":4,"T":"O","a":"O","pairs":"AH BB CU DP EY FZ IR JN KX LW MS OO QQ TT VV","n":15,"amb":0}
+{"wo":"II,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":18,"m":11,"r":5,"k":4,"T":"O","a":"P","pairs":"AA BL CM DJ EI FW GV KN OP QQ RR ST UY XX ZZ","n":15,"amb":0}
+{"wo":"II,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":3,"l":21,"m":25,"r":11,"k":5,"T":"O","a":"O","pairs":"AX BC DM EQ FW GV JR NN OO PY SU TZ","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":5,"l":4,"m":25,"r":17,"k":9,"T":"O","a":"I","pairs":"AU BE CN DM FJ IO KV LS QQ RW TT YY","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":14,"m":10,"r":2,"k":6,"T":"O","a":"U","pairs":"AR BY DM EF GL HV JT KN OU PZ QS WX","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":18,"m":11,"r":11,"k":11,"T":"O","a":"G","pairs":"AE BB CM DN GO HS LZ PP QT RW UY XX","n":12,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":18,"m":15,"r":22,"k":13,"T":"O","a":"M","pairs":"AS BK CW DD ER FI GX JN MO PZ QT VV YY","n":13,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":20,"m":15,"r":6,"k":6,"T":"O","a":"Y","pairs":"AT BC DJ EE FN GG HS LV OY PZ RX UU WW","n":13,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":20,"m":17,"r":15,"k":2,"T":"E","a":"E","pairs":"BN CI DT EE GJ HS KP MO QW RU VX YY ZZ","n":13,"amb":0}
+{"wo":"II,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":20,"m":17,"r":15,"k":3,"T":"E","a":"E","pairs":"BN CI DT EE GJ KP MO QW RU SS VZ XX YY","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":5,"m":15,"r":20,"k":4,"T":"O","a":"L","pairs":"AA BW DD EP FZ GJ HS LO NY QT RR VV XX","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWXROSENOW","p":30,"l":9,"m":5,"r":25,"k":1,"T":"O","a":"P","pairs":"BI DY EH MU OP QS RW TT","n":8,"amb":1}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":10,"m":9,"r":19,"k":7,"T":"O","a":"U","pairs":"AJ BF CV DX EH IR KS LQ MN OU PW TY","n":12,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":11,"m":23,"r":16,"k":8,"T":"O","a":"Z","pairs":"AN BJ CV DP ET FM GX IL KS OZ RY UW","n":12,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":28,"l":15,"m":23,"r":14,"k":1,"T":"W","a":"W","pairs":"AT BB CQ DO EK FY GZ HP LU MS NN RV WW","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":18,"m":0,"r":5,"k":0,"T":"O","a":"H","pairs":"AL BB CM DK EI GY HO JP NQ RX SW TZ UV","n":13,"amb":0}
+{"wo":"II,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":59,"l":24,"m":25,"r":21,"k":4,"T":"O","a":"R","pairs":"BH CS EI FP JX KN MY OR QZ VW","n":10,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":8,"m":10,"r":17,"k":1,"T":"O","a":"O","pairs":"AA BN CG DD EE FF HZ IY JW MV OO QU RT SX","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWXROSENOW","p":48,"l":9,"m":11,"r":6,"k":14,"T":"O","a":"U","pairs":"AL DH ER GG IJ MZ NN OU PW QQ SY TV XX","n":13,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":11,"m":14,"r":15,"k":12,"T":"O","a":"X","pairs":"AD BM CQ EE FH GR KW LS NP OX TU VZ YY","n":13,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":21,"l":12,"m":0,"r":5,"k":0,"T":"O","a":"W","pairs":"AG BJ DY EF KS LL NT OW PP QZ RU VX","n":12,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":20,"m":2,"r":1,"k":7,"T":"O","a":"O","pairs":"AP BH CG DI EK FM JR LY NX OO QT SV UZ WW","n":14,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":20,"m":25,"r":6,"k":0,"T":"O","a":"Q","pairs":"AF BT DL EH GS IV MY NN OQ RW XZ","n":11,"amb":0}
+{"wo":"II,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":21,"m":7,"r":17,"k":2,"T":"O","a":"Y","pairs":"AD BZ CP EG JT KS LN MR OY QW UX VV","n":12,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":2,"m":22,"r":24,"k":8,"T":"O","a":"H","pairs":"BB DZ EP FF GQ HO IX LW MN RR SS VV","n":12,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":52,"l":3,"m":0,"r":3,"k":5,"T":"O","a":"O","pairs":"AS CZ EQ FW IM JU LT NR OO VV","n":10,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":4,"m":1,"r":23,"k":6,"T":"O","a":"I","pairs":"AJ BT CH DL EE FV GW IO MS NR PQ UX YY","n":13,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":5,"m":19,"r":22,"k":3,"T":"E","a":"D","pairs":"AX BI DE FZ GO JT KM LW NN PU QY RR SS","n":13,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":6,"m":0,"r":17,"k":13,"T":"O","a":"I","pairs":"AV BM CD EG FL IO JQ KT NZ RS UX WW YY","n":13,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":7,"m":0,"r":18,"k":11,"T":"O","a":"N","pairs":"AX BQ CF DU EL GM HR JZ KT NO PY SS VV WW","n":14,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":14,"m":12,"r":13,"k":4,"T":"O","a":"P","pairs":"AH BY CC DK EE FF IW JS LM NU OP QQ RR TT VV XX","n":16,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":18,"m":18,"r":4,"k":11,"T":"O","a":"Y","pairs":"AD BT CG EP FU HV JW KL MZ NN OY QR SS","n":13,"amb":0}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":19,"m":5,"r":6,"k":13,"T":"O","a":"I","pairs":"AV BB DD GP HR IO JL NT QW SS ZZ","n":11,"amb":1}
+{"wo":"II,V,I","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":25,"m":25,"r":6,"k":12,"T":"O","a":"O","pairs":"AB CC DD EW GT HL IU KR MV NN OO QS YZ","n":13,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":0,"m":16,"r":20,"k":4,"T":"O","a":"P","pairs":"AV BB CD EQ GM HT JL KS NN OP RU WX ZZ","n":13,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":2,"m":22,"r":18,"k":10,"T":"O","a":"O","pairs":"AH BN CY DG EP FL JT MZ OO QQ RX SU VW","n":13,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":2,"m":22,"r":18,"k":11,"T":"O","a":"O","pairs":"AH BN CY DG EP FL JT MZ OO QQ RX SU VW","n":13,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":2,"m":23,"r":14,"k":0,"T":"O","a":"O","pairs":"AJ BL CN DW EQ FG IU KR OO PS TT VV YZ","n":13,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":3,"m":5,"r":24,"k":2,"T":"O","a":"I","pairs":"AC BB DQ EY FR GZ HW IO JM KT LX NN PV SS UU","n":15,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":5,"m":4,"r":13,"k":4,"T":"O","a":"J","pairs":"AI BK CD EV FX GN JO MQ PS RZ TT WY","n":12,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":9,"m":1,"r":24,"k":1,"T":"O","a":"Z","pairs":"AA BK CL DI EN FM GV HY JS OZ PR QQ TT WX","n":14,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":9,"m":5,"r":22,"k":5,"T":"O","a":"K","pairs":"AV BH CG DD EE FY JW KO MX NP QQ RR SS TZ","n":14,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":9,"m":6,"r":9,"k":11,"T":"O","a":"O","pairs":"BB CR ET GZ JN KY LL MS OO PV UX WW","n":12,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":19,"l":20,"m":22,"r":10,"k":3,"T":"O","a":"I","pairs":"BQ CD EJ GG IO KY LV NN PZ RX SW","n":11,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":20,"m":23,"r":9,"k":1,"T":"O","a":"Z","pairs":"AR BE CI DH FF GY JQ KS LX MV NU OZ PW TT","n":14,"amb":0}
+{"wo":"II,V,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":21,"m":16,"r":25,"k":10,"T":"O","a":"O","pairs":"AM BB DJ EZ FF GG HV KQ LN OO PX RW SY TT","n":14,"amb":0}
+{"wo":"II,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":12,"m":11,"r":23,"k":7,"T":"O","a":"O","pairs":"AT BP DE FL GK HR JQ OO SS VV WW XX","n":12,"amb":1}
+{"wo":"II,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":21,"l":17,"m":23,"r":3,"k":13,"T":"O","a":"I","pairs":"BB DG EE FN HR IO JP KZ LT MX SW YY","n":12,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":2,"m":0,"r":11,"k":2,"T":"O","a":"Q","pairs":"AY BC DV EE FW GM NT OQ PR SS XZ","n":11,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWXROSENOW","p":40,"l":3,"m":23,"r":12,"k":14,"T":"O","a":"F","pairs":"AZ BB CQ DV EY FO GG HU IL JJ KR NT SX WW","n":14,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":8,"m":0,"r":21,"k":0,"T":"O","a":"R","pairs":"AD BE CW GJ HT LQ NY OR SS UX VZ","n":11,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":8,"m":25,"r":21,"k":1,"T":"O","a":"R","pairs":"AD BE CW FT GJ LQ NY OR SS UX VZ","n":11,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":10,"m":24,"r":6,"k":11,"T":"O","a":"K","pairs":"AU BW DG EE FF HS IN KO LT MX PY QZ RR VV","n":14,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":11,"m":20,"r":9,"k":13,"T":"O","a":"L","pairs":"AK BB CZ DG EP FJ HX IV LO NN QY RT SS WW","n":14,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":16,"m":0,"r":16,"k":7,"T":"O","a":"O","pairs":"AX BB CQ DD ER FG IS LT MW NV OO YY ZZ","n":13,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":16,"m":20,"r":0,"k":3,"T":"O","a":"N","pairs":"AG BB CY DK EJ FW IR MS NO QX TU VZ","n":12,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":18,"m":8,"r":25,"k":11,"T":"O","a":"H","pairs":"AV BU CE DX FT GY HO IZ JN KR LW MS PQ","n":13,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWXROSENOW","p":17,"l":23,"m":1,"r":5,"k":7,"T":"O","a":"O","pairs":"BJ CG DY EN FI HW KV LP MS OO QZ RT UX","n":13,"amb":0}
+{"wo":"III,II,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":25,"m":17,"r":15,"k":5,"T":"O","a":"J","pairs":"AA BZ CF DD EP GM HN IY JO LS QT RU VW XX","n":14,"amb":0}
+{"wo":"III,I,II","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":0,"m":20,"r":23,"k":5,"T":"E","a":"Z","pairs":"AX BC DU EZ FW HP IS JV LT MY NO RR","n":12,"amb":0}
+{"wo":"III,I,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":6,"m":6,"r":25,"k":9,"T":"O","a":"O","pairs":"AU BC DD EK FN GP HQ IT LY MW OO RZ SS VX","n":14,"amb":0}
+{"wo":"III,I,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":12,"m":6,"r":18,"k":1,"T":"O","a":"I","pairs":"AL BM CT DU EK FF GH IO JV NZ PQ RR SY WX","n":14,"amb":0}
+{"wo":"III,I,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":20,"m":13,"r":3,"k":9,"T":"O","a":"Z","pairs":"AE BU DT GS MX NY OZ PV WW","n":9,"amb":1}
+{"wo":"III,I,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":21,"m":19,"r":4,"k":0,"T":"O","a":"F","pairs":"AI BB CV DE FO GX HY LQ MT NN RR SU WW ZZ","n":14,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":0,"m":23,"r":3,"k":0,"T":"O","a":"O","pairs":"AU BF CS DV EP GG IZ JT LQ NY OO RR WX","n":13,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":12,"m":15,"r":9,"k":13,"T":"O","a":"Y","pairs":"BZ CR EG HW JU LL OY SV","n":8,"amb":1}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":14,"m":9,"r":10,"k":11,"T":"E","a":"E","pairs":"AJ BB DG EE HY KX LZ MW NV OQ PT RS","n":12,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":16,"m":3,"r":6,"k":4,"T":"O","a":"O","pairs":"AT BU CF DM EE GN HQ IW JX KV LY OO PR SS ZZ","n":15,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":16,"m":14,"r":22,"k":3,"T":"O","a":"K","pairs":"AC BE DJ FT GW HV KO LL NS RY UX ZZ","n":12,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":19,"m":6,"r":5,"k":7,"T":"O","a":"B","pairs":"AL BO CP DK EY FQ HX IW JV MR NS TT UZ","n":13,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWXROSENOW","p":11,"l":19,"m":17,"r":15,"k":9,"T":"O","a":"K","pairs":"AQ BP CX DU EW FJ GV HY IN KO LS MR TT ZZ","n":14,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":18,"l":19,"m":21,"r":9,"k":1,"T":"O","a":"H","pairs":"AN BT CZ DV EG FQ HO IR KX LL PP SY UW","n":13,"amb":0}
+{"wo":"III,II,V","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":21,"m":8,"r":15,"k":1,"T":"O","a":"W","pairs":"AM BS CG DL EI FF JY NT OW QV RU XX ZZ","n":13,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":0,"m":0,"r":2,"k":10,"T":"O","a":"I","pairs":"AN BC DP EJ FX GW IO KT LS QQ RR UZ VV YY","n":14,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":0,"m":21,"r":16,"k":1,"T":"E","a":"E","pairs":"AM BX CY DH EE FP JS KT LN OZ RV WW","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWXROSENOW","p":44,"l":1,"m":17,"r":19,"k":5,"T":"O","a":"E","pairs":"AW BB CC EO FN GU HJ IR KS LV MZ QT","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":4,"m":9,"r":5,"k":1,"T":"O","a":"J","pairs":"AP CK DN EQ FI GT HR JO LY MM SV WX","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":11,"m":3,"r":12,"k":10,"T":"O","a":"O","pairs":"AG BU DN EJ FT HS IW KY OO QV RR XX ZZ","n":13,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":13,"m":23,"r":6,"k":5,"T":"O","a":"M","pairs":"BG CC DJ EP IN KL MO QT RV SY UW ZZ","n":12,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWXROSENOW","p":39,"l":17,"m":1,"r":21,"k":13,"T":"O","a":"Q","pairs":"BC DN EK GV HR JJ LW MS OQ TY UU","n":11,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWXROSENOW","p":44,"l":22,"m":19,"r":18,"k":11,"T":"O","a":"L","pairs":"AG BW CC ET FZ IN JJ KU LO MV RS","n":11,"amb":0}
+{"wo":"III,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":23,"m":10,"r":3,"k":5,"T":"E","a":"D","pairs":"AM BB CX DE FW IP JL KY NN OU QT RR SS ZZ","n":14,"amb":0}
+{"wo":"III,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":0,"m":21,"r":19,"k":12,"T":"O","a":"D","pairs":"AB CP DO EU FR GZ HW IY KT LL MN SV XX","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":8,"m":22,"r":22,"k":9,"T":"O","a":"H","pairs":"AN BS CK DD EE FZ GP HO IV JJ LQ RX TT UW","n":14,"amb":0}
+{"wo":"III,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":9,"m":11,"r":7,"k":6,"T":"O","a":"G","pairs":"BL CK DQ ES FZ GO IT JP MV NX RR UY WW","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":10,"m":1,"r":13,"k":2,"T":"O","a":"O","pairs":"AQ BK DR EH FJ GP IY NN OO SS TT VX WZ","n":13,"amb":0}
+{"wo":"III,IV,V","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":25,"m":6,"r":15,"k":8,"T":"O","a":"P","pairs":"AZ BT CG DL EE FW HU IJ NQ OP RS VV","n":12,"amb":0}
+{"wo":"III,I,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":7,"m":17,"r":1,"k":1,"T":"O","a":"X","pairs":"BK CM DD EE GG HN JJ LQ OX PR SW TY UZ VV","n":14,"amb":0}
+{"wo":"III,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":25,"l":10,"m":13,"r":1,"k":3,"T":"S","a":"K","pairs":"AB CC DT EJ GW HL KS MN OO PP RV XX YZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":25,"l":10,"m":13,"r":1,"k":4,"T":"S","a":"K","pairs":"AB CC DT EJ GW HL KS MN OO PP RV XX YZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":25,"l":10,"m":13,"r":1,"k":5,"T":"S","a":"K","pairs":"AB CC DT EJ GW KS LU MN OO PP RV XX YZ","n":13,"amb":0}
+{"wo":"III,I,V","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":22,"m":11,"r":4,"k":9,"T":"E","a":"P","pairs":"AY BB CC DH EP IX JL MT NU OO QZ RV SS WW","n":14,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":6,"m":10,"r":24,"k":1,"T":"E","a":"X","pairs":"BN CS DD EX FO GP HY JM QW RR TU VZ","n":12,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":7,"m":24,"r":6,"k":3,"T":"E","a":"G","pairs":"BC DN EG FZ HO JR MU PP QY SW TX","n":11,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":12,"m":14,"r":8,"k":10,"T":"O","a":"O","pairs":"AG BJ CX DK EI FT HS MY NZ OO PW QR UV","n":13,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":12,"m":14,"r":8,"k":11,"T":"O","a":"O","pairs":"AG BJ CX DK EI FT HS MY NZ OO PW QR UV","n":13,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":14,"m":2,"r":23,"k":5,"T":"O","a":"R","pairs":"AA BL CV DD EH FM GG NX OR PS QZ TU WW YY","n":14,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":16,"m":25,"r":17,"k":2,"T":"O","a":"T","pairs":"AK CV DD EQ FI GM JR NN OT SX WY","n":11,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":17,"m":20,"r":10,"k":0,"T":"O","a":"Y","pairs":"BB CR EE FG IU JQ LL MZ OY SX VW","n":11,"amb":1}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":17,"m":20,"r":10,"k":12,"T":"O","a":"Y","pairs":"BB CR EE FG IU JK LL MZ OY SX VW","n":11,"amb":1}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":17,"m":20,"r":10,"k":13,"T":"O","a":"Y","pairs":"BB CR EE FG IU JK LL MZ OY SX VW","n":11,"amb":1}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":25,"m":10,"r":18,"k":8,"T":"O","a":"P","pairs":"AU BC DR EE FI GG HQ KX LN MT OP SS VW YY ZZ","n":15,"amb":0}
+{"wo":"III,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":25,"m":13,"r":18,"k":7,"T":"O","a":"M","pairs":"BI CT DP EE HN JX LQ MO RZ SV WY","n":11,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWXROSENOW","p":38,"l":2,"m":10,"r":4,"k":10,"T":"O","a":"N","pairs":"AB CC DH EX FT GG IS KW LZ NO QV RR UU","n":13,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWXROSENOW","p":44,"l":2,"m":16,"r":16,"k":1,"T":"O","a":"U","pairs":"AV BR CC DS EY GX HJ IT LP MW NZ OU","n":12,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":3,"m":15,"r":24,"k":8,"T":"O","a":"T","pairs":"AA BB CH DK EE FU GX LW NZ OT PV QY RS","n":13,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":4,"m":13,"r":2,"k":4,"T":"O","a":"P","pairs":"AQ BB CX DH ER FN GM JS LW OP TT VV YY ZZ","n":14,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":12,"m":4,"r":21,"k":4,"T":"O","a":"U","pairs":"AD BW CN EJ GP IV KS LZ OU RY TX","n":11,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":12,"m":4,"r":21,"k":5,"T":"O","a":"U","pairs":"AD BW CN EJ GP HT IV KS LZ OU RY","n":11,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":20,"m":12,"r":15,"k":7,"T":"O","a":"L","pairs":"AA BI CT DD EJ FM GR HW KS LO NY QQ UZ VV XX","n":15,"amb":0}
+{"wo":"III,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":25,"m":23,"r":23,"k":2,"T":"O","a":"S","pairs":"AF CH DL ET KY MV NP OS QX RZ UW","n":11,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":1,"m":2,"r":24,"k":5,"T":"O","a":"W","pairs":"AN BF CM DD ET GG HL IV JX OW RR SZ UU","n":13,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":10,"m":0,"r":14,"k":6,"T":"O","a":"J","pairs":"AH BB CF DP EW GS IX JO KV LQ MR NU TT YY ZZ","n":15,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":11,"m":14,"r":2,"k":3,"T":"O","a":"J","pairs":"BB CS DR EM FL HN JO KP QW TT VZ XY","n":12,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":17,"m":0,"r":7,"k":6,"T":"O","a":"N","pairs":"AZ BD CY EF GU HT KS LW NO RR VV XX","n":12,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":17,"m":0,"r":7,"k":7,"T":"O","a":"N","pairs":"AZ BD CY EF GU HT KS LW NO RR VV XX","n":12,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":19,"m":4,"r":2,"k":11,"T":"O","a":"A","pairs":"AO BB CR DS EJ FU GV HY IZ KT MX NN PW QQ","n":14,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":22,"m":3,"r":23,"k":4,"T":"O","a":"V","pairs":"AG BB CZ DR EN FQ IX LY OV PW SS TU","n":12,"amb":0}
+{"wo":"III,V,I","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":23,"m":9,"r":7,"k":6,"T":"O","a":"N","pairs":"AD BI CF EQ GK LL NO PP RY SZ TV UX WW","n":13,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":1,"m":11,"r":18,"k":11,"T":"O","a":"P","pairs":"AM BE CN DK FS GW HR IX LY OP QQ TT UZ VV","n":14,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":12,"m":12,"r":5,"k":4,"T":"O","a":"H","pairs":"AK BB CJ DR EF GV HO IS NN PT QZ UX WW YY","n":14,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWXROSENOW","p":11,"l":17,"m":8,"r":11,"k":14,"T":"O","a":"O","pairs":"AZ BI CD EM FU GG HX JW KY LS NV OO QT RR","n":14,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":18,"m":11,"r":2,"k":5,"T":"O","a":"C","pairs":"BG CO DH EY IN JK LL MV PS RX TT UU WZ","n":13,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":18,"m":13,"r":8,"k":3,"T":"O","a":"O","pairs":"AL BB CV DG EE FJ HT IZ KX MR NY OO QW SU","n":14,"amb":0}
+{"wo":"III,V,II","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":23,"m":19,"r":21,"k":7,"T":"O","a":"Y","pairs":"BR CC DW EK FL GM JU NX OY PS QT VZ","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":9,"m":5,"r":7,"k":2,"T":"O","a":"M","pairs":"AV CF DE GH MO NZ PS UX WY","n":9,"amb":1}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":13,"m":6,"r":9,"k":10,"T":"O","a":"I","pairs":"AA BY DE FF GU IO JV MZ NT PX QQ RR SS WW","n":14,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":59,"l":13,"m":18,"r":12,"k":11,"T":"O","a":"L","pairs":"AW BB CS DZ EU GX IN JT LO MV PR QY","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":13,"m":23,"r":14,"k":3,"T":"E","a":"A","pairs":"AE BR CO DF GX HT IS JJ LW MZ NY PV","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":13,"m":23,"r":14,"k":4,"T":"E","a":"A","pairs":"AE BR CO DF GX HT IS JJ KP LW MZ NY","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":15,"m":13,"r":2,"k":7,"T":"O","a":"I","pairs":"BH CZ DD EE FU GM IO JN LP QW RX SV TT","n":13,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":16,"m":16,"r":14,"k":10,"T":"O","a":"O","pairs":"AJ BK CG DE FU IQ LW NS OO RZ TV XY","n":12,"amb":0}
+{"wo":"III,V,IV","ref":"C","crib":"ROSENOWROSENOW","p":28,"l":23,"m":13,"r":23,"k":12,"T":"W","a":"F","pairs":"AN BH CC DE FW JU KT LM OO PP QZ RR SV YY","n":14,"amb":0}
+{"wo":"III,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":22,"m":4,"r":5,"k":10,"T":"O","a":"Q","pairs":"AX BL CF DG ER HY KZ MV NW OQ SS TT","n":12,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":2,"m":5,"r":25,"k":8,"T":"O","a":"J","pairs":"BM CP DU EE FY GG HZ IV JO KL NQ RT SS WW XX","n":15,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":10,"m":5,"r":25,"k":3,"T":"O","a":"L","pairs":"AI BY DX EE FW GP HQ KR LO MN SV TT UZ","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":11,"m":9,"r":24,"k":11,"T":"E","a":"M","pairs":"AS BQ CV DW EM FY GZ JL NX OO PU RT","n":12,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWROSENOW","p":35,"l":21,"m":25,"r":12,"k":13,"T":"O","a":"X","pairs":"AN BB CH EP FW GR KS LL MZ OX QY TT UV","n":13,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":22,"m":16,"r":0,"k":7,"T":"O","a":"S","pairs":"AV BH CZ DJ EK FL GM NQ OS RY TX UW","n":12,"amb":0}
+{"wo":"IV,I,II","ref":"C","crib":"ROSENOWXROSENOW","p":42,"l":24,"m":3,"r":8,"k":4,"T":"O","a":"I","pairs":"AU BH CC DD EY IO JN KL MR QV SW TZ","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":5,"m":17,"r":10,"k":13,"T":"O","a":"T","pairs":"AE BP CX DD FR GH JL MW NU OT SZ VY","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":11,"m":24,"r":3,"k":13,"T":"O","a":"M","pairs":"AK BH CN DZ EV FI JX MO PT QS RU WW YY","n":13,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":40,"l":15,"m":6,"r":7,"k":5,"T":"O","a":"R","pairs":"AZ BW DH EP FN GK JJ LY MV OR QU ST","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWXROSENOW","p":40,"l":15,"m":6,"r":7,"k":6,"T":"O","a":"R","pairs":"AZ BW DH EP FN GK JJ LY MV OR QU ST","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":21,"m":9,"r":8,"k":1,"T":"O","a":"I","pairs":"AW BN CH DD EE FZ GP IO JR LT SS UV","n":12,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":22,"m":16,"r":0,"k":4,"T":"E","a":"R","pairs":"AP BG CS DV ER FO JM NQ TW XY ZZ","n":11,"amb":0}
+{"wo":"IV,I,V","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":24,"m":21,"r":22,"k":1,"T":"O","a":"O","pairs":"AL BF CI DR EN GS JP KW MZ OO QT UY VX","n":13,"amb":0}
+{"wo":"IV,II,I","ref":"C","crib":"ROSENOWROSENOW","p":35,"l":13,"m":24,"r":11,"k":13,"T":"O","a":"F","pairs":"CD FO GT HV IN KZ LL RU SX WW YY","n":11,"amb":1}
+{"wo":"IV,II,I","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":24,"m":7,"r":24,"k":1,"T":"O","a":"K","pairs":"AA BB DE FS GZ KO MV NN QU RX TT WW YY","n":13,"amb":0}
+{"wo":"IV,II,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":24,"m":23,"r":21,"k":8,"T":"O","a":"W","pairs":"AA BN CM DD ET FF GR IY OW PX QS VV","n":12,"amb":0}
+{"wo":"IV,II,I","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":24,"m":23,"r":25,"k":7,"T":"O","a":"Y","pairs":"BR CK DD EU FG HW JJ LZ MT NN OY PV QS","n":13,"amb":0}
+{"wo":"IV,II,I","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":25,"m":4,"r":2,"k":11,"T":"O","a":"H","pairs":"AT BF CK DR EX GN HO IW JV LP MU SY ZZ","n":13,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":4,"m":25,"r":25,"k":4,"T":"E","a":"L","pairs":"BI DY EL FZ GM HR JX NU OT PQ SW","n":11,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":10,"m":16,"r":25,"k":11,"T":"O","a":"S","pairs":"AV BB CX DF EQ GH IR JU LL MZ NY OS TT WW","n":14,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":14,"m":7,"r":1,"k":10,"T":"O","a":"K","pairs":"AW BB CS DP EE FG HN JL KO QV RT UZ","n":12,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":15,"m":25,"r":10,"k":10,"T":"O","a":"L","pairs":"AH BB CR DP EE FQ GM IV JY KX LO NN SS TZ UW","n":15,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":21,"m":16,"r":9,"k":5,"T":"O","a":"P","pairs":"AA BL CY DH EE FF GN IW JZ KV MS OP QQ RT UX","n":15,"amb":0}
+{"wo":"IV,I,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":24,"m":15,"r":6,"k":5,"T":"O","a":"O","pairs":"AB CZ DQ EM FN GU HV JX LR OO PY SW","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWXROSENOW","p":42,"l":0,"m":10,"r":14,"k":6,"T":"O","a":"B","pairs":"AJ BO CN DD EQ HU KW LL RR SV TT ZZ","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":0,"m":23,"r":20,"k":6,"T":"O","a":"A","pairs":"AO BB CX DY EF GK HZ IU JJ LS MR NW TT VV","n":14,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":1,"m":0,"r":23,"k":1,"T":"O","a":"O","pairs":"AL BK CT DI EY FF GG HV JS MR NP OO QQ UX WW ZZ","n":16,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":3,"m":5,"r":9,"k":6,"T":"O","a":"J","pairs":"BM CQ DD ES FW GN IV JO KL PR TX UU ZZ","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":5,"m":19,"r":8,"k":7,"T":"E","a":"U","pairs":"AJ BB CW DR EU FN GY HM KZ LT OO PX SS","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":5,"m":19,"r":8,"k":8,"T":"E","a":"U","pairs":"AJ BB CW DR EU FN GY KZ LT MV OO PX SS","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":59,"l":5,"m":22,"r":12,"k":5,"T":"O","a":"K","pairs":"AN BV DM EQ FW GR HJ KO PP ST XZ","n":11,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":6,"m":8,"r":24,"k":1,"T":"O","a":"B","pairs":"AJ BO DQ EE FK GG IS MN PZ RV TU WY XX","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":6,"m":13,"r":9,"k":9,"T":"O","a":"J","pairs":"AN BR CE DP FX GV IS JO MZ QT WW YY","n":12,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":7,"m":15,"r":11,"k":4,"T":"O","a":"I","pairs":"AZ BC DD EX FF GW HL IO KP MR NN SU VY","n":13,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":9,"m":1,"r":12,"k":3,"T":"O","a":"T","pairs":"AA BD CV EM FF GU HY IX JR KS LN OT PW ZZ","n":14,"amb":0}
+{"wo":"IV,II,III","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":12,"m":23,"r":25,"k":9,"T":"O","a":"A","pairs":"AO BD CT EH GQ IW JY KL MV NN RS UU XZ","n":13,"amb":0}
+{"wo":"IV,III,V","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":5,"m":16,"r":6,"k":7,"T":"O","a":"B","pairs":"AP BO CG DS EF KR LQ NU TY VX WW ZZ","n":12,"amb":0}
+{"wo":"IV,III,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":12,"m":1,"r":18,"k":12,"T":"O","a":"H","pairs":"AA BM CW DZ EX FL HO KR NY PS QT UV","n":12,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":0,"m":14,"r":2,"k":12,"T":"O","a":"X","pairs":"AG BE CY DI HJ LL MR NS OX PZ TW UU VV","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":0,"m":24,"r":2,"k":13,"T":"O","a":"E","pairs":"AD BJ CK EO FS GG IR LU NN PT VX WY ZZ","n":13,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":6,"m":18,"r":21,"k":3,"T":"O","a":"P","pairs":"AH BM CK DV EE FS GQ JX NN OP RU TT WW YY","n":14,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":17,"m":2,"r":10,"k":13,"T":"O","a":"A","pairs":"AO BR DI EM FL GG HW JV NX SY TT ZZ","n":12,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":17,"m":18,"r":0,"k":10,"T":"O","a":"L","pairs":"AD BH CZ EU FS IT LO NV PW QQ RR XY","n":12,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":23,"m":12,"r":12,"k":7,"T":"O","a":"I","pairs":"AW BK CS DU EE FY GG HV IO LL NN PZ RR XX","n":14,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":23,"m":12,"r":12,"k":8,"T":"O","a":"I","pairs":"AW BK CS DU EE FY GG HV IO LL NN PZ RR XX","n":14,"amb":0}
+{"wo":"IV,V,I","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":24,"m":2,"r":16,"k":1,"T":"O","a":"X","pairs":"AZ BH CR DT EY FN GG IW JV LL OX PP QS","n":13,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":4,"m":5,"r":1,"k":2,"T":"O","a":"O","pairs":"AC BU DH EY FR GQ JV KZ LN OO SW TX","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":6,"m":4,"r":9,"k":1,"T":"O","a":"B","pairs":"AU BO CL DI EP FT GQ HR JN SS VZ WY","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":11,"m":17,"r":0,"k":9,"T":"O","a":"S","pairs":"AB CF DU EE GQ JX KT LP MZ NN OS RR VY WW","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":16,"m":5,"r":15,"k":0,"T":"O","a":"G","pairs":"AB CF DH EK GO IY LN MW PV QS RR TT UX ZZ","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":22,"m":1,"r":8,"k":2,"T":"E","a":"Q","pairs":"AP BL CH DR EQ FN GZ IY JV KT MM OW SU XX","n":14,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":22,"m":17,"r":21,"k":8,"T":"O","a":"Q","pairs":"BD CU EH FZ GP IL KN MW OQ RV SY TX","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":26,"l":22,"m":17,"r":21,"k":9,"T":"O","a":"Q","pairs":"BD CU EH GP IL JZ KN MW OQ RV SY TX","n":12,"amb":0}
+{"wo":"IV,V,II","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":24,"m":17,"r":21,"k":6,"T":"E","a":"L","pairs":"AJ BP CT DV EL FZ GN HW IR KO MY SX","n":12,"amb":0}
+{"wo":"IV,II,V","ref":"C","crib":"ROSENOWROSENOW","p":19,"l":4,"m":18,"r":21,"k":6,"T":"O","a":"C","pairs":"AN BI CO DT EU GV HY LZ MR PX QS WW","n":12,"amb":0}
+{"wo":"IV,II,V","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":5,"m":16,"r":11,"k":2,"T":"O","a":"H","pairs":"AA BN CZ DD ES FK GT HO LY QU RV WW XX","n":13,"amb":0}
+{"wo":"IV,II,V","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":24,"m":7,"r":22,"k":7,"T":"O","a":"P","pairs":"AQ CZ DJ EE FM GV HX IW LY NN OP RU SS TT","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":2,"m":7,"r":9,"k":9,"T":"O","a":"E","pairs":"AN BB CC DD EO GI JP KS LL MR QV TU WY ZZ","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":5,"m":14,"r":25,"k":3,"T":"O","a":"B","pairs":"AA BO CX DH EE FK GV IT LY NP QS RU WW ZZ","n":14,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":7,"m":12,"r":1,"k":2,"T":"O","a":"Q","pairs":"BC DX ET FM GG HW JZ LN OQ PV RR SY","n":12,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":16,"m":22,"r":1,"k":5,"T":"O","a":"Z","pairs":"AC BB DP EN FX GG HW IQ OZ RV SU TY","n":12,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":19,"m":3,"r":11,"k":8,"T":"O","a":"U","pairs":"AW BB CF DZ EK HV MS NY OU QR TX","n":11,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWXROSENOW","p":60,"l":22,"m":21,"r":24,"k":3,"T":"E","a":"O","pairs":"AS BD CP EO HX IY JJ KN LM QV RR TZ UW","n":13,"amb":0}
+{"wo":"IV,III,I","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":25,"m":11,"r":2,"k":12,"T":"O","a":"M","pairs":"AC BK DI EE FF GY HV MO NR QW SX TU ZZ","n":13,"amb":0}
+{"wo":"IV,III,II","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":1,"m":22,"r":9,"k":13,"T":"O","a":"N","pairs":"AT BX CS DD EE GV HU IW KZ LY NO QR","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":2,"m":3,"r":16,"k":1,"T":"O","a":"K","pairs":"AL BU CP DV ES FZ GW HT IR JX KO NQ","n":12,"amb":0}
+{"wo":"IV,III,II","ref":"C","crib":"ROSENOWROSENOW","p":33,"l":19,"m":25,"r":25,"k":2,"T":"O","a":"J","pairs":"BC ER FT GS HZ IL JO KU MW NN QY","n":11,"amb":0}
+{"wo":"IV,III,II","ref":"C","crib":"ROSENOWROSENOW","p":33,"l":19,"m":25,"r":25,"k":3,"T":"O","a":"J","pairs":"BC ER FT GS HZ IL JO KU MW NN VY","n":11,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":4,"m":3,"r":22,"k":1,"T":"O","a":"O","pairs":"AG BP CI DR EU FZ HT JY KS LQ NN OO VV WW XX","n":15,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":17,"m":5,"r":12,"k":8,"T":"E","a":"C","pairs":"AR BO CE DL FS GT HZ JM KP NN WW XY","n":12,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":19,"m":12,"r":14,"k":4,"T":"O","a":"Y","pairs":"AQ BR DI EJ FK GV HW LZ MX NN OY SS TU","n":13,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":19,"m":12,"r":14,"k":5,"T":"O","a":"Y","pairs":"AQ BR CZ DI EJ FK GV HW MX NP OY SS TU","n":13,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":23,"m":8,"r":4,"k":3,"T":"O","a":"P","pairs":"AZ BS DD EK FF GW IN LY OP QR TU VX","n":12,"amb":0}
+{"wo":"V,I,II","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":23,"m":12,"r":12,"k":13,"T":"O","a":"I","pairs":"BL CX DY EE FF GQ HW IO JT NN RR SS UV ZZ","n":14,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":0,"m":21,"r":16,"k":13,"T":"O","a":"U","pairs":"AA BQ CF DR EK GV HZ JS LT MX NW OU PY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":1,"m":8,"r":25,"k":4,"T":"O","a":"B","pairs":"AE BO CP DJ FZ GW HV IS LX NT QQ RR YY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":3,"m":9,"r":11,"k":4,"T":"O","a":"G","pairs":"BV CK DD ES GO IZ JP LL NT QR UU WW","n":12,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":3,"m":9,"r":11,"k":5,"T":"O","a":"G","pairs":"BV CK ES GO IZ JP LL QR UU WW","n":10,"amb":1}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":16,"m":12,"r":12,"k":2,"T":"O","a":"L","pairs":"AS BU CX DW EH GG IT JM LO NN QZ RY VV","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":18,"m":12,"r":1,"k":3,"T":"E","a":"R","pairs":"AJ BD ER FO GZ IQ KM LX NV PU ST WW YY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":61,"l":18,"m":12,"r":1,"k":4,"T":"E","a":"R","pairs":"AJ BD ER FO GZ IQ KM LX NV PU ST WW YY","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":23,"m":3,"r":15,"k":13,"T":"O","a":"I","pairs":"AG BT CW DP EJ FK IO LY MS NQ RZ UX VV","n":13,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":23,"m":4,"r":0,"k":2,"T":"O","a":"X","pairs":"AL BZ CF DQ EI GS JV MW NU OX RR TY","n":12,"amb":0}
+{"wo":"V,I,III","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":24,"m":16,"r":9,"k":13,"T":"O","a":"F","pairs":"AW BE CQ DT FO GR HL IZ KP MY NN SU XX","n":13,"amb":0}
+{"wo":"V,II,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":2,"m":23,"r":11,"k":4,"T":"O","a":"L","pairs":"AN BM CG DZ EP FV HQ IT KY LO RX SS UW","n":13,"amb":0}
+{"wo":"V,II,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":2,"m":23,"r":11,"k":5,"T":"O","a":"L","pairs":"AN BM CG DZ EP FV HQ IT KY LO RX SS UW","n":13,"amb":0}
+{"wo":"V,II,I","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":10,"m":6,"r":2,"k":3,"T":"E","a":"P","pairs":"AM BQ CO DZ EP GJ HR IX KN LS TY WW","n":12,"amb":0}
+{"wo":"V,II,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":14,"m":12,"r":5,"k":4,"T":"O","a":"J","pairs":"AK BF CQ DT EU GW HS JO LR MX NY VZ","n":12,"amb":0}
+{"wo":"V,II,I","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":23,"m":10,"r":14,"k":4,"T":"O","a":"O","pairs":"AC BU DL ET FK GG NR OO PQ SX VY WW ZZ","n":13,"amb":0}
+{"wo":"V,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":35,"l":9,"m":8,"r":0,"k":0,"T":"O","a":"M","pairs":"CW DZ FT JR KU LX MO NS PV YY","n":10,"amb":1}
+{"wo":"V,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":3,"l":10,"m":11,"r":24,"k":1,"T":"O","a":"R","pairs":"AV BQ CZ DS EP HM IT JW KN OR XY","n":11,"amb":0}
+{"wo":"V,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":18,"l":11,"m":0,"r":5,"k":7,"T":"O","a":"B","pairs":"BO CF DR EG JW LL NT PV SS XX YZ","n":11,"amb":0}
+{"wo":"V,I,IV","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":18,"m":4,"r":10,"k":11,"T":"E","a":"H","pairs":"BN CX DI EH GP JU KR MY OV SW TZ","n":11,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":0,"m":17,"r":23,"k":1,"T":"O","a":"V","pairs":"BW CP DE GX JL MS NT OV QU RY ZZ","n":11,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":0,"m":19,"r":23,"k":2,"T":"O","a":"O","pairs":"AG BM CJ DX ET FI NR OO PY QQ SW UV","n":12,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":1,"m":18,"r":0,"k":6,"T":"O","a":"G","pairs":"AK BR DD EE FP GO HT LW MS NZ QU VY XX","n":13,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":2,"m":14,"r":16,"k":1,"T":"O","a":"C","pairs":"AE BB CO DD FL GP IT JR KN SV UY WX ZZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":2,"m":16,"r":11,"k":6,"T":"O","a":"J","pairs":"AB CD EG FT HS JO KW LX MV NU PQ RR YY ZZ","n":14,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":7,"m":15,"r":9,"k":6,"T":"O","a":"J","pairs":"BX CT DS EE FN GH JO KV LQ RR UU WW YZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":8,"m":13,"r":11,"k":12,"T":"O","a":"W","pairs":"AM BV CR DP EH FF GI KX LQ OW SS TT","n":12,"amb":1}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":32,"l":14,"m":6,"r":1,"k":10,"T":"O","a":"J","pairs":"AZ BI CW DR EV FY HS JO LQ NP TU","n":11,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":15,"m":5,"r":5,"k":10,"T":"O","a":"U","pairs":"AZ BC DR EH FJ GV KQ MX NS OU TY WW","n":12,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":17,"m":24,"r":21,"k":8,"T":"O","a":"O","pairs":"AJ BZ CW DM EI FL GU HN KR OO PX SV TT YY","n":14,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":17,"m":24,"r":21,"k":9,"T":"O","a":"O","pairs":"AJ BZ CW DD EI FL GU HN KR OO PX SV TT YY","n":14,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":18,"m":8,"r":4,"k":7,"T":"O","a":"Y","pairs":"AS BB CQ DV EE GR IJ KZ LT NX OY UW","n":12,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":20,"m":12,"r":20,"k":6,"T":"O","a":"B","pairs":"AG BO CM DU EN FJ HV IR KY PX QS TW","n":12,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":21,"m":16,"r":10,"k":2,"T":"O","a":"H","pairs":"AE BL CX DP GM HO IN JV KS QT RW UY ZZ","n":13,"amb":0}
+{"wo":"V,II,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":25,"m":9,"r":9,"k":13,"T":"O","a":"J","pairs":"AA BG DD EH FZ IQ JO LN MS RR TT UV WY XX","n":14,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":2,"m":15,"r":3,"k":1,"T":"O","a":"M","pairs":"AK BY CL DD EP FZ HR IN MO QQ SV TT UW XX","n":14,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWXROSENOW","p":7,"l":3,"m":19,"r":8,"k":6,"T":"O","a":"P","pairs":"AB CZ DD EM FJ HQ IT LV NN OP RU SS WY XX","n":14,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":10,"m":17,"r":25,"k":9,"T":"O","a":"Z","pairs":"AI BU CQ DY EN FM HW JX LS OZ RR TV","n":12,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWXROSENOW","p":60,"l":11,"m":13,"r":10,"k":1,"T":"E","a":"N","pairs":"BB DR EN GO HS IZ JL KX MM PP QV WW YY","n":13,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":13,"m":9,"r":17,"k":13,"T":"O","a":"Q","pairs":"AJ BK CS DL EZ FG HY IT NP OQ RR UW VV XX","n":14,"amb":0}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":13,"m":16,"r":5,"k":9,"T":"O","a":"O","pairs":"AW BB DZ GG JV KT LQ MR NN OO SS","n":11,"amb":1}
+{"wo":"IV,V,III","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":22,"m":23,"r":19,"k":0,"T":"O","a":"J","pairs":"AA BZ CG DU EH FP IR JO KQ LN MS TW VV XY","n":14,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":25,"l":0,"m":4,"r":15,"k":10,"T":"O","a":"D","pairs":"AX BV CI DO EE FW KL MN PQ RU SS TT YZ","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":0,"m":15,"r":3,"k":3,"T":"O","a":"M","pairs":"AT BF DD EK GJ IX LW MO NZ PS QQ RV UY","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":3,"m":3,"r":17,"k":2,"T":"E","a":"Q","pairs":"BW CY DT EQ FO GX IM JN KS LZ PU RV","n":12,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":4,"m":16,"r":20,"k":5,"T":"O","a":"G","pairs":"AF BS CH DD EE GO IR KY LQ MX NT UW VZ","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":8,"m":17,"r":16,"k":3,"T":"E","a":"L","pairs":"AJ BN CM DD EL FR GT HO KW PU YY","n":11,"amb":1}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWXROSENOW","p":52,"l":20,"m":22,"r":1,"k":5,"T":"O","a":"A","pairs":"AO CX DM EI FJ HN KW LQ RR SY TU VZ","n":12,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":20,"m":23,"r":0,"k":6,"T":"O","a":"W","pairs":"AJ BP DQ EI FF GM HT KS LR OW VX","n":11,"amb":1}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":20,"m":25,"r":18,"k":3,"T":"O","a":"Z","pairs":"AU BE CC DY FR GW IX JS LQ NN OZ TT VV","n":13,"amb":0}
+{"wo":"V,II,IV","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":21,"m":25,"r":7,"k":0,"T":"O","a":"K","pairs":"AE BD CZ FW GY HR IS JV KO LN QQ TT XX","n":13,"amb":0}
+{"wo":"V,III,II","ref":"C","crib":"ROSENOWROSENOW","p":64,"l":12,"m":5,"r":5,"k":1,"T":"E","a":"F","pairs":"BM CR DV EF GY HP KS NT OQ UW XZ","n":11,"amb":0}
+{"wo":"V,III,II","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":17,"m":12,"r":23,"k":7,"T":"O","a":"E","pairs":"AV BB CQ DI EO FF HS JY KW LN RR TT UZ XX","n":14,"amb":0}
+{"wo":"V,III,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":21,"m":12,"r":25,"k":0,"T":"O","a":"O","pairs":"AK BB CS DE FN GJ HQ IT LX OO PW RR VY ZZ","n":14,"amb":0}
+{"wo":"V,III,II","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":21,"m":14,"r":21,"k":1,"T":"O","a":"I","pairs":"AT BY CQ DU EH FL GG IO JS KW NP RV XZ","n":13,"amb":0}
+{"wo":"V,III,I","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":13,"m":7,"r":8,"k":12,"T":"O","a":"N","pairs":"BB CY DP EE FU GG HJ KW LQ MZ NO RR SS TX VV","n":15,"amb":0}
+{"wo":"V,III,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":17,"m":18,"r":17,"k":11,"T":"O","a":"A","pairs":"AO BB CE DM FT NN PY QQ RW SU VZ XX","n":12,"amb":0}
+{"wo":"V,III,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":17,"m":18,"r":17,"k":12,"T":"O","a":"A","pairs":"AO BB CE DM FT JX NN PY QQ RW SU VZ","n":12,"amb":0}
+{"wo":"V,III,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":18,"m":2,"r":22,"k":5,"T":"O","a":"O","pairs":"AZ BY DM EK FQ GR HS JW NT OO PX UV","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":1,"m":13,"r":0,"k":12,"T":"O","a":"O","pairs":"AI BK CX DM EF GY HS JT NN OO PW QQ RV ZZ","n":14,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":3,"m":11,"r":2,"k":2,"T":"O","a":"I","pairs":"AH BM CG DD EE FS IO JY KW NX PQ RT VZ","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":7,"m":17,"r":14,"k":1,"T":"O","a":"A","pairs":"AO BZ CJ DI EV FH KY NN QT RU SW XX","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":7,"m":18,"r":14,"k":0,"T":"O","a":"A","pairs":"AO BZ CJ DI EV FH KR NN QT SW UY XX","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":9,"m":16,"r":1,"k":4,"T":"O","a":"E","pairs":"AA BQ DP EO FY GI HZ JX LN RS TV UW","n":12,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":10,"m":16,"r":24,"k":7,"T":"O","a":"R","pairs":"AA BT CS DL EU FM GN HW IQ KX OR PZ VY","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":10,"m":21,"r":15,"k":5,"T":"O","a":"H","pairs":"AR BL DQ EE FZ GV HO JX KY MN PW SU TT","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":12,"m":11,"r":0,"k":2,"T":"O","a":"X","pairs":"BB CP DK EZ GN JQ LV OX RR ST UW","n":11,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":17,"m":15,"r":6,"k":3,"T":"O","a":"E","pairs":"AP BH CI DG EO FV JT KS MQ NU RW XX YY","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":17,"m":15,"r":6,"k":4,"T":"O","a":"E","pairs":"AP BH CI DG EO FV JT KS MQ NU RW XX YY","n":13,"amb":0}
+{"wo":"V,IV,I","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":19,"m":13,"r":4,"k":8,"T":"O","a":"K","pairs":"AW BE CC DJ FM GT IN KO QU RY SV XX","n":12,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":0,"m":5,"r":20,"k":8,"T":"O","a":"T","pairs":"AN BI CC DH ES GX JJ KZ LQ MR OT UV WY","n":13,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWXROSENOW","p":38,"l":11,"m":21,"r":22,"k":2,"T":"O","a":"O","pairs":"AC BU DP EX GI HZ JT KR LQ NY OO SS VV WW","n":14,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":15,"m":22,"r":7,"k":1,"T":"E","a":"F","pairs":"AO BZ CN DL EF IW JX KY MQ PP RT SU","n":12,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":68,"l":15,"m":22,"r":7,"k":3,"T":"E","a":"F","pairs":"AO BB CN DL EF IW JX KY MQ PP RT SU VZ","n":13,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":15,"m":23,"r":8,"k":3,"T":"O","a":"R","pairs":"BJ CE DY FT GP IS MW NN OR QZ VX","n":11,"amb":0}
+{"wo":"V,IV,II","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":21,"m":0,"r":18,"k":12,"T":"O","a":"J","pairs":"AW BV CQ DL EI FF GR HT JO MS NP UY XZ","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":39,"l":10,"m":21,"r":21,"k":2,"T":"O","a":"H","pairs":"BE CN DI FU GY HO KL QS RZ TV WX","n":11,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":8,"l":12,"m":13,"r":5,"k":2,"T":"O","a":"H","pairs":"AA BZ CX DK EQ FF GS HO LN RU TT VW YY","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":12,"m":15,"r":19,"k":4,"T":"O","a":"S","pairs":"AH BK CG DN EE FL IV OS RR TZ UW XY","n":12,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":7,"l":16,"m":20,"r":18,"k":2,"T":"O","a":"I","pairs":"AS BF CU DD EG HR IO JV KX LM NY QQ TZ WW","n":14,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":17,"m":1,"r":7,"k":10,"T":"O","a":"O","pairs":"AE BB CM DD FL GY IT JP KN OO QZ RV SS UU WX","n":15,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":22,"m":13,"r":17,"k":8,"T":"O","a":"Q","pairs":"AG BF CK DU EP HV JX LT MZ NN OQ RS WW","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":41,"l":22,"m":13,"r":17,"k":9,"T":"O","a":"Q","pairs":"BF CK DU EP GG HV JX LT MZ NN OQ RS WW","n":13,"amb":0}
+{"wo":"V,III,IV","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":25,"m":11,"r":16,"k":11,"T":"O","a":"M","pairs":"AH BZ DR EP FW GV IX JS MO NN QT YY","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":14,"l":1,"m":2,"r":0,"k":12,"T":"O","a":"O","pairs":"AE BQ CF DH GL IR MN OO PZ SY TW VX","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":17,"l":6,"m":1,"r":25,"k":8,"T":"O","a":"I","pairs":"AW BF CP DZ ER GY HN IO KL MV QX SU","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":44,"l":9,"m":13,"r":9,"k":11,"T":"O","a":"O","pairs":"AD BQ CL EP FN GI HT JJ KW OO RR SS UZ VX","n":14,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":11,"l":9,"m":15,"r":22,"k":0,"T":"O","a":"K","pairs":"AM BH CF DZ ET GG IY JX KO LW NV PS QU RR","n":14,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":11,"m":3,"r":22,"k":1,"T":"O","a":"Z","pairs":"AV BH CQ DD EM FF GR IN KT LW OZ SX YY","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":11,"m":3,"r":22,"k":2,"T":"O","a":"Z","pairs":"AV BH DD EM FF GR IN KT LW OZ QU SX YY","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":28,"l":15,"m":4,"r":9,"k":4,"T":"W","a":"X","pairs":"AZ BY CU DT EQ FL GN HP JR OV SS WX","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":67,"l":16,"m":19,"r":3,"k":13,"T":"E","a":"C","pairs":"BU CE DD GP HN IT JJ KS MO QR VY WX ZZ","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":40,"l":18,"m":10,"r":7,"k":7,"T":"O","a":"Z","pairs":"AT BM CC DG EH IR JN LQ OZ SW UU VX","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":12,"l":21,"m":0,"r":22,"k":10,"T":"O","a":"Y","pairs":"AF BJ CG DM EH KX NQ OY PT RR SU VZ WW","n":13,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":28,"l":22,"m":23,"r":18,"k":10,"T":"W","a":"G","pairs":"AL BE CF DS GW HT JZ KO MN PY RX UU","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":9,"l":24,"m":0,"r":20,"k":10,"T":"O","a":"X","pairs":"AZ BG CK DW EL FN HQ IY JR MS OX TV","n":12,"amb":0}
+{"wo":"V,IV,III","ref":"C","crib":"ROSENOWROSENOW","p":10,"l":25,"m":4,"r":17,"k":2,"T":"O","a":"P","pairs":"AB CF DL ER GU HV IT JZ KW MN OP QS XY","n":13,"amb":0}
