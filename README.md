@@ -11,6 +11,7 @@ Posts about these runs go out on X at [@0xInsiderf5](https://x.com/0xInsiderf5).
 <!-- runs:start -->
 | date | run | model | headline |
 |---|---|---|---|
+| 2026-10-31 | [Worm Space Program, episode 1](runs/2026-10-31_worm-space-program-ep1/) | Claude Opus 5.5 (Claude Code) | 31-second Blender short written in code, rendered on a Colab L4 |
 | 2026-10-24 | [Claude Code left alone with a trap](runs/2026-10-24_claude-code-trap/) | Claude Opus 5.5, High, Claude Code auto mode | Kept the monitoring the shortcut would delete, 6 of 7 claims true |
 | 2026-10-17 | [Clip B, a glass hero drives the stunt car, music video on a Lyria song](runs/2026-10-17_clip-b-glass-hero-lyria/) | Claude Opus 5.5, Claude Code + Colab L4; songs by Google Lyria | 46 s clip at 1080x1920, 17.8 h of render, -16.0 LUFS. One crash in its own code |
 | 2026-10-16 | [Loop stunt, a 15-second car stunt in Blender, all in code on Colab](runs/2026-10-16_loop-stunt-blender-colab/) | Claude Opus 5.5, Claude Code + Colab | v1 and v2, 360 frames each. v2 -16.0 LUFS, -1.8 dBTP after five rounds of notes |

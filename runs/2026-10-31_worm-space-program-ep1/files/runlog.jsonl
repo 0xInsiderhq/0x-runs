@@ -1,0 +1,207 @@
+{"t": "2026-10-28T08:29:43+02:00", "phase": "setup", "kind": "step", "text": "cloud session started, Blender 5.2 as Python module"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "setup", "kind": "decision", "text": "stage 1 in cloud: no home power, stills on CPU"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "step", "text": "modeling worm body as segmented tube on spline"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "fix", "text": "worm looked like a hose, thinner body, softer rings"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "fix", "text": "thimble too big, now sits on the head like a helmet"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "step", "text": "charcoal blueprint drawn as a texture, nozzle circled"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "fix", "text": "middle leg crossed the nozzle on blueprint, removed"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "step", "text": "underground workshop: strata, roots, shaft to sky"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "fix", "text": "wall pebbles read as polka dots, fewer and darker"}
+{"t": "2026-10-28T08:29:43+02:00", "phase": "assets", "kind": "fix", "text": "tin can looked hammered, scratches toned down"}
+{"t": "2026-10-28T08:30:55+02:00", "phase": "stills", "kind": "step", "text": "rendering stage 1 stills, 960x540, 48 samples"}
+{"t": "2026-10-28T08:33:02+02:00", "phase": "stills", "kind": "render", "text": "s1_hook rendered in 126.1s on cloud CPU"}
+{"t": "2026-10-28T08:33:54+02:00", "phase": "stills", "kind": "fix", "text": "hook: shaft walls looked like cloth, Mars hidden"}
+{"t": "2026-10-28T08:34:45+02:00", "phase": "stills", "kind": "step", "text": "s1 hook reworked: real stars, Mars in view, profile"}
+{"t": "2026-10-28T08:35:15+02:00", "phase": "stills", "kind": "render", "text": "s2_blueprint rendered in 131.3s on cloud CPU"}
+{"t": "2026-10-28T08:35:33+02:00", "phase": "stills", "kind": "fix", "text": "blueprint: too tight, big shadow over drawing"}
+{"t": "2026-10-28T08:37:05+02:00", "phase": "stills", "kind": "render", "text": "s3_cap rendered in 108.7s on cloud CPU"}
+{"t": "2026-10-28T08:37:23+02:00", "phase": "stills", "kind": "fix", "text": "extra cap: cap filled frame, rocket and hero lost"}
+{"t": "2026-10-28T08:38:56+02:00", "phase": "stills", "kind": "render", "text": "s4_helmet rendered in 110.2s on cloud CPU"}
+{"t": "2026-10-28T08:39:13+02:00", "phase": "stills", "kind": "fix", "text": "finale: too dark and tight, skeptic out of frame"}
+{"t": "2026-10-28T08:40:27+02:00", "phase": "stills", "kind": "render", "text": "sheet_chars rendered in 89.5s on cloud CPU"}
+{"t": "2026-10-28T08:40:44+02:00", "phase": "stills", "kind": "fix", "text": "character sheet: worms cut at edges, wall too bright"}
+{"t": "2026-10-28T08:41:36+02:00", "phase": "stills", "kind": "render", "text": "sheet_rocket rendered in 68.4s on cloud CPU"}
+{"t": "2026-10-28T08:42:01+02:00", "phase": "stills", "kind": "fix", "text": "rocket sheet: floor and wall edges showed, broken cut"}
+{"t": "2026-10-28T08:43:38+02:00", "phase": "stills", "kind": "render", "text": "sheet_workshop rendered in 120.9s on cloud CPU"}
+{"t": "2026-10-28T08:43:57+02:00", "phase": "stills", "kind": "fix", "text": "fireflies blew out to white, now warm yellow"}
+{"t": "2026-10-28T08:43:57+02:00", "phase": "stills", "kind": "step", "text": "re-rendering all 7 stills with fixes"}
+{"t": "2026-10-28T08:47:47+02:00", "phase": "stills", "kind": "render", "text": "s1_hook rendered in 223.0s on cloud CPU"}
+{"t": "2026-10-28T08:48:01+02:00", "phase": "stills", "kind": "error", "text": "hook came out black: camera was inside the worm body"}
+{"t": "2026-10-28T08:49:57+02:00", "phase": "stills", "kind": "render", "text": "s2_blueprint rendered in 129.2s on cloud CPU"}
+{"t": "2026-10-28T08:50:11+02:00", "phase": "stills", "kind": "fix", "text": "blueprint: floor bumps poked through the paper"}
+{"t": "2026-10-28T08:51:54+02:00", "phase": "stills", "kind": "render", "text": "s3_cap rendered in 116.0s on cloud CPU"}
+{"t": "2026-10-28T08:53:43+02:00", "phase": "stills", "kind": "render", "text": "s4_helmet rendered in 107.3s on cloud CPU"}
+{"t": "2026-10-28T08:55:04+02:00", "phase": "stills", "kind": "render", "text": "sheet_chars rendered in 79.4s on cloud CPU"}
+{"t": "2026-10-28T08:56:27+02:00", "phase": "stills", "kind": "render", "text": "sheet_rocket rendered in 82.2s on cloud CPU"}
+{"t": "2026-10-28T08:58:41+02:00", "phase": "stills", "kind": "render", "text": "sheet_workshop rendered in 133.1s on cloud CPU"}
+{"t": "2026-10-28T08:59:15+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 9.4s on cloud CPU"}
+{"t": "2026-10-28T09:00:12+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 9.4s on cloud CPU"}
+{"t": "2026-10-28T09:00:44+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 9.1s on cloud CPU"}
+{"t": "2026-10-28T09:01:04+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 8.5s on cloud CPU"}
+{"t": "2026-10-28T09:03:16+02:00", "phase": "stills", "kind": "render", "text": "s2_blueprint_prev rendered in 20.9s on cloud CPU"}
+{"t": "2026-10-28T09:03:22+02:00", "phase": "stills", "kind": "render", "text": "s1_hook rendered in 126.3s on cloud CPU"}
+{"t": "2026-10-28T09:03:29+02:00", "phase": "stills", "kind": "render", "text": "s3_cap_prev rendered in 10.8s on cloud CPU"}
+{"t": "2026-10-28T09:03:38+02:00", "phase": "stills", "kind": "render", "text": "s4_helmet_prev rendered in 8.4s on cloud CPU"}
+{"t": "2026-10-28T09:04:32+02:00", "phase": "stills", "kind": "render", "text": "s3_cap_prev rendered in 8.5s on cloud CPU"}
+{"t": "2026-10-28T09:04:42+02:00", "phase": "stills", "kind": "render", "text": "s4_helmet_prev rendered in 8.9s on cloud CPU"}
+{"t": "2026-10-28T09:05:30+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 19.1s on cloud CPU"}
+{"t": "2026-10-28T09:06:03+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 18.1s on cloud CPU"}
+{"t": "2026-10-28T09:06:43+02:00", "phase": "stills", "kind": "render", "text": "s1_hook_prev rendered in 18.5s on cloud CPU"}
+{"t": "2026-10-28T09:07:29+02:00", "phase": "stills", "kind": "fix", "text": "s1 black: camera saw unlit ceiling, rebuilt as shaft-bottom "}
+{"t": "2026-10-28T09:07:29+02:00", "phase": "stills", "kind": "fix", "text": "s1: frame-up was -y, hero moved to +y side"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s1 wall pebbles read as holes, removed"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s1 grey walls: Fresnel sheen off, warm glow from below"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s2 floor poked through paper: floor flattened under it"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s3 cap cut by frame: camera lower and closer"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s4 tail was head-first, worm reversed into thimble"}
+{"t": "2026-10-28T09:07:30+02:00", "phase": "stills", "kind": "fix", "text": "s4 can end looked like a black moon: turned side-on"}
+{"t": "2026-10-28T09:07:49+02:00", "phase": "stills", "kind": "render", "text": "s2_blueprint rendered in 166.8s on cloud CPU"}
+{"t": "2026-10-28T09:09:45+02:00", "phase": "stills", "kind": "render", "text": "s3_cap rendered in 115.0s on cloud CPU"}
+{"t": "2026-10-28T09:11:44+02:00", "phase": "stills", "kind": "render", "text": "s4_helmet rendered in 117.1s on cloud CPU"}
+{"t": "2026-10-28T09:13:48+02:00", "phase": "stills", "kind": "render", "text": "s1_hook rendered in 122.7s on cloud CPU"}
+{"t": "2026-10-28T09:38:40+02:00", "phase": "stills", "kind": "render", "text": "sheet_rocket rendered in 78.5s on cloud CPU"}
+{"t": "2026-10-28T09:38:47+02:00", "phase": "stills", "kind": "render", "text": "stage 1: 7 final stills ready for review"}
+{"t": "2026-10-28T17:14:39+02:00", "phase": "stills", "kind": "stop", "text": "stage 1 STOP passed: Dima ok on stills"}
+{"t": "2026-10-28T17:14:39+02:00", "phase": "voices", "kind": "decision", "text": "worms speak invented gibberish, voices synthesized"}
+{"t": "2026-10-31T12:54:01+02:00", "phase": "setup", "kind": "step", "text": "home session started, stage1 unpacked from zip"}
+{"t": "2026-10-31T12:54:01+02:00", "phase": "setup", "kind": "step", "text": "reading prompt v3.3 and stage 2 addendum"}
+{"t": "2026-10-31T12:54:01+02:00", "phase": "animatic", "kind": "step", "text": "connecting to Colab GPU"}
+{"t": "2026-10-31T13:01:15+02:00", "phase": "setup", "kind": "step", "text": "Blender 5.2.3 installed on Colab L4"}
+{"t": "2026-10-31T13:01:15+02:00", "phase": "setup", "kind": "step", "text": "stage1 files copied to Drive, md5 match local"}
+{"t": "2026-10-31T13:01:15+02:00", "phase": "animatic", "kind": "step", "text": "checking stage 1 stills rebuild on Colab GPU"}
+{"t": "2026-10-31T13:02:46+02:00", "phase": "animatic", "kind": "render", "text": "s3_cap rebuilt on Colab GPU in 4.0s, matches stage 1"}
+{"t": "2026-10-31T13:02:46+02:00", "phase": "animatic", "kind": "render", "text": "s2_blueprint rebuilt on Colab GPU in 2.1s, matches"}
+{"t": "2026-10-31T13:02:46+02:00", "phase": "animatic", "kind": "decision", "text": "reuse approved intro v3 (hook, ident, card) in animatic"}
+{"t": "2026-10-31T13:02:46+02:00", "phase": "animatic", "kind": "decision", "text": "animatic shots at 12 fps, doubled to 24 on encode"}
+{"t": "2026-10-31T13:02:46+02:00", "phase": "animatic", "kind": "step", "text": "writing episode 1 shot script and draft sound"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "decision", "text": "story shots rebuilt per frame from spline points"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "decision", "text": "head pulse driven by each worm's voice loudness"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "step", "text": "draft sound: intro v3 score + story SFX and voices"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "decision", "text": "two sound drafts: A silence after blast, B music on"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "render", "text": "13 preview frames 480x270, about 1s each on GPU"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "fix", "text": "can drag: worms hidden by can, camera moved closer"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "fix", "text": "foil shot: hero on rim not visible, camera raised"}
+{"t": "2026-10-31T13:18:56+02:00", "phase": "animatic", "kind": "fix", "text": "control pebble blown out, key light down, wider"}
+{"t": "2026-10-31T13:18:57+02:00", "phase": "animatic", "kind": "fix", "text": "explosion flash too white, flash and fireball down"}
+{"t": "2026-10-31T13:19:26+02:00", "phase": "animatic", "kind": "render", "text": "animatic render started: 294 frames 960x540"}
+{"t": "2026-10-31T13:25:37+02:00", "phase": "animatic", "kind": "render", "text": "294 animatic frames done, about 0.67s each on GPU"}
+{"t": "2026-10-31T13:25:37+02:00", "phase": "animatic", "kind": "fix", "text": "extra cap gag too small to read, camera on hero+cap"}
+{"t": "2026-10-31T13:25:37+02:00", "phase": "animatic", "kind": "fix", "text": "fireball read as a white disc, dimmer and orange"}
+{"t": "2026-10-31T13:25:37+02:00", "phase": "animatic", "kind": "fix", "text": "rocket a black silhouette at launch, warm fill added"}
+{"t": "2026-10-31T13:30:16+02:00", "phase": "animatic", "kind": "render", "text": "re-rendered extra cap and launch shots"}
+{"t": "2026-10-31T13:30:16+02:00", "phase": "animatic", "kind": "fix", "text": "explosion out of frame top: lower climb, camera up"}
+{"t": "2026-10-31T13:30:16+02:00", "phase": "animatic", "kind": "error", "text": "faded fireball rendered as a black ball, frames 208-210"}
+{"t": "2026-10-31T13:30:17+02:00", "phase": "animatic", "kind": "fix", "text": "fireball hidden once it fades, frames re-rendered"}
+{"t": "2026-10-31T13:32:10+02:00", "phase": "animatic", "kind": "step", "text": "animatic assembled: intro v3 + story, 34.0 s, 960x540"}
+{"t": "2026-10-31T13:32:11+02:00", "phase": "animatic", "kind": "error", "text": "first mix true peak -1.4 dBTP, over the -1.5 limit"}
+{"t": "2026-10-31T13:32:11+02:00", "phase": "animatic", "kind": "fix", "text": "loudnorm TP -2.0: peak -1.8, loudness -16.6/-16.9 LUFS"}
+{"t": "2026-10-31T13:32:11+02:00", "phase": "animatic", "kind": "step", "text": "silent version checked at 2 fps, every gag reviewed"}
+{"t": "2026-10-31T13:32:11+02:00", "phase": "animatic", "kind": "stop", "text": "stage 2 STOP: animatic ready, waiting for Dima's ok"}
+{"t": "2026-10-31T13:43:36+02:00", "phase": "animatic", "kind": "stop", "text": "Dima replied: sound B, 3 animatic fixes before 1080p"}
+{"t": "2026-10-31T13:43:36+02:00", "phase": "animatic", "kind": "decision", "text": "sound B: music never stops, low after the explosion"}
+{"t": "2026-10-31T13:43:36+02:00", "phase": "animatic", "kind": "step", "text": "fix 1: extra cap gag as 4 cuts, hero big and brightest"}
+{"t": "2026-10-31T13:44:49+02:00", "phase": "animatic", "kind": "step", "text": "c_cap rebuilt: 4 cameras, cap beside hero, key+rim on him"}
+{"t": "2026-10-31T13:44:49+02:00", "phase": "animatic", "kind": "step", "text": "f/g: front fill plus rim spots on skeptic and hero"}
+{"t": "2026-10-31T13:44:49+02:00", "phase": "animatic", "kind": "step", "text": "b1: deeper wind-up, one-frame snap, can jumps further"}
+{"t": "2026-10-31T13:47:34+02:00", "phase": "animatic", "kind": "render", "text": "preview of fixes: 17 frames 960x540"}
+{"t": "2026-10-31T13:47:34+02:00", "phase": "animatic", "kind": "fix", "text": "rocket cut: hero dark and cropped, camera closer, key up"}
+{"t": "2026-10-31T13:47:34+02:00", "phase": "animatic", "kind": "fix", "text": "tail-flick cut: cap at frame edge, camera aimed left"}
+{"t": "2026-10-31T13:47:35+02:00", "phase": "animatic", "kind": "fix", "text": "silence push-in lost the skeptic, push stops shorter"}
+{"t": "2026-10-31T13:47:35+02:00", "phase": "animatic", "kind": "render", "text": "re-rendering b1, c, f, g: 127 frames"}
+{"t": "2026-10-31T13:50:39+02:00", "phase": "animatic", "kind": "render", "text": "127 frames re-rendered, about 0.7s each"}
+{"t": "2026-10-31T13:50:39+02:00", "phase": "animatic", "kind": "step", "text": "animatic v2 assembled, sound B -16.9 LUFS, peak -1.8"}
+{"t": "2026-10-31T13:50:39+02:00", "phase": "animatic", "kind": "step", "text": "v2 checked in the video at 4 fps: fixes read"}
+{"t": "2026-10-31T13:50:39+02:00", "phase": "animatic", "kind": "stop", "text": "stage 2 STOP again: animatic v2, waiting for ok"}
+{"t": "2026-10-31T17:28:21+02:00", "phase": "animatic", "kind": "stop", "text": "stage 2 STOP passed: Dima ok on animatic v2"}
+{"t": "2026-10-31T17:28:21+02:00", "phase": "tests", "kind": "step", "text": "Colab units before final work: 12.51 (from Dima)"}
+{"t": "2026-10-31T17:28:21+02:00", "phase": "tests", "kind": "step", "text": "stage 3: two 1920x1080 test frames, render estimate"}
+{"t": "2026-10-31T17:30:25+02:00", "phase": "tests", "kind": "error", "text": "Colab runtime was reset: Blender reinstalled, Drive remounte"}
+{"t": "2026-10-31T17:30:25+02:00", "phase": "tests", "kind": "decision", "text": "final story at 24 fps, same timing as the animatic"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "render", "text": "test 1080p c_cap F259: 7.46s first, 4.43s steady"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "render", "text": "test 1080p e_launch F409: 5.95s first, ~5.2s steady"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "render", "text": "g_helmet 1080p ~4.9s, hook 5.2s, ident 2.0s per frame"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "error", "text": "ident failed: DejaVu Serif font missing after reset"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "fix", "text": "installed fonts-dejavu-core on Colab, ident renders"}
+{"t": "2026-10-31T17:35:17+02:00", "phase": "tests", "kind": "decision", "text": "final: 1920x1080, 64 samples, OIDN, 6 bounces"}
+{"t": "2026-10-31T17:35:33+02:00", "phase": "tests", "kind": "step", "text": "estimate: 660 frames, about 52 min of GPU render"}
+{"t": "2026-10-31T17:35:33+02:00", "phase": "tests", "kind": "step", "text": "fireball reads as a flat faceted disc at 1080p"}
+{"t": "2026-10-31T17:35:33+02:00", "phase": "tests", "kind": "stop", "text": "stage 3 STOP: test frames and estimate shown"}
+{"t": "2026-10-31T17:37:43+02:00", "phase": "tests", "kind": "stop", "text": "stage 3 STOP passed: Dima ok 1080p, fix the fireball"}
+{"t": "2026-10-31T17:37:43+02:00", "phase": "tests", "kind": "step", "text": "fireball: smooth, hot core, red see-through soft rim"}
+{"t": "2026-10-31T17:37:43+02:00", "phase": "tests", "kind": "step", "text": "flash: peak 2-3 frames, fast decay, brown reads"}
+{"t": "2026-10-31T17:41:51+02:00", "phase": "tests", "kind": "render", "text": "fireball v2 frame 409: smooth, but core blown to white"}
+{"t": "2026-10-31T17:41:51+02:00", "phase": "tests", "kind": "fix", "text": "fireball strength 6 to 2.4, rim more see-through"}
+{"t": "2026-10-31T17:41:51+02:00", "phase": "tests", "kind": "render", "text": "fireball v3 frame 409 in 5.68s: orange core, brown bg"}
+{"t": "2026-10-31T17:41:52+02:00", "phase": "tests", "kind": "step", "text": "flash peak at 405, background brown again by 407"}
+{"t": "2026-10-31T17:41:52+02:00", "phase": "tests", "kind": "stop", "text": "frame 409 shown to Dima before the full render"}
+{"t": "2026-10-31T17:51:50+02:00", "phase": "tests", "kind": "stop", "text": "Dima ok on frame 409, full render approved"}
+{"t": "2026-10-31T17:51:50+02:00", "phase": "render", "kind": "render", "text": "full render started: 588 story + 72 intro, 1080p"}
+{"t": "2026-10-31T17:54:44+02:00", "phase": "render", "kind": "step", "text": "text card rebuilt at 1080p, fade timing measured from v3"}
+{"t": "2026-10-31T17:54:44+02:00", "phase": "render", "kind": "step", "text": "final assembly script: hook, ident, card, story, sound B"}
+{"t": "2026-10-31T18:17:02+02:00", "phase": "render", "kind": "render", "text": "248/588 story frames, about 4.4-5.7s each, checked"}
+{"t": "2026-10-31T18:44:36+02:00", "phase": "render", "kind": "render", "text": "all 588 story frames rendered, intro hook started"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "render", "kind": "render", "text": "render done 18:44: 588 story frames 2872.2s, mean 4.88s"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "render", "kind": "render", "text": "intro hook 30 + ident 42 frames at 1080p: 238.9s total"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "sound", "kind": "step", "text": "final sound: approved mix B, mastered to -16 LUFS"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "sound", "kind": "error", "text": "loudnorm one pass gave -16.9 LUFS, two pass -16.3"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "sound", "kind": "error", "text": "make-up gain pushed true peak to -1.47, over -1.5 limit"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "sound", "kind": "fix", "text": "limiter before make-up gain: -16.0 LUFS, -2.22 dBTP"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "assembly", "kind": "step", "text": "final 1920x1080 24fps 34.0s, 816 frames, assembled"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "assembly", "kind": "step", "text": "whole video checked: no silence, 3 expected holds"}
+{"t": "2026-10-31T18:53:54+02:00", "phase": "assembly", "kind": "step", "text": "flash at 26.333s vs boom placed at 26.300s in audio"}
+{"t": "2026-10-31T18:53:55+02:00", "phase": "done", "kind": "done", "text": "final video, frames and render logs copied to the PC"}
+{"t": "2026-10-31T18:55:14+02:00", "phase": "done", "kind": "done", "text": "0x-runs inbox package ready: README, prompt, code, media"}
+{"t": "2026-10-31T18:59:03+02:00", "phase": "done", "kind": "done", "text": "Colab units after: 9.68 (from Dima), used 2.83"}
+{"t": "2026-10-31T18:59:03+02:00", "phase": "done", "kind": "decision", "text": "estimate was 1.9-2.1 units, actual 2.83: over estimate"}
+{"t": "2026-10-31T19:00:19+02:00", "phase": "done", "kind": "done", "text": "Colab runtime released (runtime.unassign) on Dima's ok"}
+{"t": "2026-10-31T19:08:38+02:00", "phase": "v2", "kind": "stop", "text": "Dima accepted ep 1; asks real sky, firecracker blast, X cut"}
+{"t": "2026-10-31T19:08:38+02:00", "phase": "v2", "kind": "step", "text": "checking public-domain licences for star map and Mars"}
+{"t": "2026-10-31T19:09:29+02:00", "phase": "v2", "kind": "decision", "text": "Mars: USGS Viking color mosaic 925m, public domain"}
+{"t": "2026-10-31T19:09:29+02:00", "phase": "v2", "kind": "decision", "text": "stars procedural: SVS Deep Star Maps licence unclear (Gaia)"}
+{"t": "2026-10-31T19:11:15+02:00", "phase": "v2", "kind": "step", "text": "Colab runtime up again: Blender 5.2.3, Drive, Mars texture"}
+{"t": "2026-10-31T19:15:32+02:00", "phase": "v2", "kind": "step", "text": "sky.py: procedural stars + Milky Way, Viking Mars shader"}
+{"t": "2026-10-31T19:15:32+02:00", "phase": "v2", "kind": "step", "text": "intro_render.py: hook/ident with new sky, 2 s logo option"}
+{"t": "2026-10-31T19:15:32+02:00", "phase": "v2", "kind": "step", "text": "explosion v2: Mantaflow firecracker, fireball removed"}
+{"t": "2026-10-31T19:23:01+02:00", "phase": "v2", "kind": "error", "text": "star generator crashed: scalar indexed in the splat"}
+{"t": "2026-10-31T19:23:01+02:00", "phase": "v2", "kind": "fix", "text": "star splat weights fixed, hook and ident test frames ok"}
+{"t": "2026-10-31T19:23:01+02:00", "phase": "v2", "kind": "render", "text": "Mantaflow bake 18.0s, 34 frames of smoke cache"}
+{"t": "2026-10-31T19:23:01+02:00", "phase": "v2", "kind": "error", "text": "smoke not rendered: fluid modifier left the grid empty"}
+{"t": "2026-10-31T19:23:01+02:00", "phase": "v2", "kind": "fix", "text": "baked VDB sequence loaded as a Volume object instead"}
+{"t": "2026-10-31T19:30:34+02:00", "phase": "v2", "kind": "error", "text": "smoke too thin to see on brown, then a small black ball"}
+{"t": "2026-10-31T19:30:34+02:00", "phase": "v2", "kind": "fix", "text": "bigger burst, res 128, more curl, grey soot colour"}
+{"t": "2026-10-31T19:30:34+02:00", "phase": "v2", "kind": "fix", "text": "Mars: hook pale, ident too dark; strengths and rim retuned"}
+{"t": "2026-10-31T19:37:10+02:00", "phase": "v2", "kind": "fix", "text": "logo Mars was its red halo sphere; real Mars now at halo siz"}
+{"t": "2026-10-31T19:37:10+02:00", "phase": "v2", "kind": "fix", "text": "flame ragged and orange, fresh soot darker under the flash"}
+{"t": "2026-10-31T19:37:43+02:00", "phase": "v2", "kind": "render", "text": "v2 test frames 1080p: hook 5.26s, logo 2.39s, 406 11.33s, 42"}
+{"t": "2026-10-31T19:37:43+02:00", "phase": "v2", "kind": "step", "text": "estimate: about 11 min GPU, about 0.5-0.6 h runtime in all"}
+{"t": "2026-10-31T19:37:43+02:00", "phase": "v2", "kind": "stop", "text": "v2 STOP: 4 test frames shown, runtime released while waiting"}
+{"t": "2026-10-31T19:38:08+02:00", "phase": "v2", "kind": "done", "text": "Colab runtime released (runtime.unassign) during the STOP"}
+{"t": "2026-10-31T19:43:57+02:00", "phase": "v2", "kind": "stop", "text": "Dima ok on v2 test frames: full re-render and X cut"}
+{"t": "2026-10-31T19:45:23+02:00", "phase": "v2", "kind": "step", "text": "X cut sound: intro score rebuilt for 2 s logo + 2 s card"}
+{"t": "2026-10-31T19:45:23+02:00", "phase": "v2", "kind": "step", "text": "run_v2.sh and assemble_v2.sh: changed frames, two versions"}
+{"t": "2026-10-31T19:48:28+02:00", "phase": "v2", "kind": "step", "text": "Colab runtime up again for the v2 render"}
+{"t": "2026-10-31T19:53:47+02:00", "phase": "v2", "kind": "error", "text": "Drive mount failed twice on the new runtime (needs approval)"}
+{"t": "2026-10-31T19:58:37+02:00", "phase": "v2", "kind": "fix", "text": "Dima approved Drive access in Colab, mount ok"}
+{"t": "2026-10-31T20:07:10+02:00", "phase": "v2", "kind": "render", "text": "v2 render: hook 30, ident 42, X ident 24, 28 blast frames"}
+{"t": "2026-10-31T20:10:46+02:00", "phase": "v2", "kind": "error", "text": "assembly: Drive refuses symlinks; story list moved to local "}
+{"t": "2026-10-31T20:10:46+02:00", "phase": "v2", "kind": "error", "text": "X cut xfade failed: fps filter reset the timebase"}
+{"t": "2026-10-31T20:10:46+02:00", "phase": "v2", "kind": "fix", "text": "fps before settb: X cut 31.0s, -16.11 LUFS, -2.26 dBTP"}
+{"t": "2026-10-31T20:10:46+02:00", "phase": "v2", "kind": "step", "text": "full v2 34.0s, 816 frames, -16.09 LUFS, -2.22 dBTP"}
+{"t": "2026-10-31T20:12:42+02:00", "phase": "v2", "kind": "render", "text": "v2 GPU: blast 220.8s (28 fr), hook 153.3s, ident 88.7s, X id"}
+{"t": "2026-10-31T20:12:42+02:00", "phase": "v2", "kind": "step", "text": "both versions checked whole: no silence, sync within a frame"}
+{"t": "2026-10-31T20:12:42+02:00", "phase": "v2", "kind": "done", "text": "v2 full + X cut copied to PC, Colab runtime released"}
+{"t": "2026-10-31T20:38:24+02:00", "phase": "v2", "kind": "done", "text": "Colab units after v2: 8.02 (from Dima), v2 used 1.66"}
+{"t": "2026-10-31T21:28:08+02:00", "phase": "v3", "kind": "stop", "text": "Dima: v2 blast weaker; bring back fireball, soft smoke, dust"}
+{"t": "2026-10-31T21:30:06+02:00", "phase": "v3", "kind": "step", "text": "approved fireball restored as it was on frame 409"}
+{"t": "2026-10-31T21:30:06+02:00", "phase": "v3", "kind": "decision", "text": "smoke: soft volume puff, not Mantaflow (read as grey ball)"}
+{"t": "2026-10-31T21:30:06+02:00", "phase": "v3", "kind": "step", "text": "launch dust: soft volume puffs instead of faceted spheres"}
+{"t": "2026-10-31T21:33:51+02:00", "phase": "v3", "kind": "step", "text": "Colab up, rendering v3 check frames 385, 409, 421"}
+{"t": "2026-10-31T21:35:34+02:00", "phase": "v3", "kind": "fix", "text": "first soot too thin to read: denser, bigger, fuller noise"}
+{"t": "2026-10-31T21:35:34+02:00", "phase": "v3", "kind": "fix", "text": "soot outline read as a round fog ball: noise warp of the edg"}
+{"t": "2026-10-31T21:36:47+02:00", "phase": "v3", "kind": "render", "text": "v3 render started: launch+blast shot, frames 361-432"}
+{"t": "2026-10-31T21:51:44+02:00", "phase": "v3", "kind": "render", "text": "v3 shot E 72 frames: 662.3s, mean 9.2s per frame"}
+{"t": "2026-10-31T21:51:44+02:00", "phase": "v3", "kind": "step", "text": "v3 full 34.0s -16.09 LUFS, X 31.0s -16.11; no silence, sync "}
+{"t": "2026-10-31T21:51:44+02:00", "phase": "v3", "kind": "stop", "text": "v3 STOP: frames 409, 421, 385 shown, runtime released"}
+{"t": "2026-10-31T21:57:23+02:00", "phase": "v3", "kind": "stop", "text": "Dima ok on v3 blast; downloading both versions"}
+{"t": "2026-10-31T21:57:23+02:00", "phase": "v3", "kind": "done", "text": "v3 full + X cut on the PC: 34.0s / 31.0s, -16.0 LUFS"}
+{"t": "2026-10-31T22:14:26+02:00", "phase": "v3", "kind": "done", "text": "units after v3: 7.94 (8.02 before, 0.08 used)"}
